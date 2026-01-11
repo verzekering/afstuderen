@@ -1,0 +1,166 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/esri/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.7"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\exceptiongroup-1.0.0rc9-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/exceptiongroup-1.0.0rc9.dist-info/INSTALLER",
+    "Lib/site-packages/exceptiongroup-1.0.0rc9.dist-info/LICENSE",
+    "Lib/site-packages/exceptiongroup-1.0.0rc9.dist-info/METADATA",
+    "Lib/site-packages/exceptiongroup-1.0.0rc9.dist-info/RECORD",
+    "Lib/site-packages/exceptiongroup-1.0.0rc9.dist-info/REQUESTED",
+    "Lib/site-packages/exceptiongroup-1.0.0rc9.dist-info/WHEEL",
+    "Lib/site-packages/exceptiongroup-1.0.0rc9.dist-info/direct_url.json",
+    "Lib/site-packages/exceptiongroup/__init__.py",
+    "Lib/site-packages/exceptiongroup/_catch.py",
+    "Lib/site-packages/exceptiongroup/_exceptions.py",
+    "Lib/site-packages/exceptiongroup/_formatting.py",
+    "Lib/site-packages/exceptiongroup/_version.py",
+    "Lib/site-packages/exceptiongroup/py.typed",
+    ".nonadmin",
+    "Lib/site-packages/exceptiongroup/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/exceptiongroup/__pycache__/_catch.cpython-311.pyc",
+    "Lib/site-packages/exceptiongroup/__pycache__/_exceptions.cpython-311.pyc",
+    "Lib/site-packages/exceptiongroup/__pycache__/_formatting.cpython-311.pyc",
+    "Lib/site-packages/exceptiongroup/__pycache__/_version.cpython-311.pyc"
+  ],
+  "fn": "exceptiongroup-1.0.0rc9-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\exceptiongroup-1.0.0rc9-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "83fdd1b41adb92ac3ed445a8bf7883a4",
+  "name": "exceptiongroup",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\exceptiongroup-1.0.0rc9-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/exceptiongroup-1.0.0rc9.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/exceptiongroup-1.0.0rc9.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "6e5070d765031e0ad403a1cbf90ae6d19a0228f802e320b7acff460aa72ed47c",
+        "sha256_in_prefix": "6e5070d765031e0ad403a1cbf90ae6d19a0228f802e320b7acff460aa72ed47c",
+        "size_in_bytes": 3704
+      },
+      {
+        "_path": "site-packages/exceptiongroup-1.0.0rc9.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "8fe4395a1b65aaea1939e37f479d59aecb092bd1f9ca25fdc3e17dfb07cfc077",
+        "sha256_in_prefix": "8fe4395a1b65aaea1939e37f479d59aecb092bd1f9ca25fdc3e17dfb07cfc077",
+        "size_in_bytes": 6086
+      },
+      {
+        "_path": "site-packages/exceptiongroup-1.0.0rc9.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "8983f36c13454d68d66ad40e118c2371de1194e9849bec1e39050593e8f3f621",
+        "sha256_in_prefix": "8983f36c13454d68d66ad40e118c2371de1194e9849bec1e39050593e8f3f621",
+        "size_in_bytes": 1420
+      },
+      {
+        "_path": "site-packages/exceptiongroup-1.0.0rc9.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/exceptiongroup-1.0.0rc9.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "e137ca201ff1bbed386dcda22b3ebfcc5b7e80414410353fdf51c686acce084f",
+        "sha256_in_prefix": "e137ca201ff1bbed386dcda22b3ebfcc5b7e80414410353fdf51c686acce084f",
+        "size_in_bytes": 81
+      },
+      {
+        "_path": "site-packages/exceptiongroup-1.0.0rc9.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "626e7b53d09a242f321e852e50828b13c2db22e1f548b42624a3c812a9425e10",
+        "sha256_in_prefix": "626e7b53d09a242f321e852e50828b13c2db22e1f548b42624a3c812a9425e10",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/exceptiongroup/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "66bf8c3160d714c76b4410bc9d2f1416a0134502f467e2dbf9200daacfaebb42",
+        "sha256_in_prefix": "66bf8c3160d714c76b4410bc9d2f1416a0134502f467e2dbf9200daacfaebb42",
+        "size_in_bytes": 920
+      },
+      {
+        "_path": "site-packages/exceptiongroup/_catch.py",
+        "path_type": "hardlink",
+        "sha256": "9bb04745253f90acbfa6a30848f02b7fdf735b5460306d348bceb6ddfeffb04a",
+        "sha256_in_prefix": "9bb04745253f90acbfa6a30848f02b7fdf735b5460306d348bceb6ddfeffb04a",
+        "size_in_bytes": 3578
+      },
+      {
+        "_path": "site-packages/exceptiongroup/_exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "222e7797c972fa38e7eb8508029536c7791384b061a58aa5587513a346f87745",
+        "sha256_in_prefix": "222e7797c972fa38e7eb8508029536c7791384b061a58aa5587513a346f87745",
+        "size_in_bytes": 6688
+      },
+      {
+        "_path": "site-packages/exceptiongroup/_formatting.py",
+        "path_type": "hardlink",
+        "sha256": "6703682da9ee4c96019ffd35173366361c52180028813e460496d0df8dd6ff5a",
+        "sha256_in_prefix": "6703682da9ee4c96019ffd35173366361c52180028813e460496d0df8dd6ff5a",
+        "size_in_bytes": 11803
+      },
+      {
+        "_path": "site-packages/exceptiongroup/_version.py",
+        "path_type": "hardlink",
+        "sha256": "32996e9a5c0ce96ef41b2e55dd42490d6873ef0533c1e63bf1b30c3d8357896c",
+        "sha256_in_prefix": "32996e9a5c0ce96ef41b2e55dd42490d6873ef0533c1e63bf1b30c3d8357896c",
+        "size_in_bytes": 179
+      },
+      {
+        "_path": "site-packages/exceptiongroup/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_catch.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_exceptions.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_formatting.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/exceptiongroup/__pycache__/_version.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "esri/noarch::exceptiongroup==1.0.0rc9=pyhd8ed1ab_0",
+  "sha256": "6d06a637c43ec9fc61abfdeda3596a8a3fbcf5583cb516e82f38a4db109789b5",
+  "size": 16191,
+  "subdir": "noarch",
+  "timestamp": 1661724303822,
+  "url": "https://conda.anaconda.org/esri/noarch/exceptiongroup-1.0.0rc9-pyhd8ed1ab_0.conda",
+  "version": "1.0.0rc9"
+}

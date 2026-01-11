@@ -1,0 +1,718 @@
+{
+  "arch": "x86_64",
+  "build": "py311_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\python-duckdb-1.2.1-py311_0",
+  "files": [
+    "Lib/site-packages/adbc_driver_duckdb/__init__.py",
+    "Lib/site-packages/adbc_driver_duckdb/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/adbc_driver_duckdb/__pycache__/dbapi.cpython-311.pyc",
+    "Lib/site-packages/adbc_driver_duckdb/dbapi.py",
+    "Lib/site-packages/duckdb-1.2.1.dist-info/INSTALLER",
+    "Lib/site-packages/duckdb-1.2.1.dist-info/METADATA",
+    "Lib/site-packages/duckdb-1.2.1.dist-info/RECORD",
+    "Lib/site-packages/duckdb-1.2.1.dist-info/REQUESTED",
+    "Lib/site-packages/duckdb-1.2.1.dist-info/WHEEL",
+    "Lib/site-packages/duckdb-1.2.1.dist-info/direct_url.json",
+    "Lib/site-packages/duckdb-1.2.1.dist-info/top_level.txt",
+    "Lib/site-packages/duckdb-stubs/__init__.pyi",
+    "Lib/site-packages/duckdb-stubs/functional/__init__.pyi",
+    "Lib/site-packages/duckdb-stubs/typing/__init__.pyi",
+    "Lib/site-packages/duckdb-stubs/value/__init__.pyi",
+    "Lib/site-packages/duckdb-stubs/value/constant/__init__.pyi",
+    "Lib/site-packages/duckdb/__init__.py",
+    "Lib/site-packages/duckdb/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/duckdb/__pycache__/bytes_io_wrapper.cpython-311.pyc",
+    "Lib/site-packages/duckdb/__pycache__/filesystem.cpython-311.pyc",
+    "Lib/site-packages/duckdb/__pycache__/udf.cpython-311.pyc",
+    "Lib/site-packages/duckdb/bytes_io_wrapper.py",
+    "Lib/site-packages/duckdb/duckdb.cp311-win_amd64.pyd",
+    "Lib/site-packages/duckdb/experimental/__init__.py",
+    "Lib/site-packages/duckdb/experimental/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/__init__.py",
+    "Lib/site-packages/duckdb/experimental/spark/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/__pycache__/_globals.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/__pycache__/_typing.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/__pycache__/conf.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/__pycache__/context.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/__pycache__/exception.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/_globals.py",
+    "Lib/site-packages/duckdb/experimental/spark/_typing.py",
+    "Lib/site-packages/duckdb/experimental/spark/conf.py",
+    "Lib/site-packages/duckdb/experimental/spark/context.py",
+    "Lib/site-packages/duckdb/experimental/spark/errors/__init__.py",
+    "Lib/site-packages/duckdb/experimental/spark/errors/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/errors/__pycache__/error_classes.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/errors/__pycache__/utils.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/errors/error_classes.py",
+    "Lib/site-packages/duckdb/experimental/spark/errors/exceptions/__init__.py",
+    "Lib/site-packages/duckdb/experimental/spark/errors/exceptions/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/errors/exceptions/__pycache__/base.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/errors/exceptions/base.py",
+    "Lib/site-packages/duckdb/experimental/spark/errors/utils.py",
+    "Lib/site-packages/duckdb/experimental/spark/exception.py",
+    "Lib/site-packages/duckdb/experimental/spark/sql/__init__.py",
+    "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/_typing.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/catalog.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/column.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/conf.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/dataframe.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/functions.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/group.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/readwriter.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/session.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/streaming.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/type_utils.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/types.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/udf.cpython-311.pyc",
+    "Lib/site-packages/duckdb/experimental/spark/sql/_typing.py",
+    "Lib/site-packages/duckdb/experimental/spark/sql/catalog.py",
+    "Lib/site-packages/duckdb/experimental/spark/sql/column.py",
+    "Lib/site-packages/duckdb/experimental/spark/sql/conf.py",
+    "Lib/site-packages/duckdb/experimental/spark/sql/dataframe.py",
+    "Lib/site-packages/duckdb/experimental/spark/sql/functions.py",
+    "Lib/site-packages/duckdb/experimental/spark/sql/group.py",
+    "Lib/site-packages/duckdb/experimental/spark/sql/readwriter.py",
+    "Lib/site-packages/duckdb/experimental/spark/sql/session.py",
+    "Lib/site-packages/duckdb/experimental/spark/sql/streaming.py",
+    "Lib/site-packages/duckdb/experimental/spark/sql/type_utils.py",
+    "Lib/site-packages/duckdb/experimental/spark/sql/types.py",
+    "Lib/site-packages/duckdb/experimental/spark/sql/udf.py",
+    "Lib/site-packages/duckdb/filesystem.py",
+    "Lib/site-packages/duckdb/functional/__init__.py",
+    "Lib/site-packages/duckdb/functional/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/duckdb/query_graph/__main__.py",
+    "Lib/site-packages/duckdb/query_graph/__pycache__/__main__.cpython-311.pyc",
+    "Lib/site-packages/duckdb/typing/__init__.py",
+    "Lib/site-packages/duckdb/typing/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/duckdb/udf.py",
+    "Lib/site-packages/duckdb/value/__pycache__/constant.cpython-311.pyc",
+    "Lib/site-packages/duckdb/value/constant.py",
+    ".nonadmin"
+  ],
+  "fn": "python-duckdb-1.2.1-py311_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\python-duckdb-1.2.1-py311_0",
+    "type": 1
+  },
+  "md5": "80fbe4ceb25b48e9ce1ef96b4aad157e",
+  "name": "python-duckdb",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\python-duckdb-1.2.1-py311_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/adbc_driver_duckdb/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7dc52749026d9bbd310218e5ee1f846f9a707b4c8359580cf2c3b2c6ed23636f",
+        "sha256_in_prefix": "7dc52749026d9bbd310218e5ee1f846f9a707b4c8359580cf2c3b2c6ed23636f",
+        "size_in_bytes": 1627
+      },
+      {
+        "_path": "Lib/site-packages/adbc_driver_duckdb/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c805e9feda6e01c48f152a54c53ba8a9a96495f5fecff81172344bc8d336e10c",
+        "sha256_in_prefix": "c805e9feda6e01c48f152a54c53ba8a9a96495f5fecff81172344bc8d336e10c",
+        "size_in_bytes": 1562
+      },
+      {
+        "_path": "Lib/site-packages/adbc_driver_duckdb/__pycache__/dbapi.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "89423512b9dd71390abeff9c5208c2eb12bbefcd313d44848605c393bbe3bf65",
+        "sha256_in_prefix": "89423512b9dd71390abeff9c5208c2eb12bbefcd313d44848605c393bbe3bf65",
+        "size_in_bytes": 2518
+      },
+      {
+        "_path": "Lib/site-packages/adbc_driver_duckdb/dbapi.py",
+        "path_type": "hardlink",
+        "sha256": "3c615817ce562be00b2fdec393161b81f5f49d497bdf48103a63226c170ccb99",
+        "sha256_in_prefix": "3c615817ce562be00b2fdec393161b81f5f49d497bdf48103a63226c170ccb99",
+        "size_in_bytes": 3442
+      },
+      {
+        "_path": "Lib/site-packages/duckdb-1.2.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/duckdb-1.2.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "5ee75509cd5fb1e1aafde04b988f0d63aa3f500115d7abc748198f6f9b7adc06",
+        "sha256_in_prefix": "5ee75509cd5fb1e1aafde04b988f0d63aa3f500115d7abc748198f6f9b7adc06",
+        "size_in_bytes": 995
+      },
+      {
+        "_path": "Lib/site-packages/duckdb-1.2.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "999e85d6acab6617b59fb68fcee6bcd55a245786abff086ab088bc03bae03574",
+        "sha256_in_prefix": "999e85d6acab6617b59fb68fcee6bcd55a245786abff086ab088bc03bae03574",
+        "size_in_bytes": 500199
+      },
+      {
+        "_path": "Lib/site-packages/duckdb-1.2.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/duckdb-1.2.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "c8d9c7a102f61996085179bd62fa1a0691631a55282bdaaaf68a987ae76b5a51",
+        "sha256_in_prefix": "c8d9c7a102f61996085179bd62fa1a0691631a55282bdaaaf68a987ae76b5a51",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "Lib/site-packages/duckdb-1.2.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "816bffc492f0cc381b73b22f6617f373f96d0be1a62cfeff01c5b9caff407c00",
+        "sha256_in_prefix": "816bffc492f0cc381b73b22f6617f373f96d0be1a62cfeff01c5b9caff407c00",
+        "size_in_bytes": 108
+      },
+      {
+        "_path": "Lib/site-packages/duckdb-1.2.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "3c9e68f38edbaca5570e9ace2d82b17cbb5bea21fb35566da2d83b3712241bee",
+        "sha256_in_prefix": "3c9e68f38edbaca5570e9ace2d82b17cbb5bea21fb35566da2d83b3712241bee",
+        "size_in_bytes": 39
+      },
+      {
+        "_path": "Lib/site-packages/duckdb-stubs/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "42a14d7f667b3834ab8a93d4775c06f7a25f8a89eef71e181f31ab3b14d8e557",
+        "sha256_in_prefix": "42a14d7f667b3834ab8a93d4775c06f7a25f8a89eef71e181f31ab3b14d8e557",
+        "size_in_bytes": 47128
+      },
+      {
+        "_path": "Lib/site-packages/duckdb-stubs/functional/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "e1e026fb07f254101d04d398ff449e31d2f1bbf361f9a94bb1182844dcb953d8",
+        "sha256_in_prefix": "e1e026fb07f254101d04d398ff449e31d2f1bbf361f9a94bb1182844dcb953d8",
+        "size_in_bytes": 809
+      },
+      {
+        "_path": "Lib/site-packages/duckdb-stubs/typing/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "dc0d6d2528dcec246e91419d82424a3d61bb27de1aa764ee14697bad13097e96",
+        "sha256_in_prefix": "dc0d6d2528dcec246e91419d82424a3d61bb27de1aa764ee14697bad13097e96",
+        "size_in_bytes": 948
+      },
+      {
+        "_path": "Lib/site-packages/duckdb-stubs/value/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/duckdb-stubs/value/constant/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "eb0914a62c4f9e3f07993197bde5031230e424416e811af602284617afd18f51",
+        "sha256_in_prefix": "eb0914a62c4f9e3f07993197bde5031230e424416e811af602284617afd18f51",
+        "size_in_bytes": 3310
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c842edf46dadc435ae268f2426af9a6e5f71c1e79bac82dad8f7eb40fa8f3fcb",
+        "sha256_in_prefix": "c842edf46dadc435ae268f2426af9a6e5f71c1e79bac82dad8f7eb40fa8f3fcb",
+        "size_in_bytes": 7255
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ec0acaf6265758d6337edd25c77d06aa23bdfc8ef821dc41626842add0526d1c",
+        "sha256_in_prefix": "ec0acaf6265758d6337edd25c77d06aa23bdfc8ef821dc41626842add0526d1c",
+        "size_in_bytes": 7534
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/__pycache__/bytes_io_wrapper.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e3620bfaffb1d5dbcac3523ea4f68f37c5dfa255c10a373e1e1055ba127d18f8",
+        "sha256_in_prefix": "e3620bfaffb1d5dbcac3523ea4f68f37c5dfa255c10a373e1e1055ba127d18f8",
+        "size_in_bytes": 1849
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/__pycache__/filesystem.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f9fda69d5db633126a06aa50c8b81015be6d947d38cf3a3d4ba8c4bcbb066b26",
+        "sha256_in_prefix": "f9fda69d5db633126a06aa50c8b81015be6d947d38cf3a3d4ba8c4bcbb066b26",
+        "size_in_bytes": 1774
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/__pycache__/udf.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7618f0c0abebee54615bbebd3bca9348f5acc5e7a4dfcaa8d63129e96074ff40",
+        "sha256_in_prefix": "7618f0c0abebee54615bbebd3bca9348f5acc5e7a4dfcaa8d63129e96074ff40",
+        "size_in_bytes": 1059
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/bytes_io_wrapper.py",
+        "path_type": "hardlink",
+        "sha256": "ead11beddceea24a9212e42bb4119ce78e98c8e9dc8ad7e2ea050e3b738b22eb",
+        "sha256_in_prefix": "ead11beddceea24a9212e42bb4119ce78e98c8e9dc8ad7e2ea050e3b738b22eb",
+        "size_in_bytes": 2984
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/duckdb.cp311-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "fcb1bf06adb6fcf4e2db5007b3a3ce121db9a2088e32539d46940024b2ef13f4",
+        "sha256_in_prefix": "fcb1bf06adb6fcf4e2db5007b3a3ce121db9a2088e32539d46940024b2ef13f4",
+        "size_in_bytes": 31008768
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "76c6a8bbf0319b85b8b8cca51f83550ba2ad4752478d1d197678b49629408a1f",
+        "sha256_in_prefix": "76c6a8bbf0319b85b8b8cca51f83550ba2ad4752478d1d197678b49629408a1f",
+        "size_in_bytes": 44
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7881cf41c159a8c7796d723ef8912b3abdeab1ada129c5fa85331ea8ea7ecbb9",
+        "sha256_in_prefix": "7881cf41c159a8c7796d723ef8912b3abdeab1ada129c5fa85331ea8ea7ecbb9",
+        "size_in_bytes": 230
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "cfcfed5e7639542114bba7e33551fc665945abf63888f01cad61e63e0d6fd52a",
+        "sha256_in_prefix": "cfcfed5e7639542114bba7e33551fc665945abf63888f01cad61e63e0d6fd52a",
+        "size_in_bytes": 284
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ecf99c55df0605af4e2e76e4e926db71bd131e29c68fdb6c2cf045bb1232eeca",
+        "sha256_in_prefix": "ecf99c55df0605af4e2e76e4e926db71bd131e29c68fdb6c2cf045bb1232eeca",
+        "size_in_bytes": 544
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/__pycache__/_globals.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c846fa6e2df394fcd9048b5e57ddab8f812a8344b69c0014cc196761570f5b01",
+        "sha256_in_prefix": "c846fa6e2df394fcd9048b5e57ddab8f812a8344b69c0014cc196761570f5b01",
+        "size_in_bytes": 2404
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/__pycache__/_typing.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b8673bbe8a6ae4e25a546b0c36859c22d56ce0329f5bedd5235609834cc81a56",
+        "sha256_in_prefix": "b8673bbe8a6ae4e25a546b0c36859c22d56ce0329f5bedd5235609834cc81a56",
+        "size_in_bytes": 2003
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/__pycache__/conf.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6b408865ad68015dae587fcfdd1121f62f521fc03ceef4428d87ddef3209919c",
+        "sha256_in_prefix": "6b408865ad68015dae587fcfdd1121f62f521fc03ceef4428d87ddef3209919c",
+        "size_in_bytes": 3067
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/__pycache__/context.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "505ad28effa884a09709d77f5703992860db3b1e1d88e50e58d0fc564473a21d",
+        "sha256_in_prefix": "505ad28effa884a09709d77f5703992860db3b1e1d88e50e58d0fc564473a21d",
+        "size_in_bytes": 6561
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/__pycache__/exception.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "55811eb0b4b019f52db62ab16475036f8e70e7398580341c5ad6f7ea3a19c05f",
+        "sha256_in_prefix": "55811eb0b4b019f52db62ab16475036f8e70e7398580341c5ad6f7ea3a19c05f",
+        "size_in_bytes": 1172
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/_globals.py",
+        "path_type": "hardlink",
+        "sha256": "10664fcdd6afedae60e75f94d925ea1c2035d5a254df99308d46d036a4b3b6d9",
+        "sha256_in_prefix": "10664fcdd6afedae60e75f94d925ea1c2035d5a254df99308d46d036a4b3b6d9",
+        "size_in_bytes": 2434
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/_typing.py",
+        "path_type": "hardlink",
+        "sha256": "119b9f140f45521a30c428dd116b7f28ce6f6f748ac2833dd7b2bdff7606e267",
+        "sha256_in_prefix": "119b9f140f45521a30c428dd116b7f28ce6f6f748ac2833dd7b2bdff7606e267",
+        "size_in_bytes": 1525
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/conf.py",
+        "path_type": "hardlink",
+        "sha256": "67d5ae7958b3944fbc0d2469f6ae708896cdbdc0812102611d6f57c94a708a86",
+        "sha256_in_prefix": "67d5ae7958b3944fbc0d2469f6ae708896cdbdc0812102611d6f57c94a708a86",
+        "size_in_bytes": 1398
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/context.py",
+        "path_type": "hardlink",
+        "sha256": "431c8ab698b4d5957ac13a9133e93e80c55bce82431b5a63eba78ff932b75e10",
+        "sha256_in_prefix": "431c8ab698b4d5957ac13a9133e93e80c55bce82431b5a63eba78ff932b75e10",
+        "size_in_bytes": 6209
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/errors/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "44385c0f4f20408cced49545654bbec118f5b5dd8d3afae8fd0b32cb73087b1b",
+        "sha256_in_prefix": "44385c0f4f20408cced49545654bbec118f5b5dd8d3afae8fd0b32cb73087b1b",
+        "size_in_bytes": 2146
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/errors/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5300f75ef952e2ffd6ac7b908c9dfbcafc9a735f159a3968f6d9638f026a0151",
+        "sha256_in_prefix": "5300f75ef952e2ffd6ac7b908c9dfbcafc9a735f159a3968f6d9638f026a0151",
+        "size_in_bytes": 1251
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/errors/__pycache__/error_classes.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "fa7a5079cf6727c241a0b9e48e8ff70afe126c581b5237c42407a5174c6fa3a9",
+        "sha256_in_prefix": "fa7a5079cf6727c241a0b9e48e8ff70afe126c581b5237c42407a5174c6fa3a9",
+        "size_in_bytes": 26653
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/errors/__pycache__/utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a2cd0a1b356480d327070031feeda73fc5b991bad10be678787b856c8571c9e0",
+        "sha256_in_prefix": "a2cd0a1b356480d327070031feeda73fc5b991bad10be678787b856c8571c9e0",
+        "size_in_bytes": 4460
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/errors/error_classes.py",
+        "path_type": "hardlink",
+        "sha256": "648850729bc2db01f517333b7daed4401508790d5b453f9502b6c2e934f4931d",
+        "sha256_in_prefix": "648850729bc2db01f517333b7daed4401508790d5b453f9502b6c2e934f4931d",
+        "size_in_bytes": 27249
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/errors/exceptions/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7346ca62321a7dfa2a926ed981a479dceeb8a47df7058cd2cc5c4d14fc1e4a35",
+        "sha256_in_prefix": "7346ca62321a7dfa2a926ed981a479dceeb8a47df7058cd2cc5c4d14fc1e4a35",
+        "size_in_bytes": 784
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/errors/exceptions/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "468a7235eae0a13fb40fae542e1ee38d70def3aa72c6dc992f6e5a8f7ccb06a3",
+        "sha256_in_prefix": "468a7235eae0a13fb40fae542e1ee38d70def3aa72c6dc992f6e5a8f7ccb06a3",
+        "size_in_bytes": 182
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/errors/exceptions/__pycache__/base.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "aded733fce1841befacf6086910a485b80f20ff984526384a36b1b6d69b98895",
+        "sha256_in_prefix": "aded733fce1841befacf6086910a485b80f20ff984526384a36b1b6d69b98895",
+        "size_in_bytes": 9389
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/errors/exceptions/base.py",
+        "path_type": "hardlink",
+        "sha256": "93458c3fb128221b58a9b612b9fc982d89ca636bb3081f16320ef8f896639ea2",
+        "sha256_in_prefix": "93458c3fb128221b58a9b612b9fc982d89ca636bb3081f16320ef8f896639ea2",
+        "size_in_bytes": 5360
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/errors/utils.py",
+        "path_type": "hardlink",
+        "sha256": "8079a0d72acdeab0135281c6bb3b280de025f8b50b46730bea247f7653305139",
+        "sha256_in_prefix": "8079a0d72acdeab0135281c6bb3b280de025f8b50b46730bea247f7653305139",
+        "size_in_bytes": 4438
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/exception.py",
+        "path_type": "hardlink",
+        "sha256": "5cba38973e30adae8c26c6d9d0c5a75341d6271d947d41d484dfeae5dcc55723",
+        "sha256_in_prefix": "5cba38973e30adae8c26c6d9d0c5a75341d6271d947d41d484dfeae5dcc55723",
+        "size_in_bytes": 535
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "47cdcc2a08a4a7a6f036ff4c57f315d788101703890397ff06169358dbb4078c",
+        "sha256_in_prefix": "47cdcc2a08a4a7a6f036ff4c57f315d788101703890397ff06169358dbb4078c",
+        "size_in_bytes": 256
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2ace6c5397e49d5fd57430436a35c34d6612c45aaabde0c356afe0187e312b44",
+        "sha256_in_prefix": "2ace6c5397e49d5fd57430436a35c34d6612c45aaabde0c356afe0187e312b44",
+        "size_in_bytes": 517
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/_typing.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c32bb3aa18e3f6cc9dc6cbe15ef219e9d9450b9503c27237b8bbeaff4eecacff",
+        "sha256_in_prefix": "c32bb3aa18e3f6cc9dc6cbe15ef219e9d9450b9503c27237b8bbeaff4eecacff",
+        "size_in_bytes": 3927
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/catalog.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "64a08cf55d3db719cf8de3a61550565f56baaa69bb2b94c0f8b2a137b1f282b4",
+        "sha256_in_prefix": "64a08cf55d3db719cf8de3a61550565f56baaa69bb2b94c0f8b2a137b1f282b4",
+        "size_in_bytes": 6067
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/column.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6d1057203895c7ef09e2f398d901268da5502bbee029be5d3f808549bbb2407f",
+        "sha256_in_prefix": "6d1057203895c7ef09e2f398d901268da5502bbee029be5d3f808549bbb2407f",
+        "size_in_bytes": 15982
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/conf.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "65ea5464f1b0b6221d45692ea6632a103e74f94157e7361b9b38a6ab3d3845a0",
+        "sha256_in_prefix": "65ea5464f1b0b6221d45692ea6632a103e74f94157e7361b9b38a6ab3d3845a0",
+        "size_in_bytes": 1755
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/dataframe.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "06e77995065e7087da7cf847ccfc6079a0f6b14edada3da7d512f169d2f902db",
+        "sha256_in_prefix": "06e77995065e7087da7cf847ccfc6079a0f6b14edada3da7d512f169d2f902db",
+        "size_in_bytes": 59627
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/functions.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0248495fd5b48c980b126a32e721ac30f0d26746360a04cc53a07aa37e5fca51",
+        "sha256_in_prefix": "0248495fd5b48c980b126a32e721ac30f0d26746360a04cc53a07aa37e5fca51",
+        "size_in_bytes": 190390
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/group.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3d657df537312abfee5dda972568b34bcf6adb09fcd41775d7790c27626639bc",
+        "sha256_in_prefix": "3d657df537312abfee5dda972568b34bcf6adb09fcd41775d7790c27626639bc",
+        "size_in_bytes": 17076
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/readwriter.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d2921daaca2a8b89649ed120cd9bbc31d238cdebb673bb18c2d8ecf6ecfdd141",
+        "sha256_in_prefix": "d2921daaca2a8b89649ed120cd9bbc31d238cdebb673bb18c2d8ecf6ecfdd141",
+        "size_in_bytes": 18549
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/session.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "50a0609ba1611b66015f264e8ab6595244372a7b392c718d2d280a655f3459f1",
+        "sha256_in_prefix": "50a0609ba1611b66015f264e8ab6595244372a7b392c718d2d280a655f3459f1",
+        "size_in_bytes": 14833
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/streaming.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e52c79495a5053eca8bc11a668dd4031931af872f971da8ce9511a682c749717",
+        "sha256_in_prefix": "e52c79495a5053eca8bc11a668dd4031931af872f971da8ce9511a682c749717",
+        "size_in_bytes": 2197
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/type_utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8a66132c45e8c92c9d6c01572b1e6e8921809ff9aa713938aaedcd6ccfd8039b",
+        "sha256_in_prefix": "8a66132c45e8c92c9d6c01572b1e6e8921809ff9aa713938aaedcd6ccfd8039b",
+        "size_in_bytes": 4757
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/types.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "68c5ace56f12754ea29a8cd71cc93c1739180ea564cbaa7dd71f332bc126c8ac",
+        "sha256_in_prefix": "68c5ace56f12754ea29a8cd71cc93c1739180ea564cbaa7dd71f332bc126c8ac",
+        "size_in_bytes": 76050
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/__pycache__/udf.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "14430ba971ff9fc3029da83ac5de4b12eef754cdc094934c3782999386040ba1",
+        "sha256_in_prefix": "14430ba971ff9fc3029da83ac5de4b12eef754cdc094934c3782999386040ba1",
+        "size_in_bytes": 2135
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/_typing.py",
+        "path_type": "hardlink",
+        "sha256": "e42c1cceea3144b708c277c64f83960b5f67e9cb6c0bc24528d8d8e3243ea451",
+        "sha256_in_prefix": "e42c1cceea3144b708c277c64f83960b5f67e9cb6c0bc24528d8d8e3243ea451",
+        "size_in_bytes": 2361
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/catalog.py",
+        "path_type": "hardlink",
+        "sha256": "2bc5bce5c71794df0bcd1640921e73a45bc4ae93620f24a000e2f4ac07c4004c",
+        "sha256_in_prefix": "2bc5bce5c71794df0bcd1640921e73a45bc4ae93620f24a000e2f4ac07c4004c",
+        "size_in_bytes": 2284
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/column.py",
+        "path_type": "hardlink",
+        "sha256": "274449ad1ef858dfbc5965cc587b4292aced72b610f16b927f039ce332655255",
+        "sha256_in_prefix": "274449ad1ef858dfbc5965cc587b4292aced72b610f16b927f039ce332655255",
+        "size_in_bytes": 10708
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/conf.py",
+        "path_type": "hardlink",
+        "sha256": "f3221c003f12e13d5fe4bd4c9e331ff3a2d7c41001bba95b24926b77f975e58f",
+        "sha256_in_prefix": "f3221c003f12e13d5fe4bd4c9e331ff3a2d7c41001bba95b24926b77f975e58f",
+        "size_in_bytes": 656
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/dataframe.py",
+        "path_type": "hardlink",
+        "sha256": "4932f40d9587dd07d10169084cabea8f5b3cf05334fcb488aa8757c847452559",
+        "sha256_in_prefix": "4932f40d9587dd07d10169084cabea8f5b3cf05334fcb488aa8757c847452559",
+        "size_in_bytes": 45610
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/functions.py",
+        "path_type": "hardlink",
+        "sha256": "610a78eed78b3093b47a75b3e59f6ccde1920eec38ff9c1a70b6bf8e5e88aeb0",
+        "sha256_in_prefix": "610a78eed78b3093b47a75b3e59f6ccde1920eec38ff9c1a70b6bf8e5e88aeb0",
+        "size_in_bytes": 168284
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/group.py",
+        "path_type": "hardlink",
+        "sha256": "776ae88c3793941d5a4595344c5152746c0ee9b8973bca3e80b2e22a61459cd0",
+        "sha256_in_prefix": "776ae88c3793941d5a4595344c5152746c0ee9b8973bca3e80b2e22a61459cd0",
+        "size_in_bytes": 13275
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/readwriter.py",
+        "path_type": "hardlink",
+        "sha256": "aba36576a7a0e45133a9c734c9dce524f7ce929abc5abc7dfb9dbb9963cff53b",
+        "sha256_in_prefix": "aba36576a7a0e45133a9c734c9dce524f7ce929abc5abc7dfb9dbb9963cff53b",
+        "size_in_bytes": 17301
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/session.py",
+        "path_type": "hardlink",
+        "sha256": "4d6ad4c9ea5300815631abd8c20b8f88d1d51a97374474172badcc41f8504b50",
+        "sha256_in_prefix": "4d6ad4c9ea5300815631abd8c20b8f88d1d51a97374474172badcc41f8504b50",
+        "size_in_bytes": 8998
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/streaming.py",
+        "path_type": "hardlink",
+        "sha256": "5ec5d98eda5b7ae1874065e8833bc0a44510c5ee28ebe607bf2eb3e0071d4f9a",
+        "sha256_in_prefix": "5ec5d98eda5b7ae1874065e8833bc0a44510c5ee28ebe607bf2eb3e0071d4f9a",
+        "size_in_bytes": 1023
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/type_utils.py",
+        "path_type": "hardlink",
+        "sha256": "628531ab92a1c1f1dbe0208829a10021b3374773a5e7f5c4ae36d1277d1e2020",
+        "sha256_in_prefix": "628531ab92a1c1f1dbe0208829a10021b3374773a5e7f5c4ae36d1277d1e2020",
+        "size_in_bytes": 2954
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/types.py",
+        "path_type": "hardlink",
+        "sha256": "02b1983cf143215f2c7a897b11dc6224f66db55e4b77c7733774c498250335a2",
+        "sha256_in_prefix": "02b1983cf143215f2c7a897b11dc6224f66db55e4b77c7733774c498250335a2",
+        "size_in_bytes": 39159
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/experimental/spark/sql/udf.py",
+        "path_type": "hardlink",
+        "sha256": "c2e976c2a9db57877dcc5983c381ba64489175d5243c76addc7635c4be6ee5d4",
+        "sha256_in_prefix": "c2e976c2a9db57877dcc5983c381ba64489175d5243c76addc7635c4be6ee5d4",
+        "size_in_bytes": 1081
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/filesystem.py",
+        "path_type": "hardlink",
+        "sha256": "f658646d86c9f296bffc57996977bac43c874493fecf8b7d5bbacc7bc01dcf7e",
+        "sha256_in_prefix": "f658646d86c9f296bffc57996977bac43c874493fecf8b7d5bbacc7bc01dcf7e",
+        "size_in_bytes": 996
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/functional/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3271541c9fb75f1ab96808e0ca4c3fbb6a896bff7c8826767655aa03b7df0e39",
+        "sha256_in_prefix": "3271541c9fb75f1ab96808e0ca4c3fbb6a896bff7c8826767655aa03b7df0e39",
+        "size_in_bytes": 218
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/functional/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5a48c036068fcad1dcc404c3723bb0174ac1a57b0c8dcb9b1fd7d29e4dcebcc4",
+        "sha256_in_prefix": "5a48c036068fcad1dcc404c3723bb0174ac1a57b0c8dcb9b1fd7d29e4dcebcc4",
+        "size_in_bytes": 426
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/query_graph/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "f363872f537a681f5395b98a267cbcc3f11dc499e28eafe912da3534e4f48424",
+        "sha256_in_prefix": "f363872f537a681f5395b98a267cbcc3f11dc499e28eafe912da3534e4f48424",
+        "size_in_bytes": 11259
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/query_graph/__pycache__/__main__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2134b2c7bd22e11ae4adf79a11960c73d24a13e09f23f14aff62a134aef78f4b",
+        "sha256_in_prefix": "2134b2c7bd22e11ae4adf79a11960c73d24a13e09f23f14aff62a134aef78f4b",
+        "size_in_bytes": 16797
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/typing/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "15fa1a0a08a8901f47e34219f98eabfec83ba13aef36c1a3141270fba8641d5e",
+        "sha256_in_prefix": "15fa1a0a08a8901f47e34219f98eabfec83ba13aef36c1a3141270fba8641d5e",
+        "size_in_bytes": 860
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/typing/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c91fed6c4ee05a2a4e1b1195c7880d6504fcd112498708e4296639e96b7c2282",
+        "sha256_in_prefix": "c91fed6c4ee05a2a4e1b1195c7880d6504fcd112498708e4296639e96b7c2282",
+        "size_in_bytes": 1031
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/udf.py",
+        "path_type": "hardlink",
+        "sha256": "738798b3aa7d47950cc908dc1cda0b4e4b214a82aeb64545e31c0c96ad1f9638",
+        "sha256_in_prefix": "738798b3aa7d47950cc908dc1cda0b4e4b214a82aeb64545e31c0c96ad1f9638",
+        "size_in_bytes": 674
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/value/__pycache__/constant.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7d212b5327dc90e0b0728e3b690f76a3ee6792e3699808210c575bb4025413b2",
+        "sha256_in_prefix": "7d212b5327dc90e0b0728e3b690f76a3ee6792e3699808210c575bb4025413b2",
+        "size_in_bytes": 17398
+      },
+      {
+        "_path": "Lib/site-packages/duckdb/value/constant.py",
+        "path_type": "hardlink",
+        "sha256": "5cc29b1f2f7156db00e7d1b9d39de6fd44cd006ced84057125b03c8212aa989c",
+        "sha256_in_prefix": "5cc29b1f2f7156db00e7d1b9d39de6fd44cd006ced84057125b03c8212aa989c",
+        "size_in_bytes": 5516
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "esri/win-64::python-duckdb==1.2.1=py311_0",
+  "sha256": "f32cc218a0476a9d9430b5575ce045dc4a406b90268f0ce2f6f6147eb713c1aa",
+  "size": 9094065,
+  "subdir": "win-64",
+  "timestamp": 1741301423501,
+  "url": "https://conda.anaconda.org/esri/win-64/python-duckdb-1.2.1-py311_0.conda",
+  "version": "1.2.1"
+}

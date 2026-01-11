@@ -1,0 +1,330 @@
+{
+  "arch": "x86_64",
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\xtl-0.7.5-0",
+  "files": [
+    "Library/include/xtl/xany.hpp",
+    "Library/include/xtl/xbase64.hpp",
+    "Library/include/xtl/xbasic_fixed_string.hpp",
+    "Library/include/xtl/xclosure.hpp",
+    "Library/include/xtl/xcompare.hpp",
+    "Library/include/xtl/xcomplex.hpp",
+    "Library/include/xtl/xcomplex_sequence.hpp",
+    "Library/include/xtl/xdynamic_bitset.hpp",
+    "Library/include/xtl/xfunctional.hpp",
+    "Library/include/xtl/xhalf_float.hpp",
+    "Library/include/xtl/xhalf_float_impl.hpp",
+    "Library/include/xtl/xhash.hpp",
+    "Library/include/xtl/xhierarchy_generator.hpp",
+    "Library/include/xtl/xiterator_base.hpp",
+    "Library/include/xtl/xjson.hpp",
+    "Library/include/xtl/xmasked_value.hpp",
+    "Library/include/xtl/xmasked_value_meta.hpp",
+    "Library/include/xtl/xmeta_utils.hpp",
+    "Library/include/xtl/xmultimethods.hpp",
+    "Library/include/xtl/xoptional.hpp",
+    "Library/include/xtl/xoptional_meta.hpp",
+    "Library/include/xtl/xoptional_sequence.hpp",
+    "Library/include/xtl/xplatform.hpp",
+    "Library/include/xtl/xproxy_wrapper.hpp",
+    "Library/include/xtl/xsequence.hpp",
+    "Library/include/xtl/xspan.hpp",
+    "Library/include/xtl/xspan_impl.hpp",
+    "Library/include/xtl/xsystem.hpp",
+    "Library/include/xtl/xtl_config.hpp",
+    "Library/include/xtl/xtype_traits.hpp",
+    "Library/include/xtl/xvariant.hpp",
+    "Library/include/xtl/xvariant_impl.hpp",
+    "Library/include/xtl/xvisitor.hpp",
+    "Library/share/cmake/xtl/xtlConfig.cmake",
+    "Library/share/cmake/xtl/xtlConfigVersion.cmake",
+    "Library/share/cmake/xtl/xtlTargets.cmake",
+    "Library/share/pkgconfig/xtl.pc",
+    ".nonadmin"
+  ],
+  "fn": "xtl-0.7.5-0.conda",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\xtl-0.7.5-0",
+    "type": 1
+  },
+  "md5": "899381e2e11c63604822165788ea26a9",
+  "name": "xtl",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\xtl-0.7.5-0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/include/xtl/xany.hpp",
+        "path_type": "hardlink",
+        "sha256": "988849e7686c89f2576d165c73731cf881e32597de56ace24ededfdf4b203847",
+        "sha256_in_prefix": "988849e7686c89f2576d165c73731cf881e32597de56ace24ededfdf4b203847",
+        "size_in_bytes": 17320
+      },
+      {
+        "_path": "Library/include/xtl/xbase64.hpp",
+        "path_type": "hardlink",
+        "sha256": "387dbdc53d317932ad1170d29aac36490af1da4df330b0dd8cb23093fbe7f83f",
+        "sha256_in_prefix": "387dbdc53d317932ad1170d29aac36490af1da4df330b0dd8cb23093fbe7f83f",
+        "size_in_bytes": 2337
+      },
+      {
+        "_path": "Library/include/xtl/xbasic_fixed_string.hpp",
+        "path_type": "hardlink",
+        "sha256": "45b05d074eed73c799f35472d9f12245b4a450c51d30f6788a035ca9eef4e292",
+        "sha256_in_prefix": "45b05d074eed73c799f35472d9f12245b4a450c51d30f6788a035ca9eef4e292",
+        "size_in_bytes": 100835
+      },
+      {
+        "_path": "Library/include/xtl/xclosure.hpp",
+        "path_type": "hardlink",
+        "sha256": "2f46f8804512198142d254a0902b2b067cd7df5cb4abfaa55f4387fe9227abdf",
+        "sha256_in_prefix": "2f46f8804512198142d254a0902b2b067cd7df5cb4abfaa55f4387fe9227abdf",
+        "size_in_bytes": 12658
+      },
+      {
+        "_path": "Library/include/xtl/xcompare.hpp",
+        "path_type": "hardlink",
+        "sha256": "da2b1fc3f431f2c74c23cc32e019c958e051272e0b5c9579c6832959dbcca6ae",
+        "sha256_in_prefix": "da2b1fc3f431f2c74c23cc32e019c958e051272e0b5c9579c6832959dbcca6ae",
+        "size_in_bytes": 4665
+      },
+      {
+        "_path": "Library/include/xtl/xcomplex.hpp",
+        "path_type": "hardlink",
+        "sha256": "e95cb93fa22514bcc37520e00459fedf9e710c1677709a1ff7062a1a05ce3a38",
+        "sha256_in_prefix": "e95cb93fa22514bcc37520e00459fedf9e710c1677709a1ff7062a1a05ce3a38",
+        "size_in_bytes": 47661
+      },
+      {
+        "_path": "Library/include/xtl/xcomplex_sequence.hpp",
+        "path_type": "hardlink",
+        "sha256": "abd6f905188e8f798eb2efb0129a5987e309bf328782a890bab08f19f98fa87f",
+        "sha256_in_prefix": "abd6f905188e8f798eb2efb0129a5987e309bf328782a890bab08f19f98fa87f",
+        "size_in_bytes": 18183
+      },
+      {
+        "_path": "Library/include/xtl/xdynamic_bitset.hpp",
+        "path_type": "hardlink",
+        "sha256": "d7f9049400cdc5c99c5839858a574fd1a1c35cb1085fe51ed00f64e592dd40f4",
+        "sha256_in_prefix": "d7f9049400cdc5c99c5839858a574fd1a1c35cb1085fe51ed00f64e592dd40f4",
+        "size_in_bytes": 42230
+      },
+      {
+        "_path": "Library/include/xtl/xfunctional.hpp",
+        "path_type": "hardlink",
+        "sha256": "2163b726cc72abbb42a2cc9415a2d614e8b8baefeb7ba303b7fbd08dfec72385",
+        "sha256_in_prefix": "2163b726cc72abbb42a2cc9415a2d614e8b8baefeb7ba303b7fbd08dfec72385",
+        "size_in_bytes": 1346
+      },
+      {
+        "_path": "Library/include/xtl/xhalf_float.hpp",
+        "path_type": "hardlink",
+        "sha256": "d4bdbaf6b7244f12263e6012cacb73550387a2e5216745d05ffd0846cd6ecb0e",
+        "sha256_in_prefix": "d4bdbaf6b7244f12263e6012cacb73550387a2e5216745d05ffd0846cd6ecb0e",
+        "size_in_bytes": 1135
+      },
+      {
+        "_path": "Library/include/xtl/xhalf_float_impl.hpp",
+        "path_type": "hardlink",
+        "sha256": "24c77ca2f95257524989a5e81a179586ef911e3355befa740ed2d70abf434890",
+        "sha256_in_prefix": "24c77ca2f95257524989a5e81a179586ef911e3355befa740ed2d70abf434890",
+        "size_in_bytes": 197648
+      },
+      {
+        "_path": "Library/include/xtl/xhash.hpp",
+        "path_type": "hardlink",
+        "sha256": "03bc6a0216f33c89724b07efdd9d147a7cfcd2cca5163ce4a0c0f8b4deb6437f",
+        "sha256_in_prefix": "03bc6a0216f33c89724b07efdd9d147a7cfcd2cca5163ce4a0c0f8b4deb6437f",
+        "size_in_bytes": 6518
+      },
+      {
+        "_path": "Library/include/xtl/xhierarchy_generator.hpp",
+        "path_type": "hardlink",
+        "sha256": "1d2c3267a163ccae96a4a4662b428cff18c92d1ce3fe5b138bf07a70a9424ee4",
+        "sha256_in_prefix": "1d2c3267a163ccae96a4a4662b428cff18c92d1ce3fe5b138bf07a70a9424ee4",
+        "size_in_bytes": 2394
+      },
+      {
+        "_path": "Library/include/xtl/xiterator_base.hpp",
+        "path_type": "hardlink",
+        "sha256": "587e2daaa289ac3d176ce7a2d0dfffacd6687fbd3cd54a2badc6c5164b3994d7",
+        "sha256_in_prefix": "587e2daaa289ac3d176ce7a2d0dfffacd6687fbd3cd54a2badc6c5164b3994d7",
+        "size_in_bytes": 13096
+      },
+      {
+        "_path": "Library/include/xtl/xjson.hpp",
+        "path_type": "hardlink",
+        "sha256": "a74219f8d1bec8c21d2e0e1f386e7c306209f9cc708d8708f3ce40c3184a14cb",
+        "sha256_in_prefix": "a74219f8d1bec8c21d2e0e1f386e7c306209f9cc708d8708f3ce40c3184a14cb",
+        "size_in_bytes": 3024
+      },
+      {
+        "_path": "Library/include/xtl/xmasked_value.hpp",
+        "path_type": "hardlink",
+        "sha256": "604e8dc771fa117ff4fa6e7be7ef2a4048c1212227125161daedae4dfe893c2e",
+        "sha256_in_prefix": "604e8dc771fa117ff4fa6e7be7ef2a4048c1212227125161daedae4dfe893c2e",
+        "size_in_bytes": 27810
+      },
+      {
+        "_path": "Library/include/xtl/xmasked_value_meta.hpp",
+        "path_type": "hardlink",
+        "sha256": "bf67d56519171cfa23c547e8cf876b5a32403d4f6d6db95dc1f1d3bb620a9689",
+        "sha256_in_prefix": "bf67d56519171cfa23c547e8cf876b5a32403d4f6d6db95dc1f1d3bb620a9689",
+        "size_in_bytes": 1354
+      },
+      {
+        "_path": "Library/include/xtl/xmeta_utils.hpp",
+        "path_type": "hardlink",
+        "sha256": "ec28a26d23a31d46353034e59c90271cef0fbeeb283799b46e8692323ddfc848",
+        "sha256_in_prefix": "ec28a26d23a31d46353034e59c90271cef0fbeeb283799b46e8692323ddfc848",
+        "size_in_bytes": 16807
+      },
+      {
+        "_path": "Library/include/xtl/xmultimethods.hpp",
+        "path_type": "hardlink",
+        "sha256": "7e0010b9a48ca329f2e43a2ae8d245e509e4ebc12d2652b3d539170a90ec010a",
+        "sha256_in_prefix": "7e0010b9a48ca329f2e43a2ae8d245e509e4ebc12d2652b3d539170a90ec010a",
+        "size_in_bytes": 12987
+      },
+      {
+        "_path": "Library/include/xtl/xoptional.hpp",
+        "path_type": "hardlink",
+        "sha256": "f2e69f263b4a37d1cc0f363e70d2c16b4810b77097ea79aed4679198fde1fe65",
+        "sha256_in_prefix": "f2e69f263b4a37d1cc0f363e70d2c16b4810b77097ea79aed4679198fde1fe65",
+        "size_in_bytes": 54666
+      },
+      {
+        "_path": "Library/include/xtl/xoptional_meta.hpp",
+        "path_type": "hardlink",
+        "sha256": "92f577c0b907ccf5d6ec0490471ce60513722c2157113d9aaca5e386746c756c",
+        "sha256_in_prefix": "92f577c0b907ccf5d6ec0490471ce60513722c2157113d9aaca5e386746c756c",
+        "size_in_bytes": 4846
+      },
+      {
+        "_path": "Library/include/xtl/xoptional_sequence.hpp",
+        "path_type": "hardlink",
+        "sha256": "9f01127c9216ab8abf949cb804bfd196bd8d88a81326cf7d80a535b220f12fd6",
+        "sha256_in_prefix": "9f01127c9216ab8abf949cb804bfd196bd8d88a81326cf7d80a535b220f12fd6",
+        "size_in_bytes": 21055
+      },
+      {
+        "_path": "Library/include/xtl/xplatform.hpp",
+        "path_type": "hardlink",
+        "sha256": "53617a36784f4de5de2f508f03d0afeec5b47bd5733e4c8a7f7b94afd0005b9d",
+        "sha256_in_prefix": "53617a36784f4de5de2f508f03d0afeec5b47bd5733e4c8a7f7b94afd0005b9d",
+        "size_in_bytes": 1207
+      },
+      {
+        "_path": "Library/include/xtl/xproxy_wrapper.hpp",
+        "path_type": "hardlink",
+        "sha256": "37d64b79daab893256db9b370a89ebc92ee1cf19161ff04657ca00eed92bd568",
+        "sha256_in_prefix": "37d64b79daab893256db9b370a89ebc92ee1cf19161ff04657ca00eed92bd568",
+        "size_in_bytes": 1527
+      },
+      {
+        "_path": "Library/include/xtl/xsequence.hpp",
+        "path_type": "hardlink",
+        "sha256": "8e203913a2edab08a7abf8fd1020e2dcea11ce0ce21de4811a5455429efc9482",
+        "sha256_in_prefix": "8e203913a2edab08a7abf8fd1020e2dcea11ce0ce21de4811a5455429efc9482",
+        "size_in_bytes": 6318
+      },
+      {
+        "_path": "Library/include/xtl/xspan.hpp",
+        "path_type": "hardlink",
+        "sha256": "1a07f4ce2a16144405a1cc5ba59601b51975584096a1b5cb48d0476b9232f431",
+        "sha256_in_prefix": "1a07f4ce2a16144405a1cc5ba59601b51975584096a1b5cb48d0476b9232f431",
+        "size_in_bytes": 798
+      },
+      {
+        "_path": "Library/include/xtl/xspan_impl.hpp",
+        "path_type": "hardlink",
+        "sha256": "e32ec7ced611300836cf66ffcaf6e77b67100cc1df4169c065cb4200a4ef34ca",
+        "sha256_in_prefix": "e32ec7ced611300836cf66ffcaf6e77b67100cc1df4169c065cb4200a4ef34ca",
+        "size_in_bytes": 23074
+      },
+      {
+        "_path": "Library/include/xtl/xsystem.hpp",
+        "path_type": "hardlink",
+        "sha256": "6ec646f3b3d45548066653d701468c84f1f6eea8ac3fe73b2109a7305dce4cbf",
+        "sha256_in_prefix": "6ec646f3b3d45548066653d701468c84f1f6eea8ac3fe73b2109a7305dce4cbf",
+        "size_in_bytes": 2939
+      },
+      {
+        "_path": "Library/include/xtl/xtl_config.hpp",
+        "path_type": "hardlink",
+        "sha256": "92f615c0de305c444ed78b94387e13f8b287b16975f556cf064cb66a6517babd",
+        "sha256_in_prefix": "92f615c0de305c444ed78b94387e13f8b287b16975f556cf064cb66a6517babd",
+        "size_in_bytes": 1365
+      },
+      {
+        "_path": "Library/include/xtl/xtype_traits.hpp",
+        "path_type": "hardlink",
+        "sha256": "b9e81540181bd6bb3af107713f61b217b6ca1599e95539fbfe10c09404b9ee16",
+        "sha256_in_prefix": "b9e81540181bd6bb3af107713f61b217b6ca1599e95539fbfe10c09404b9ee16",
+        "size_in_bytes": 12217
+      },
+      {
+        "_path": "Library/include/xtl/xvariant.hpp",
+        "path_type": "hardlink",
+        "sha256": "9011ddbdf02acfe4e8d25701427b479cc6d05f2fa55b6dfa727fea41839c0724",
+        "sha256_in_prefix": "9011ddbdf02acfe4e8d25701427b479cc6d05f2fa55b6dfa727fea41839c0724",
+        "size_in_bytes": 6534
+      },
+      {
+        "_path": "Library/include/xtl/xvariant_impl.hpp",
+        "path_type": "hardlink",
+        "sha256": "9cfba29b2219d27f7e594b42d019c64d0a25e4dcda0816aae744fcbdd00d8108",
+        "sha256_in_prefix": "9cfba29b2219d27f7e594b42d019c64d0a25e4dcda0816aae744fcbdd00d8108",
+        "size_in_bytes": 102860
+      },
+      {
+        "_path": "Library/include/xtl/xvisitor.hpp",
+        "path_type": "hardlink",
+        "sha256": "9183ee20bfc8af5e68588c55a095ed35fe7d301e0bf95d3e8b4a1b70283906f7",
+        "sha256_in_prefix": "9183ee20bfc8af5e68588c55a095ed35fe7d301e0bf95d3e8b4a1b70283906f7",
+        "size_in_bytes": 5388
+      },
+      {
+        "_path": "Library/share/cmake/xtl/xtlConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "c3541b004d5f44a1642eed922191d0fb282c365bb9bb33396ad4b85f568221e2",
+        "sha256_in_prefix": "c3541b004d5f44a1642eed922191d0fb282c365bb9bb33396ad4b85f568221e2",
+        "size_in_bytes": 1838
+      },
+      {
+        "_path": "Library/share/cmake/xtl/xtlConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "862504d36461526082175619d6f0b367920558063526d92fb3cd412196873d16",
+        "sha256_in_prefix": "862504d36461526082175619d6f0b367920558063526d92fb3cd412196873d16",
+        "size_in_bytes": 2021
+      },
+      {
+        "_path": "Library/share/cmake/xtl/xtlTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "63460df914381d50909396784d7930be1fc764eb6cb8f5db6c7d7cfd4ef99650",
+        "sha256_in_prefix": "63460df914381d50909396784d7930be1fc764eb6cb8f5db6c7d7cfd4ef99650",
+        "size_in_bytes": 3486
+      },
+      {
+        "_path": "Library/share/pkgconfig/xtl.pc",
+        "path_type": "hardlink",
+        "sha256": "f95cdf1aff5ecaa110913d953ba125cca11362577bbd026ce791f4cf8dd96971",
+        "sha256_in_prefix": "f95cdf1aff5ecaa110913d953ba125cca11362577bbd026ce791f4cf8dd96971",
+        "size_in_bytes": 214
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "esri/win-64::xtl==0.7.5=0",
+  "sha256": "b6366c6f41e01b4437645dd86cc864ab477d074a4f082c43592b817a84d7fb1a",
+  "size": 93373,
+  "subdir": "win-64",
+  "timestamp": 1682101119635,
+  "url": "https://conda.anaconda.org/esri/win-64/xtl-0.7.5-0.conda",
+  "version": "0.7.5"
+}

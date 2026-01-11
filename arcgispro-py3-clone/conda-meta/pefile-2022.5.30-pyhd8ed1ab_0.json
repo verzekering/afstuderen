@@ -1,0 +1,166 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/esri/noarch",
+  "constrains": [],
+  "depends": [
+    "future",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\pefile-2022.5.30-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/ordlookup/__init__.py",
+    "Lib/site-packages/ordlookup/oleaut32.py",
+    "Lib/site-packages/ordlookup/ws2_32.py",
+    "Lib/site-packages/pefile-2022.5.30.dist-info/INSTALLER",
+    "Lib/site-packages/pefile-2022.5.30.dist-info/LICENSE",
+    "Lib/site-packages/pefile-2022.5.30.dist-info/METADATA",
+    "Lib/site-packages/pefile-2022.5.30.dist-info/RECORD",
+    "Lib/site-packages/pefile-2022.5.30.dist-info/REQUESTED",
+    "Lib/site-packages/pefile-2022.5.30.dist-info/WHEEL",
+    "Lib/site-packages/pefile-2022.5.30.dist-info/direct_url.json",
+    "Lib/site-packages/pefile-2022.5.30.dist-info/top_level.txt",
+    "Lib/site-packages/pefile.py",
+    "Lib/site-packages/peutils.py",
+    ".nonadmin",
+    "Lib/site-packages/ordlookup/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/ordlookup/__pycache__/oleaut32.cpython-311.pyc",
+    "Lib/site-packages/ordlookup/__pycache__/ws2_32.cpython-311.pyc",
+    "Lib/site-packages/__pycache__/pefile.cpython-311.pyc",
+    "Lib/site-packages/__pycache__/peutils.cpython-311.pyc"
+  ],
+  "fn": "pefile-2022.5.30-pyhd8ed1ab_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\pefile-2022.5.30-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "39e59f588458cb99d27154470cd5d3d5",
+  "name": "pefile",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\pefile-2022.5.30-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/ordlookup/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e1123e393975d681c1a6798514d5a27ad65d85288c2e5a8c75b86b02f3fb4a41",
+        "sha256_in_prefix": "e1123e393975d681c1a6798514d5a27ad65d85288c2e5a8c75b86b02f3fb4a41",
+        "size_in_bytes": 958
+      },
+      {
+        "_path": "site-packages/ordlookup/oleaut32.py",
+        "path_type": "hardlink",
+        "sha256": "8346cd7072d1b87fe75bbe71a996ed6593564eb39505b74457c5bbbf1cf43ae7",
+        "sha256_in_prefix": "8346cd7072d1b87fe75bbe71a996ed6593564eb39505b74457c5bbbf1cf43ae7",
+        "size_in_bytes": 10877
+      },
+      {
+        "_path": "site-packages/ordlookup/ws2_32.py",
+        "path_type": "hardlink",
+        "sha256": "832f959ebb7ac959b337cb1ba8b40449a370167676a238782ec880ab9203aee0",
+        "sha256_in_prefix": "832f959ebb7ac959b337cb1ba8b40449a370167676a238782ec880ab9203aee0",
+        "size_in_bytes": 3265
+      },
+      {
+        "_path": "site-packages/pefile-2022.5.30.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/pefile-2022.5.30.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "c953868ce520f3dedb6ca383084839641f40ff33c7cb2e33a428cfc76e5e4664",
+        "sha256_in_prefix": "c953868ce520f3dedb6ca383084839641f40ff33c7cb2e33a428cfc76e5e4664",
+        "size_in_bytes": 1083
+      },
+      {
+        "_path": "site-packages/pefile-2022.5.30.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "6b2b301782ed8d7acf717b1d4e32cb0abd7e00090ba2ecea7156336c5689707d",
+        "sha256_in_prefix": "6b2b301782ed8d7acf717b1d4e32cb0abd7e00090ba2ecea7156336c5689707d",
+        "size_in_bytes": 1377
+      },
+      {
+        "_path": "site-packages/pefile-2022.5.30.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "2b71da6b8df1688fbc895812fad482c6b3bd2633b24a6af77733c69ed7a73907",
+        "sha256_in_prefix": "2b71da6b8df1688fbc895812fad482c6b3bd2633b24a6af77733c69ed7a73907",
+        "size_in_bytes": 1285
+      },
+      {
+        "_path": "site-packages/pefile-2022.5.30.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/pefile-2022.5.30.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/pefile-2022.5.30.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "03b93cb011bf49047c6883acbcd0849ff62f0ee67c98548a953327d1bad0c013",
+        "sha256_in_prefix": "03b93cb011bf49047c6883acbcd0849ff62f0ee67c98548a953327d1bad0c013",
+        "size_in_bytes": 102
+      },
+      {
+        "_path": "site-packages/pefile-2022.5.30.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "7bf125792b9950e40a7171c92ecdac49e1a4c46e0e6608542dc09cfefea441ba",
+        "sha256_in_prefix": "7bf125792b9950e40a7171c92ecdac49e1a4c46e0e6608542dc09cfefea441ba",
+        "size_in_bytes": 25
+      },
+      {
+        "_path": "site-packages/pefile.py",
+        "path_type": "hardlink",
+        "sha256": "acaddf0f0444c4e0061ed5c4dba87ee1d6164ac62b5be5aef6b4d400bc0b4a0d",
+        "sha256_in_prefix": "acaddf0f0444c4e0061ed5c4dba87ee1d6164ac62b5be5aef6b4d400bc0b4a0d",
+        "size_in_bytes": 275832
+      },
+      {
+        "_path": "site-packages/peutils.py",
+        "path_type": "hardlink",
+        "sha256": "6d9f34afa609c6dbffea5703c23b00a5a4ad4730f5f5d068446d4eb36c3363f4",
+        "sha256_in_prefix": "6d9f34afa609c6dbffea5703c23b00a5a4ad4730f5f5d068446d4eb36c3363f4",
+        "size_in_bytes": 18554
+      },
+      {
+        "_path": "Lib/site-packages/ordlookup/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ordlookup/__pycache__/oleaut32.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ordlookup/__pycache__/ws2_32.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/pefile.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/peutils.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "esri/noarch::pefile==2022.5.30=pyhd8ed1ab_0",
+  "sha256": "415c63d05a8a70e2e98c17cdbc54657a248e745d477115538599d5e6304719f5",
+  "size": 63463,
+  "subdir": "noarch",
+  "timestamp": 1653943848834,
+  "url": "https://conda.anaconda.org/esri/noarch/pefile-2022.5.30-pyhd8ed1ab_0.conda",
+  "version": "2022.5.30"
+}

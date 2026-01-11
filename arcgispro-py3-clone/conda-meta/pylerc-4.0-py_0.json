@@ -1,0 +1,151 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/esri/noarch",
+  "constrains": [],
+  "depends": [
+    "numpy",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\pylerc-4.0-py_0",
+  "files": [
+    "Lib/site-packages/lerc/Lerc.dll",
+    "Lib/site-packages/lerc/Lerc.lib",
+    "Lib/site-packages/lerc/__init__.py",
+    "Lib/site-packages/lerc/_lerc.py",
+    "Lib/site-packages/lerc/libLerc.dylib",
+    "Lib/site-packages/lerc/libLerc.so.4",
+    "Lib/site-packages/pylerc-4.0.dist-info/INSTALLER",
+    "Lib/site-packages/pylerc-4.0.dist-info/METADATA",
+    "Lib/site-packages/pylerc-4.0.dist-info/RECORD",
+    "Lib/site-packages/pylerc-4.0.dist-info/REQUESTED",
+    "Lib/site-packages/pylerc-4.0.dist-info/WHEEL",
+    "Lib/site-packages/pylerc-4.0.dist-info/direct_url.json",
+    "Lib/site-packages/pylerc-4.0.dist-info/top_level.txt",
+    ".nonadmin",
+    "Lib/site-packages/lerc/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/lerc/__pycache__/_lerc.cpython-311.pyc"
+  ],
+  "fn": "pylerc-4.0-py_0.conda",
+  "license": "Apache 2.0",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\pylerc-4.0-py_0",
+    "type": 1
+  },
+  "md5": "794ff40bc6a357862d2d2fd61aceec5d",
+  "name": "pylerc",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\pylerc-4.0-py_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/lerc/Lerc.dll",
+        "path_type": "hardlink",
+        "sha256": "53cd25b91df6e0fcaaf9b1f20f90d1f32dd994e2dbd9b7054ed3d818400b6016",
+        "sha256_in_prefix": "53cd25b91df6e0fcaaf9b1f20f90d1f32dd994e2dbd9b7054ed3d818400b6016",
+        "size_in_bytes": 526336
+      },
+      {
+        "_path": "site-packages/lerc/Lerc.lib",
+        "path_type": "hardlink",
+        "sha256": "1b24b1190c929402d5bf4ecd4924b96e7284f9f8931bed48e49067db1f51e67b",
+        "sha256_in_prefix": "1b24b1190c929402d5bf4ecd4924b96e7284f9f8931bed48e49067db1f51e67b",
+        "size_in_bytes": 4158
+      },
+      {
+        "_path": "site-packages/lerc/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d759a18512bf75a1a640ee138ced262bf3764c90498dbafa8d254d6f624b5bb6",
+        "sha256_in_prefix": "d759a18512bf75a1a640ee138ced262bf3764c90498dbafa8d254d6f624b5bb6",
+        "size_in_bytes": 20
+      },
+      {
+        "_path": "site-packages/lerc/_lerc.py",
+        "path_type": "hardlink",
+        "sha256": "bfc6ae344d6cc33980514f46f29344e951d8b2f673852673fe090104067e13da",
+        "sha256_in_prefix": "bfc6ae344d6cc33980514f46f29344e951d8b2f673852673fe090104067e13da",
+        "size_in_bytes": 42487
+      },
+      {
+        "_path": "site-packages/lerc/libLerc.dylib",
+        "path_type": "hardlink",
+        "sha256": "11577b87e9c7a6fb181a7a0f9dfef8e968c99c12fb5b91ba03d55577e4bb6d9d",
+        "sha256_in_prefix": "11577b87e9c7a6fb181a7a0f9dfef8e968c99c12fb5b91ba03d55577e4bb6d9d",
+        "size_in_bytes": 951344
+      },
+      {
+        "_path": "site-packages/lerc/libLerc.so.4",
+        "path_type": "hardlink",
+        "sha256": "8977ec7c03052f7fbf98f72768e7e41b58ef5b7be66583a79b616a37f6f39318",
+        "sha256_in_prefix": "8977ec7c03052f7fbf98f72768e7e41b58ef5b7be66583a79b616a37f6f39318",
+        "size_in_bytes": 816528
+      },
+      {
+        "_path": "site-packages/pylerc-4.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/pylerc-4.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "8742d6633a701bfc046f10d58f3f7eb3075088917f744b9e39cad8623db99cac",
+        "sha256_in_prefix": "8742d6633a701bfc046f10d58f3f7eb3075088917f744b9e39cad8623db99cac",
+        "size_in_bytes": 4653
+      },
+      {
+        "_path": "site-packages/pylerc-4.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "60f38caf74c36859e6d224213167806578b77376c54b2227da803cab7a2e7b90",
+        "sha256_in_prefix": "60f38caf74c36859e6d224213167806578b77376c54b2227da803cab7a2e7b90",
+        "size_in_bytes": 1079
+      },
+      {
+        "_path": "site-packages/pylerc-4.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/pylerc-4.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "sha256_in_prefix": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/pylerc-4.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "f968fea1a1737bffc5bf066b577d95047deb83f2963ab35e6a2a983e2bd6d110",
+        "sha256_in_prefix": "f968fea1a1737bffc5bf066b577d95047deb83f2963ab35e6a2a983e2bd6d110",
+        "size_in_bytes": 98
+      },
+      {
+        "_path": "site-packages/pylerc-4.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "c61d2cbbcbf71b7d2abbfc78a8262c062755d81e160577815919ab51f66bbb0f",
+        "sha256_in_prefix": "c61d2cbbcbf71b7d2abbfc78a8262c062755d81e160577815919ab51f66bbb0f",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/lerc/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/lerc/__pycache__/_lerc.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "esri/noarch::pylerc==4.0=py_0",
+  "sha256": "942119fbbca5fa8dd12ffefcaf8dc23617c396b6c0e61587bb23b739119532ca",
+  "size": 616775,
+  "subdir": "noarch",
+  "timestamp": 1695389331084,
+  "url": "https://conda.anaconda.org/esri/noarch/pylerc-4.0-py_0.conda",
+  "version": "4.0"
+}

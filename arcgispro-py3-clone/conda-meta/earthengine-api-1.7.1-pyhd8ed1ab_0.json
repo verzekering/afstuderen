@@ -1,0 +1,1448 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "google-api-python-client >=1.12.1",
+    "google-auth >=1.4.1",
+    "google-auth-httplib2 >=0.0.3",
+    "google-cloud-storage",
+    "httplib2 >=0.9.2,<1dev",
+    "python >=3.10",
+    "requests"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\earthengine-api-1.7.1-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/earthengine_api-1.7.1.dist-info/INSTALLER",
+    "Lib/site-packages/earthengine_api-1.7.1.dist-info/METADATA",
+    "Lib/site-packages/earthengine_api-1.7.1.dist-info/RECORD",
+    "Lib/site-packages/earthengine_api-1.7.1.dist-info/REQUESTED",
+    "Lib/site-packages/earthengine_api-1.7.1.dist-info/WHEEL",
+    "Lib/site-packages/earthengine_api-1.7.1.dist-info/direct_url.json",
+    "Lib/site-packages/earthengine_api-1.7.1.dist-info/entry_points.txt",
+    "Lib/site-packages/earthengine_api-1.7.1.dist-info/licenses/LICENSE",
+    "Lib/site-packages/earthengine_api-1.7.1.dist-info/top_level.txt",
+    "Lib/site-packages/ee/__init__.py",
+    "Lib/site-packages/ee/_arg_types.py",
+    "Lib/site-packages/ee/_cloud_api_utils.py",
+    "Lib/site-packages/ee/_helpers.py",
+    "Lib/site-packages/ee/_state.py",
+    "Lib/site-packages/ee/_utils.py",
+    "Lib/site-packages/ee/apifunction.py",
+    "Lib/site-packages/ee/apitestcase.py",
+    "Lib/site-packages/ee/batch.py",
+    "Lib/site-packages/ee/blob.py",
+    "Lib/site-packages/ee/classifier.py",
+    "Lib/site-packages/ee/cli/__init__.py",
+    "Lib/site-packages/ee/cli/commands.py",
+    "Lib/site-packages/ee/cli/eecli.py",
+    "Lib/site-packages/ee/cli/eecli_wrapper.py",
+    "Lib/site-packages/ee/cli/utils.py",
+    "Lib/site-packages/ee/clusterer.py",
+    "Lib/site-packages/ee/collection.py",
+    "Lib/site-packages/ee/computedobject.py",
+    "Lib/site-packages/ee/confusionmatrix.py",
+    "Lib/site-packages/ee/customfunction.py",
+    "Lib/site-packages/ee/data.py",
+    "Lib/site-packages/ee/daterange.py",
+    "Lib/site-packages/ee/deprecation.py",
+    "Lib/site-packages/ee/deserializer.py",
+    "Lib/site-packages/ee/dictionary.py",
+    "Lib/site-packages/ee/ee_array.py",
+    "Lib/site-packages/ee/ee_date.py",
+    "Lib/site-packages/ee/ee_exception.py",
+    "Lib/site-packages/ee/ee_list.py",
+    "Lib/site-packages/ee/ee_number.py",
+    "Lib/site-packages/ee/ee_string.py",
+    "Lib/site-packages/ee/ee_types.py",
+    "Lib/site-packages/ee/element.py",
+    "Lib/site-packages/ee/encodable.py",
+    "Lib/site-packages/ee/errormargin.py",
+    "Lib/site-packages/ee/feature.py",
+    "Lib/site-packages/ee/featurecollection.py",
+    "Lib/site-packages/ee/filter.py",
+    "Lib/site-packages/ee/function.py",
+    "Lib/site-packages/ee/geometry.py",
+    "Lib/site-packages/ee/image.py",
+    "Lib/site-packages/ee/image_converter.py",
+    "Lib/site-packages/ee/imagecollection.py",
+    "Lib/site-packages/ee/join.py",
+    "Lib/site-packages/ee/kernel.py",
+    "Lib/site-packages/ee/mapclient.py",
+    "Lib/site-packages/ee/model.py",
+    "Lib/site-packages/ee/oauth.py",
+    "Lib/site-packages/ee/pixeltype.py",
+    "Lib/site-packages/ee/projection.py",
+    "Lib/site-packages/ee/py.typed",
+    "Lib/site-packages/ee/reducer.py",
+    "Lib/site-packages/ee/serializer.py",
+    "Lib/site-packages/ee/table_converter.py",
+    "Lib/site-packages/ee/terrain.py",
+    "Lib/site-packages/ee/tests/_cloud_api_utils_test.py",
+    "Lib/site-packages/ee/tests/_helpers_test.py",
+    "Lib/site-packages/ee/tests/_state_test.py",
+    "Lib/site-packages/ee/tests/_utils_test.py",
+    "Lib/site-packages/ee/tests/algorithms.json",
+    "Lib/site-packages/ee/tests/apifunction_test.py",
+    "Lib/site-packages/ee/tests/batch_test.py",
+    "Lib/site-packages/ee/tests/blob_test.py",
+    "Lib/site-packages/ee/tests/classifier_test.py",
+    "Lib/site-packages/ee/tests/cloud_api_discovery_document.json",
+    "Lib/site-packages/ee/tests/clusterer_test.py",
+    "Lib/site-packages/ee/tests/collection_test.py",
+    "Lib/site-packages/ee/tests/computedobject_test.py",
+    "Lib/site-packages/ee/tests/confusionmatrix_test.py",
+    "Lib/site-packages/ee/tests/data_test.py",
+    "Lib/site-packages/ee/tests/daterange_test.py",
+    "Lib/site-packages/ee/tests/deprecation_test.py",
+    "Lib/site-packages/ee/tests/deserializer_test.py",
+    "Lib/site-packages/ee/tests/dictionary_test.py",
+    "Lib/site-packages/ee/tests/ee_array_test.py",
+    "Lib/site-packages/ee/tests/ee_date_test.py",
+    "Lib/site-packages/ee/tests/ee_list_test.py",
+    "Lib/site-packages/ee/tests/ee_number_test.py",
+    "Lib/site-packages/ee/tests/ee_string_test.py",
+    "Lib/site-packages/ee/tests/ee_test.py",
+    "Lib/site-packages/ee/tests/ee_types_test.py",
+    "Lib/site-packages/ee/tests/element_test.py",
+    "Lib/site-packages/ee/tests/errormargin_test.py",
+    "Lib/site-packages/ee/tests/feature_test.py",
+    "Lib/site-packages/ee/tests/featurecollection_test.py",
+    "Lib/site-packages/ee/tests/filter_test.py",
+    "Lib/site-packages/ee/tests/function_test.py",
+    "Lib/site-packages/ee/tests/geometry_point_test.py",
+    "Lib/site-packages/ee/tests/geometry_test.py",
+    "Lib/site-packages/ee/tests/image_converter_test.py",
+    "Lib/site-packages/ee/tests/image_test.py",
+    "Lib/site-packages/ee/tests/imagecollection_test.py",
+    "Lib/site-packages/ee/tests/join_test.py",
+    "Lib/site-packages/ee/tests/kernel_test.py",
+    "Lib/site-packages/ee/tests/model_test.py",
+    "Lib/site-packages/ee/tests/oauth_test.py",
+    "Lib/site-packages/ee/tests/pixeltype_test.py",
+    "Lib/site-packages/ee/tests/projection_test.py",
+    "Lib/site-packages/ee/tests/reducer_test.py",
+    "Lib/site-packages/ee/tests/serializer_test.py",
+    "Lib/site-packages/ee/tests/table_converter_test.py",
+    "Lib/site-packages/ee/tests/terrain_test.py",
+    ".nonadmin",
+    "Lib/site-packages/ee/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/_arg_types.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/_cloud_api_utils.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/_helpers.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/_state.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/_utils.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/apifunction.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/apitestcase.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/batch.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/blob.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/classifier.cpython-311.pyc",
+    "Lib/site-packages/ee/cli/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/ee/cli/__pycache__/commands.cpython-311.pyc",
+    "Lib/site-packages/ee/cli/__pycache__/eecli.cpython-311.pyc",
+    "Lib/site-packages/ee/cli/__pycache__/eecli_wrapper.cpython-311.pyc",
+    "Lib/site-packages/ee/cli/__pycache__/utils.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/clusterer.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/collection.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/computedobject.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/confusionmatrix.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/customfunction.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/data.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/daterange.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/deprecation.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/deserializer.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/dictionary.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/ee_array.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/ee_date.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/ee_exception.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/ee_list.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/ee_number.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/ee_string.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/ee_types.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/element.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/encodable.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/errormargin.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/feature.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/featurecollection.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/filter.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/function.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/geometry.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/image.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/image_converter.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/imagecollection.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/join.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/kernel.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/mapclient.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/model.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/oauth.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/pixeltype.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/projection.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/reducer.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/serializer.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/table_converter.cpython-311.pyc",
+    "Lib/site-packages/ee/__pycache__/terrain.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/_cloud_api_utils_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/_helpers_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/_state_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/_utils_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/apifunction_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/batch_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/blob_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/classifier_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/clusterer_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/collection_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/computedobject_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/confusionmatrix_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/data_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/daterange_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/deprecation_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/deserializer_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/dictionary_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/ee_array_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/ee_date_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/ee_list_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/ee_number_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/ee_string_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/ee_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/ee_types_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/element_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/errormargin_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/feature_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/featurecollection_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/filter_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/function_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/geometry_point_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/geometry_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/image_converter_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/image_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/imagecollection_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/join_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/kernel_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/model_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/oauth_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/pixeltype_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/projection_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/reducer_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/serializer_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/table_converter_test.cpython-311.pyc",
+    "Lib/site-packages/ee/tests/__pycache__/terrain_test.cpython-311.pyc",
+    "Scripts/earthengine-script.py",
+    "Scripts/earthengine.exe"
+  ],
+  "fn": "earthengine-api-1.7.1-pyhd8ed1ab_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\earthengine-api-1.7.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "86a835beca4fed08305bc91daeec1a8c",
+  "name": "earthengine-api",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\earthengine-api-1.7.1-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/earthengine_api-1.7.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/earthengine_api-1.7.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "db3552676ff6cc73210b51f9386720a89ec76c4530521b3885c8fdb6bfe5ad57",
+        "sha256_in_prefix": "db3552676ff6cc73210b51f9386720a89ec76c4530521b3885c8fdb6bfe5ad57",
+        "size_in_bytes": 2144
+      },
+      {
+        "_path": "site-packages/earthengine_api-1.7.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "104706e3824e6abae74bb364eff6e7659f4f3e722018234f3bb14f7f63c1f43a",
+        "sha256_in_prefix": "104706e3824e6abae74bb364eff6e7659f4f3e722018234f3bb14f7f63c1f43a",
+        "size_in_bytes": 13945
+      },
+      {
+        "_path": "site-packages/earthengine_api-1.7.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/earthengine_api-1.7.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "ff309ddcdd65ebd02bc724dbf2bcc4a0ff53a5b61792a44548d383e4ebb19d3b",
+        "sha256_in_prefix": "ff309ddcdd65ebd02bc724dbf2bcc4a0ff53a5b61792a44548d383e4ebb19d3b",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "site-packages/earthengine_api-1.7.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d0213e4a676b4f69493b9f13e72cd5ee9a42ebb8d04ba53b05a35b4604cb10f5",
+        "sha256_in_prefix": "d0213e4a676b4f69493b9f13e72cd5ee9a42ebb8d04ba53b05a35b4604cb10f5",
+        "size_in_bytes": 111
+      },
+      {
+        "_path": "site-packages/earthengine_api-1.7.1.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "f80c7848253e4b8ef8afc383d8b2316ad6ba3d19a46680eba694387cffdec4d7",
+        "sha256_in_prefix": "f80c7848253e4b8ef8afc383d8b2316ad6ba3d19a46680eba694387cffdec4d7",
+        "size_in_bytes": 50
+      },
+      {
+        "_path": "site-packages/earthengine_api-1.7.1.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "sha256_in_prefix": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+        "size_in_bytes": 11357
+      },
+      {
+        "_path": "site-packages/earthengine_api-1.7.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "828e733b00a09b99484b7c9347e56cc69d60348e2a752f8c3f9798fbbcccc556",
+        "sha256_in_prefix": "828e733b00a09b99484b7c9347e56cc69d60348e2a752f8c3f9798fbbcccc556",
+        "size_in_bytes": 3
+      },
+      {
+        "_path": "site-packages/ee/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "1fd181144d1053af26eed957ff5130e935b7ee7c9fc242f8b6e44b3a4fc3f18e",
+        "sha256_in_prefix": "1fd181144d1053af26eed957ff5130e935b7ee7c9fc242f8b6e44b3a4fc3f18e",
+        "size_in_bytes": 16758
+      },
+      {
+        "_path": "site-packages/ee/_arg_types.py",
+        "path_type": "hardlink",
+        "sha256": "9eb26b9cf167012f1fcccc401a61b74db50e8bfc8556b9d2196e483fc013cc34",
+        "sha256_in_prefix": "9eb26b9cf167012f1fcccc401a61b74db50e8bfc8556b9d2196e483fc013cc34",
+        "size_in_bytes": 2662
+      },
+      {
+        "_path": "site-packages/ee/_cloud_api_utils.py",
+        "path_type": "hardlink",
+        "sha256": "e563f33f96dc0486e303bc9837e0b09a1b7f1d4f97a1b6d3ad9bd188e127d1ed",
+        "sha256_in_prefix": "e563f33f96dc0486e303bc9837e0b09a1b7f1d4f97a1b6d3ad9bd188e127d1ed",
+        "size_in_bytes": 32890
+      },
+      {
+        "_path": "site-packages/ee/_helpers.py",
+        "path_type": "hardlink",
+        "sha256": "69f0c3aa8cf558448a13e973a8bb6b09bbe8435c95a5fbc922015c9948cee0bf",
+        "sha256_in_prefix": "69f0c3aa8cf558448a13e973a8bb6b09bbe8435c95a5fbc922015c9948cee0bf",
+        "size_in_bytes": 4821
+      },
+      {
+        "_path": "site-packages/ee/_state.py",
+        "path_type": "hardlink",
+        "sha256": "cb685dabf64480590ef5af836d6152b617a1940c936e9fbe733e02d385d2d39f",
+        "sha256_in_prefix": "cb685dabf64480590ef5af836d6152b617a1940c936e9fbe733e02d385d2d39f",
+        "size_in_bytes": 2754
+      },
+      {
+        "_path": "site-packages/ee/_utils.py",
+        "path_type": "hardlink",
+        "sha256": "722a1c8ef96f47bdc6d3b215fe26632e2d481a8c2911b4f9dcdcc5aaac126c35",
+        "sha256_in_prefix": "722a1c8ef96f47bdc6d3b215fe26632e2d481a8c2911b4f9dcdcc5aaac126c35",
+        "size_in_bytes": 1356
+      },
+      {
+        "_path": "site-packages/ee/apifunction.py",
+        "path_type": "hardlink",
+        "sha256": "9820ac2e106cfcca1fbcc5b8f4e1634f9a6c40631b5d6412a409618aa3047389",
+        "sha256_in_prefix": "9820ac2e106cfcca1fbcc5b8f4e1634f9a6c40631b5d6412a409618aa3047389",
+        "size_in_bytes": 8732
+      },
+      {
+        "_path": "site-packages/ee/apitestcase.py",
+        "path_type": "hardlink",
+        "sha256": "f0de72dbe4f0edce468de75b480fc74694a35548952e8c8cfc52368396fd4e97",
+        "sha256_in_prefix": "f0de72dbe4f0edce468de75b480fc74694a35548952e8c8cfc52368396fd4e97",
+        "size_in_bytes": 13992
+      },
+      {
+        "_path": "site-packages/ee/batch.py",
+        "path_type": "hardlink",
+        "sha256": "7444f012087613d6eca0a726a3b32ba882ab53d3843b29831ed6e27e5fe1312e",
+        "sha256_in_prefix": "7444f012087613d6eca0a726a3b32ba882ab53d3843b29831ed6e27e5fe1312e",
+        "size_in_bytes": 82400
+      },
+      {
+        "_path": "site-packages/ee/blob.py",
+        "path_type": "hardlink",
+        "sha256": "7279ea9ab1e5f7df14db31267ca73142095a1a4d78229ea98ce6e4fce772e949",
+        "sha256_in_prefix": "7279ea9ab1e5f7df14db31267ca73142095a1a4d78229ea98ce6e4fce772e949",
+        "size_in_bytes": 3221
+      },
+      {
+        "_path": "site-packages/ee/classifier.py",
+        "path_type": "hardlink",
+        "sha256": "dd24cbacb4fa0ddc338ecdb7db8134db045633c544a5e89f80e3bcd607931c94",
+        "sha256_in_prefix": "dd24cbacb4fa0ddc338ecdb7db8134db045633c544a5e89f80e3bcd607931c94",
+        "size_in_bytes": 23410
+      },
+      {
+        "_path": "site-packages/ee/cli/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "623cc10ee622e9f88ebfbed77e5f9089bd8eea04598fdcfb4b1d99cfab5e4d75",
+        "sha256_in_prefix": "623cc10ee622e9f88ebfbed77e5f9089bd8eea04598fdcfb4b1d99cfab5e4d75",
+        "size_in_bytes": 33
+      },
+      {
+        "_path": "site-packages/ee/cli/commands.py",
+        "path_type": "hardlink",
+        "sha256": "f90ba8f9cab43112295661ade71a4080d4b4a1553a2494d7a60de7a5b626c8fc",
+        "sha256_in_prefix": "f90ba8f9cab43112295661ade71a4080d4b4a1553a2494d7a60de7a5b626c8fc",
+        "size_in_bytes": 73444
+      },
+      {
+        "_path": "site-packages/ee/cli/eecli.py",
+        "path_type": "hardlink",
+        "sha256": "d720f28a7824c2eada8b5dc5fcf17dd5162c05ebfa8c627d584a19693d83832f",
+        "sha256_in_prefix": "d720f28a7824c2eada8b5dc5fcf17dd5162c05ebfa8c627d584a19693d83832f",
+        "size_in_bytes": 3043
+      },
+      {
+        "_path": "site-packages/ee/cli/eecli_wrapper.py",
+        "path_type": "hardlink",
+        "sha256": "67b477209721b76b86d61e7ba18ec14ab90f8b04333669989720925f5ffb2fb7",
+        "sha256_in_prefix": "67b477209721b76b86d61e7ba18ec14ab90f8b04333669989720925f5ffb2fb7",
+        "size_in_bytes": 1089
+      },
+      {
+        "_path": "site-packages/ee/cli/utils.py",
+        "path_type": "hardlink",
+        "sha256": "39c18a4bc7dedba69745e6154acc2fde7d434251b815c4047c7a8120717700eb",
+        "sha256_in_prefix": "39c18a4bc7dedba69745e6154acc2fde7d434251b815c4047c7a8120717700eb",
+        "size_in_bytes": 14233
+      },
+      {
+        "_path": "site-packages/ee/clusterer.py",
+        "path_type": "hardlink",
+        "sha256": "f7ce83ebc6f6789e318a23a220e4cd675a6c17c468f8c14d40529e774e7c152e",
+        "sha256_in_prefix": "f7ce83ebc6f6789e318a23a220e4cd675a6c17c468f8c14d40529e774e7c152e",
+        "size_in_bytes": 12256
+      },
+      {
+        "_path": "site-packages/ee/collection.py",
+        "path_type": "hardlink",
+        "sha256": "73c385217f4e54bc536eef07198887392dd883a4239f168efc50210e10d0a627",
+        "sha256_in_prefix": "73c385217f4e54bc536eef07198887392dd883a4239f168efc50210e10d0a627",
+        "size_in_bytes": 32588
+      },
+      {
+        "_path": "site-packages/ee/computedobject.py",
+        "path_type": "hardlink",
+        "sha256": "09d95c71de2fc369de791425a39267dd0e51f95a50710b9f36ec4e1dfa5dd455",
+        "sha256_in_prefix": "09d95c71de2fc369de791425a39267dd0e51f95a50710b9f36ec4e1dfa5dd455",
+        "size_in_bytes": 9186
+      },
+      {
+        "_path": "site-packages/ee/confusionmatrix.py",
+        "path_type": "hardlink",
+        "sha256": "7babf3f85713e9a716c64e690c42b4bcb20dd6952360c8791b29f54121894f72",
+        "sha256_in_prefix": "7babf3f85713e9a716c64e690c42b4bcb20dd6952360c8791b29f54121894f72",
+        "size_in_bytes": 4233
+      },
+      {
+        "_path": "site-packages/ee/customfunction.py",
+        "path_type": "hardlink",
+        "sha256": "31efe21c39e3918477dc932db4603ba4a2653c28d493cacefe481a2210e6dbb3",
+        "sha256_in_prefix": "31efe21c39e3918477dc932db4603ba4a2653c28d493cacefe481a2210e6dbb3",
+        "size_in_bytes": 7408
+      },
+      {
+        "_path": "site-packages/ee/data.py",
+        "path_type": "hardlink",
+        "sha256": "435e5db87eff3b68232250da9e68e27a7e73f19651ba8a3284d8af5295db33a1",
+        "sha256_in_prefix": "435e5db87eff3b68232250da9e68e27a7e73f19651ba8a3284d8af5295db33a1",
+        "size_in_bytes": 85370
+      },
+      {
+        "_path": "site-packages/ee/daterange.py",
+        "path_type": "hardlink",
+        "sha256": "9eb458911d8cd9a554d192721bbca2652b45b7e5b64ef615b9ace864afd666a3",
+        "sha256_in_prefix": "9eb458911d8cd9a554d192721bbca2652b45b7e5b64ef615b9ace864afd666a3",
+        "size_in_bytes": 4948
+      },
+      {
+        "_path": "site-packages/ee/deprecation.py",
+        "path_type": "hardlink",
+        "sha256": "98015d3bb7c18cebbd4c977c08907f33f36c67a54d4b1b527bcdb440a271f1f1",
+        "sha256_in_prefix": "98015d3bb7c18cebbd4c977c08907f33f36c67a54d4b1b527bcdb440a271f1f1",
+        "size_in_bytes": 6243
+      },
+      {
+        "_path": "site-packages/ee/deserializer.py",
+        "path_type": "hardlink",
+        "sha256": "4e38508dc067169cfc2a87688fbe1e49bbe4276ccb8e94d37d4a5c344a10476a",
+        "sha256_in_prefix": "4e38508dc067169cfc2a87688fbe1e49bbe4276ccb8e94d37d4a5c344a10476a",
+        "size_in_bytes": 8357
+      },
+      {
+        "_path": "site-packages/ee/dictionary.py",
+        "path_type": "hardlink",
+        "sha256": "6f4b78eaf69e54cb05188da271d18db2999e751b555717e221c14b59c98bdaff",
+        "sha256_in_prefix": "6f4b78eaf69e54cb05188da271d18db2999e751b555717e221c14b59c98bdaff",
+        "size_in_bytes": 10508
+      },
+      {
+        "_path": "site-packages/ee/ee_array.py",
+        "path_type": "hardlink",
+        "sha256": "109990fb392ed71d1eeb3e384a5543f85ee669f9af452d03a01c8a1727830ae7",
+        "sha256_in_prefix": "109990fb392ed71d1eeb3e384a5543f85ee669f9af452d03a01c8a1727830ae7",
+        "size_in_bytes": 36368
+      },
+      {
+        "_path": "site-packages/ee/ee_date.py",
+        "path_type": "hardlink",
+        "sha256": "8b198b32bac68eadf40d7f5063dd874de520159856767e3ce5cc9a26492c87a5",
+        "sha256_in_prefix": "8b198b32bac68eadf40d7f5063dd874de520159856767e3ce5cc9a26492c87a5",
+        "size_in_bytes": 10757
+      },
+      {
+        "_path": "site-packages/ee/ee_exception.py",
+        "path_type": "hardlink",
+        "sha256": "b8ddd7efa1ee862714d0b4f1a91290bb5654e8bef3c341ae00182c0534fe61cc",
+        "sha256_in_prefix": "b8ddd7efa1ee862714d0b4f1a91290bb5654e8bef3c341ae00182c0534fe61cc",
+        "size_in_bytes": 164
+      },
+      {
+        "_path": "site-packages/ee/ee_list.py",
+        "path_type": "hardlink",
+        "sha256": "fa37f4fb372a8a235ec57ffa18b65a44aa2d7e62da6c9da8d3bd41bf7305ea42",
+        "sha256_in_prefix": "fa37f4fb372a8a235ec57ffa18b65a44aa2d7e62da6c9da8d3bd41bf7305ea42",
+        "size_in_bytes": 19819
+      },
+      {
+        "_path": "site-packages/ee/ee_number.py",
+        "path_type": "hardlink",
+        "sha256": "9cd7209ed53273887ecd82ca7012256a7b9cc6c88aa970bf92837ea739ae0677",
+        "sha256_in_prefix": "9cd7209ed53273887ecd82ca7012256a7b9cc6c88aa970bf92837ea739ae0677",
+        "size_in_bytes": 22376
+      },
+      {
+        "_path": "site-packages/ee/ee_string.py",
+        "path_type": "hardlink",
+        "sha256": "7a0f9d475240b9accd172389b1b0942d09f706f06941de4b111f280df5ad5dc5",
+        "sha256_in_prefix": "7a0f9d475240b9accd172389b1b0942d09f706f06941de4b111f280df5ad5dc5",
+        "size_in_bytes": 7875
+      },
+      {
+        "_path": "site-packages/ee/ee_types.py",
+        "path_type": "hardlink",
+        "sha256": "c10084ef8a43471cff20061cea18d24aa270a79a33388a191747078a34ddf128",
+        "sha256_in_prefix": "c10084ef8a43471cff20061cea18d24aa270a79a33388a191747078a34ddf128",
+        "size_in_bytes": 3081
+      },
+      {
+        "_path": "site-packages/ee/element.py",
+        "path_type": "hardlink",
+        "sha256": "49d21596307449bbadd366bad5782c3cb889a40eba9f7e1fb18646330b12f234",
+        "sha256_in_prefix": "49d21596307449bbadd366bad5782c3cb889a40eba9f7e1fb18646330b12f234",
+        "size_in_bytes": 6261
+      },
+      {
+        "_path": "site-packages/ee/encodable.py",
+        "path_type": "hardlink",
+        "sha256": "27d41a9f36c1fbf7f92d409070886b115e56f426d166dc5ae6089c9925712ec9",
+        "sha256_in_prefix": "27d41a9f36c1fbf7f92d409070886b115e56f426d166dc5ae6089c9925712ec9",
+        "size_in_bytes": 1911
+      },
+      {
+        "_path": "site-packages/ee/errormargin.py",
+        "path_type": "hardlink",
+        "sha256": "c7c9008057947579a973f92ff15c79aaff9f1de26f154f440456d23b184d97c6",
+        "sha256_in_prefix": "c7c9008057947579a973f92ff15c79aaff9f1de26f154f440456d23b184d97c6",
+        "size_in_bytes": 3039
+      },
+      {
+        "_path": "site-packages/ee/feature.py",
+        "path_type": "hardlink",
+        "sha256": "588b67c25429f14dc3d04d1892024d5c8024d89be2c25a12f5cf23d97a9b2843",
+        "sha256_in_prefix": "588b67c25429f14dc3d04d1892024d5c8024d89be2c25a12f5cf23d97a9b2843",
+        "size_in_bytes": 30292
+      },
+      {
+        "_path": "site-packages/ee/featurecollection.py",
+        "path_type": "hardlink",
+        "sha256": "5db0e0cd8104ca18a6d3fcb600e0f95a2f9344897dd0e9c1d431ed0095e0be0f",
+        "sha256_in_prefix": "5db0e0cd8104ca18a6d3fcb600e0f95a2f9344897dd0e9c1d431ed0095e0be0f",
+        "size_in_bytes": 14424
+      },
+      {
+        "_path": "site-packages/ee/filter.py",
+        "path_type": "hardlink",
+        "sha256": "18acf722a7994ab2b85f6e938d66b0fee384f0a8d9812c75a52d73334ecf5df2",
+        "sha256_in_prefix": "18acf722a7994ab2b85f6e938d66b0fee384f0a8d9812c75a52d73334ecf5df2",
+        "size_in_bytes": 35321
+      },
+      {
+        "_path": "site-packages/ee/function.py",
+        "path_type": "hardlink",
+        "sha256": "5fe333d00bc5fe5f34f4d6572bc44ce9f6b687e9cfed8536b14169ea1bc86dd5",
+        "sha256_in_prefix": "5fe333d00bc5fe5f34f4d6572bc44ce9f6b687e9cfed8536b14169ea1bc86dd5",
+        "size_in_bytes": 7049
+      },
+      {
+        "_path": "site-packages/ee/geometry.py",
+        "path_type": "hardlink",
+        "sha256": "0fffd4793ef60c368915a926c9a3e799f1f0c4db43c4b256ed56f37b41e1d98e",
+        "sha256_in_prefix": "0fffd4793ef60c368915a926c9a3e799f1f0c4db43c4b256ed56f37b41e1d98e",
+        "size_in_bytes": 59517
+      },
+      {
+        "_path": "site-packages/ee/image.py",
+        "path_type": "hardlink",
+        "sha256": "2c389d9ce04841a67546ff57f07e8370d5330a5458c57732da51c6a1ee4bea90",
+        "sha256_in_prefix": "2c389d9ce04841a67546ff57f07e8370d5330a5458c57732da51c6a1ee4bea90",
+        "size_in_bytes": 170921
+      },
+      {
+        "_path": "site-packages/ee/image_converter.py",
+        "path_type": "hardlink",
+        "sha256": "2db95c9a45abb84d018c8b59ec80aff3b5d99420a365e5f61e61b17f8ec75f2a",
+        "sha256_in_prefix": "2db95c9a45abb84d018c8b59ec80aff3b5d99420a365e5f61e61b17f8ec75f2a",
+        "size_in_bytes": 1469
+      },
+      {
+        "_path": "site-packages/ee/imagecollection.py",
+        "path_type": "hardlink",
+        "sha256": "e59514ade534898db7502f6c77c821f1f2daa55653aee5770c686c8e6405d318",
+        "sha256_in_prefix": "e59514ade534898db7502f6c77c821f1f2daa55653aee5770c686c8e6405d318",
+        "size_in_bytes": 27102
+      },
+      {
+        "_path": "site-packages/ee/join.py",
+        "path_type": "hardlink",
+        "sha256": "89d9eecd1345bca1d12c75799bdba7a7fc53b196fe13691f81408461283ae2db",
+        "sha256_in_prefix": "89d9eecd1345bca1d12c75799bdba7a7fc53b196fe13691f81408461283ae2db",
+        "size_in_bytes": 7578
+      },
+      {
+        "_path": "site-packages/ee/kernel.py",
+        "path_type": "hardlink",
+        "sha256": "793cc916f5b89dbca2165d9d0d9d3f700fe8dcaa826c17b063e043a7bb4207f3",
+        "sha256_in_prefix": "793cc916f5b89dbca2165d9d0d9d3f700fe8dcaa826c17b063e043a7bb4207f3",
+        "size_in_bytes": 15002
+      },
+      {
+        "_path": "site-packages/ee/mapclient.py",
+        "path_type": "hardlink",
+        "sha256": "7de085c0befa8ee14564f238bb2715c54a0531e1056cf15f215113926a6f99c6",
+        "sha256_in_prefix": "7de085c0befa8ee14564f238bb2715c54a0531e1056cf15f215113926a6f99c6",
+        "size_in_bytes": 17491
+      },
+      {
+        "_path": "site-packages/ee/model.py",
+        "path_type": "hardlink",
+        "sha256": "64b053d1b768d7a57f7d24777aa571bc49a4a461aa31da98055653c0e017bdc5",
+        "sha256_in_prefix": "64b053d1b768d7a57f7d24777aa571bc49a4a461aa31da98055653c0e017bdc5",
+        "size_in_bytes": 12069
+      },
+      {
+        "_path": "site-packages/ee/oauth.py",
+        "path_type": "hardlink",
+        "sha256": "82a9b69d420093f3cdf7225eb35632f1e2f343cbef3daa593ce634e41551bce6",
+        "sha256_in_prefix": "82a9b69d420093f3cdf7225eb35632f1e2f343cbef3daa593ce634e41551bce6",
+        "size_in_bytes": 22118
+      },
+      {
+        "_path": "site-packages/ee/pixeltype.py",
+        "path_type": "hardlink",
+        "sha256": "b9c5302794af70e4fce3d029e269492fdcf5d4801b713d70f628bcfb33a8a9d2",
+        "sha256_in_prefix": "b9c5302794af70e4fce3d029e269492fdcf5d4801b713d70f628bcfb33a8a9d2",
+        "size_in_bytes": 5196
+      },
+      {
+        "_path": "site-packages/ee/projection.py",
+        "path_type": "hardlink",
+        "sha256": "9fb5af31e6041bdce4b06375b485fb446c1e0b82320ab5c02acbcf6347b66fc9",
+        "sha256_in_prefix": "9fb5af31e6041bdce4b06375b485fb446c1e0b82320ab5c02acbcf6347b66fc9",
+        "size_in_bytes": 5868
+      },
+      {
+        "_path": "site-packages/ee/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/ee/reducer.py",
+        "path_type": "hardlink",
+        "sha256": "ccef9b84d3903e85a5ce3bd78870b8d21c20dca166039d9e41bd6ebad516d4c4",
+        "sha256_in_prefix": "ccef9b84d3903e85a5ce3bd78870b8d21c20dca166039d9e41bd6ebad516d4c4",
+        "size_in_bytes": 33813
+      },
+      {
+        "_path": "site-packages/ee/serializer.py",
+        "path_type": "hardlink",
+        "sha256": "373cb7367c124e7353911cb8a8943c372b30686f956cb4ba47bcd3d05be86b4e",
+        "sha256_in_prefix": "373cb7367c124e7353911cb8a8943c372b30686f956cb4ba47bcd3d05be86b4e",
+        "size_in_bytes": 22781
+      },
+      {
+        "_path": "site-packages/ee/table_converter.py",
+        "path_type": "hardlink",
+        "sha256": "cfab6d82096aa5bb3845588e67e0c8ee0edb69bc9207c41a6b519ef8e3725f11",
+        "sha256_in_prefix": "cfab6d82096aa5bb3845588e67e0c8ee0edb69bc9207c41a6b519ef8e3725f11",
+        "size_in_bytes": 2062
+      },
+      {
+        "_path": "site-packages/ee/terrain.py",
+        "path_type": "hardlink",
+        "sha256": "4c86de422546bf8a244d3b070a768fe93c52bda445f865ffd3a6ac54814df1d6",
+        "sha256_in_prefix": "4c86de422546bf8a244d3b070a768fe93c52bda445f865ffd3a6ac54814df1d6",
+        "size_in_bytes": 4873
+      },
+      {
+        "_path": "site-packages/ee/tests/_cloud_api_utils_test.py",
+        "path_type": "hardlink",
+        "sha256": "a7c9307a102b963fe3e075acc7abcd124d83c35ecc971630d17b73ba9b0359d6",
+        "sha256_in_prefix": "a7c9307a102b963fe3e075acc7abcd124d83c35ecc971630d17b73ba9b0359d6",
+        "size_in_bytes": 19493
+      },
+      {
+        "_path": "site-packages/ee/tests/_helpers_test.py",
+        "path_type": "hardlink",
+        "sha256": "bf285b63d844ff371223af76780763b4cdfa3f6bd55d27038ff10d03ed2d71eb",
+        "sha256_in_prefix": "bf285b63d844ff371223af76780763b4cdfa3f6bd55d27038ff10d03ed2d71eb",
+        "size_in_bytes": 3991
+      },
+      {
+        "_path": "site-packages/ee/tests/_state_test.py",
+        "path_type": "hardlink",
+        "sha256": "00a7b9568a73b76e0524f88f70471efe8393f3ad603a477a994380599afa0b48",
+        "sha256_in_prefix": "00a7b9568a73b76e0524f88f70471efe8393f3ad603a477a994380599afa0b48",
+        "size_in_bytes": 1175
+      },
+      {
+        "_path": "site-packages/ee/tests/_utils_test.py",
+        "path_type": "hardlink",
+        "sha256": "6ce6ab563dd4f95168f4fae883c59037f84038cc093a258a2717af51b7453c14",
+        "sha256_in_prefix": "6ce6ab563dd4f95168f4fae883c59037f84038cc093a258a2717af51b7453c14",
+        "size_in_bytes": 2753
+      },
+      {
+        "_path": "site-packages/ee/tests/algorithms.json",
+        "path_type": "hardlink",
+        "sha256": "571d4ac7f3211efd33d01dd64de540bdc84cf3155ddf3604ecbfaa4f78031b30",
+        "sha256_in_prefix": "571d4ac7f3211efd33d01dd64de540bdc84cf3155ddf3604ecbfaa4f78031b30",
+        "size_in_bytes": 729368
+      },
+      {
+        "_path": "site-packages/ee/tests/apifunction_test.py",
+        "path_type": "hardlink",
+        "sha256": "ffac6990939dee149c618431cc547ef1f96b69343ac5f926ee0c8447a2680688",
+        "sha256_in_prefix": "ffac6990939dee149c618431cc547ef1f96b69343ac5f926ee0c8447a2680688",
+        "size_in_bytes": 3779
+      },
+      {
+        "_path": "site-packages/ee/tests/batch_test.py",
+        "path_type": "hardlink",
+        "sha256": "c65ccbe2cca343f6ea78e7e68fb91e6a34d9a99a9c29d525bfe5fc7f7d0ed4ec",
+        "sha256_in_prefix": "c65ccbe2cca343f6ea78e7e68fb91e6a34d9a99a9c29d525bfe5fc7f7d0ed4ec",
+        "size_in_bytes": 63259
+      },
+      {
+        "_path": "site-packages/ee/tests/blob_test.py",
+        "path_type": "hardlink",
+        "sha256": "b82accfae6d17c098d807c219948569fb3225ea6cd42eb726dc5c829d56c0ff4",
+        "sha256_in_prefix": "b82accfae6d17c098d807c219948569fb3225ea6cd42eb726dc5c829d56c0ff4",
+        "size_in_bytes": 3587
+      },
+      {
+        "_path": "site-packages/ee/tests/classifier_test.py",
+        "path_type": "hardlink",
+        "sha256": "2bafb0359dae87da0f628ec1574bed7d4ef748116978d70544c466bc415ce8f8",
+        "sha256_in_prefix": "2bafb0359dae87da0f628ec1574bed7d4ef748116978d70544c466bc415ce8f8",
+        "size_in_bytes": 19087
+      },
+      {
+        "_path": "site-packages/ee/tests/cloud_api_discovery_document.json",
+        "path_type": "hardlink",
+        "sha256": "4a739e2fc3a77b9ed875e1daed7c4664cfa9b433c27834b298173bf81a3f8640",
+        "sha256_in_prefix": "4a739e2fc3a77b9ed875e1daed7c4664cfa9b433c27834b298173bf81a3f8640",
+        "size_in_bytes": 41154
+      },
+      {
+        "_path": "site-packages/ee/tests/clusterer_test.py",
+        "path_type": "hardlink",
+        "sha256": "0789b4eb002d05eaaf9c88510f6967372d541c307f71a95e2bf0aa72b014f1d9",
+        "sha256_in_prefix": "0789b4eb002d05eaaf9c88510f6967372d541c307f71a95e2bf0aa72b014f1d9",
+        "size_in_bytes": 11620
+      },
+      {
+        "_path": "site-packages/ee/tests/collection_test.py",
+        "path_type": "hardlink",
+        "sha256": "cec05ead8ac5af7f746b07bec03f2e37d54c13fa84b2e684375f7b8689b85e9b",
+        "sha256_in_prefix": "cec05ead8ac5af7f746b07bec03f2e37d54c13fa84b2e684375f7b8689b85e9b",
+        "size_in_bytes": 8815
+      },
+      {
+        "_path": "site-packages/ee/tests/computedobject_test.py",
+        "path_type": "hardlink",
+        "sha256": "076eeb0eaf54ae9bf2d16aa975b29161bb7a01c4f58bddc75fe7acee1ae15956",
+        "sha256_in_prefix": "076eeb0eaf54ae9bf2d16aa975b29161bb7a01c4f58bddc75fe7acee1ae15956",
+        "size_in_bytes": 4840
+      },
+      {
+        "_path": "site-packages/ee/tests/confusionmatrix_test.py",
+        "path_type": "hardlink",
+        "sha256": "e3a249875fbdd408982125d667afb696f639fcd8ef73ca26a4ef649b0aa515d8",
+        "sha256_in_prefix": "e3a249875fbdd408982125d667afb696f639fcd8ef73ca26a4ef649b0aa515d8",
+        "size_in_bytes": 7437
+      },
+      {
+        "_path": "site-packages/ee/tests/data_test.py",
+        "path_type": "hardlink",
+        "sha256": "632561f3dd4cb8b7835b1e458ffb861efa6e772ef713c72ed41851d46fa69560",
+        "sha256_in_prefix": "632561f3dd4cb8b7835b1e458ffb861efa6e772ef713c72ed41851d46fa69560",
+        "size_in_bytes": 40391
+      },
+      {
+        "_path": "site-packages/ee/tests/daterange_test.py",
+        "path_type": "hardlink",
+        "sha256": "6b97e9836964a37902273c503c2a0073fbe35e42b2db361c5db79264a005a2f2",
+        "sha256_in_prefix": "6b97e9836964a37902273c503c2a0073fbe35e42b2db361c5db79264a005a2f2",
+        "size_in_bytes": 8583
+      },
+      {
+        "_path": "site-packages/ee/tests/deprecation_test.py",
+        "path_type": "hardlink",
+        "sha256": "0a856e83b27d61d076bad67e06293225c8e2b583d02f3e3d24bff3f3dc6e4124",
+        "sha256_in_prefix": "0a856e83b27d61d076bad67e06293225c8e2b583d02f3e3d24bff3f3dc6e4124",
+        "size_in_bytes": 8484
+      },
+      {
+        "_path": "site-packages/ee/tests/deserializer_test.py",
+        "path_type": "hardlink",
+        "sha256": "8bfb65cb32a00a8d7e56958f0109d358d72bda4968bab70c7016c564937a22fc",
+        "sha256_in_prefix": "8bfb65cb32a00a8d7e56958f0109d358d72bda4968bab70c7016c564937a22fc",
+        "size_in_bytes": 5050
+      },
+      {
+        "_path": "site-packages/ee/tests/dictionary_test.py",
+        "path_type": "hardlink",
+        "sha256": "21169732bdc6cd9150e41887741df9222a364dc9082baec29e9e8a1f487c01af",
+        "sha256_in_prefix": "21169732bdc6cd9150e41887741df9222a364dc9082baec29e9e8a1f487c01af",
+        "size_in_bytes": 11818
+      },
+      {
+        "_path": "site-packages/ee/tests/ee_array_test.py",
+        "path_type": "hardlink",
+        "sha256": "2555d285d6ce54e8e57d2a4d81873f355ae49d06adb8f399d7d7c6d088b9c955",
+        "sha256_in_prefix": "2555d285d6ce54e8e57d2a4d81873f355ae49d06adb8f399d7d7c6d088b9c955",
+        "size_in_bytes": 50268
+      },
+      {
+        "_path": "site-packages/ee/tests/ee_date_test.py",
+        "path_type": "hardlink",
+        "sha256": "f2b2d45df8f2896dcb8813824a7780ed91a09a8160379a19af9f31e531ed2866",
+        "sha256_in_prefix": "f2b2d45df8f2896dcb8813824a7780ed91a09a8160379a19af9f31e531ed2866",
+        "size_in_bytes": 11106
+      },
+      {
+        "_path": "site-packages/ee/tests/ee_list_test.py",
+        "path_type": "hardlink",
+        "sha256": "c9dd8459919d83ba4b261b07491e406cae7c6614f7d4663e9f6a357434f7a7d0",
+        "sha256_in_prefix": "c9dd8459919d83ba4b261b07491e406cae7c6614f7d4663e9f6a357434f7a7d0",
+        "size_in_bytes": 21797
+      },
+      {
+        "_path": "site-packages/ee/tests/ee_number_test.py",
+        "path_type": "hardlink",
+        "sha256": "62e2405a0e15e042c22dd9a910dedfe1673fe9ac8eade58aba2f193397e48db8",
+        "sha256_in_prefix": "62e2405a0e15e042c22dd9a910dedfe1673fe9ac8eade58aba2f193397e48db8",
+        "size_in_bytes": 35029
+      },
+      {
+        "_path": "site-packages/ee/tests/ee_string_test.py",
+        "path_type": "hardlink",
+        "sha256": "5fa5c9c1ad3dc895e1834ac8a516f840503779e188ae1d970a5c21541c8c4416",
+        "sha256_in_prefix": "5fa5c9c1ad3dc895e1834ac8a516f840503779e188ae1d970a5c21541c8c4416",
+        "size_in_bytes": 9664
+      },
+      {
+        "_path": "site-packages/ee/tests/ee_test.py",
+        "path_type": "hardlink",
+        "sha256": "098e5751f87fe41c7ac8852b1c323549b55fced2207a307e2c676008c813d080",
+        "sha256_in_prefix": "098e5751f87fe41c7ac8852b1c323549b55fced2207a307e2c676008c813d080",
+        "size_in_bytes": 17835
+      },
+      {
+        "_path": "site-packages/ee/tests/ee_types_test.py",
+        "path_type": "hardlink",
+        "sha256": "a119eaa656935a0e3bcee61f0184d35707a66c29f0f174f6d073cd31d02f80d1",
+        "sha256_in_prefix": "a119eaa656935a0e3bcee61f0184d35707a66c29f0f174f6d073cd31d02f80d1",
+        "size_in_bytes": 921
+      },
+      {
+        "_path": "site-packages/ee/tests/element_test.py",
+        "path_type": "hardlink",
+        "sha256": "19fb75be649eba149e9511ec7462877774b5c6e727510261f19946499d89c51c",
+        "sha256_in_prefix": "19fb75be649eba149e9511ec7462877774b5c6e727510261f19946499d89c51c",
+        "size_in_bytes": 1968
+      },
+      {
+        "_path": "site-packages/ee/tests/errormargin_test.py",
+        "path_type": "hardlink",
+        "sha256": "604073bc116c0fbe7a9e271905c8e73c5017cb4ea364d2a249201ada103337e3",
+        "sha256_in_prefix": "604073bc116c0fbe7a9e271905c8e73c5017cb4ea364d2a249201ada103337e3",
+        "size_in_bytes": 5061
+      },
+      {
+        "_path": "site-packages/ee/tests/feature_test.py",
+        "path_type": "hardlink",
+        "sha256": "fa2abea7dc6274f574584dfdf23d6758be869f862f8bf09045eb476c7843a283",
+        "sha256_in_prefix": "fa2abea7dc6274f574584dfdf23d6758be869f862f8bf09045eb476c7843a283",
+        "size_in_bytes": 22514
+      },
+      {
+        "_path": "site-packages/ee/tests/featurecollection_test.py",
+        "path_type": "hardlink",
+        "sha256": "6f74b089e5dbf27c91cc097028afe749ae3119ccb90329c80d9d40dec574d84b",
+        "sha256_in_prefix": "6f74b089e5dbf27c91cc097028afe749ae3119ccb90329c80d9d40dec574d84b",
+        "size_in_bytes": 38440
+      },
+      {
+        "_path": "site-packages/ee/tests/filter_test.py",
+        "path_type": "hardlink",
+        "sha256": "77e290ff323eafb04031accaaaa1cc33335465d782e3a05989c88c7ed84a10ef",
+        "sha256_in_prefix": "77e290ff323eafb04031accaaaa1cc33335465d782e3a05989c88c7ed84a10ef",
+        "size_in_bytes": 35033
+      },
+      {
+        "_path": "site-packages/ee/tests/function_test.py",
+        "path_type": "hardlink",
+        "sha256": "d21bfb1fe436d6f743bea1cd1ffdcdbc58ff9cf116336161ec20f4c208d71363",
+        "sha256_in_prefix": "d21bfb1fe436d6f743bea1cd1ffdcdbc58ff9cf116336161ec20f4c208d71363",
+        "size_in_bytes": 3131
+      },
+      {
+        "_path": "site-packages/ee/tests/geometry_point_test.py",
+        "path_type": "hardlink",
+        "sha256": "c3d3184f0bf0d82a3dac88df7c50747b343f8d9cfc9f16dd80e73286a4d39a39",
+        "sha256_in_prefix": "c3d3184f0bf0d82a3dac88df7c50747b343f8d9cfc9f16dd80e73286a4d39a39",
+        "size_in_bytes": 15093
+      },
+      {
+        "_path": "site-packages/ee/tests/geometry_test.py",
+        "path_type": "hardlink",
+        "sha256": "e5c35b953b57838820d24d7fea0a385cbd8495d6364ad39f0fbb10ec1bb45995",
+        "sha256_in_prefix": "e5c35b953b57838820d24d7fea0a385cbd8495d6364ad39f0fbb10ec1bb45995",
+        "size_in_bytes": 32424
+      },
+      {
+        "_path": "site-packages/ee/tests/image_converter_test.py",
+        "path_type": "hardlink",
+        "sha256": "c76f52b4caf3bfa8e5013b71dd75c2eeb128ec282b731d17c95a0cf9c715b9aa",
+        "sha256_in_prefix": "c76f52b4caf3bfa8e5013b71dd75c2eeb128ec282b731d17c95a0cf9c715b9aa",
+        "size_in_bytes": 1853
+      },
+      {
+        "_path": "site-packages/ee/tests/image_test.py",
+        "path_type": "hardlink",
+        "sha256": "fd226679eee8acfa2ddbabdbc4a11970d67a3acacdaf1bf74e82275982cd64b3",
+        "sha256_in_prefix": "fd226679eee8acfa2ddbabdbc4a11970d67a3acacdaf1bf74e82275982cd64b3",
+        "size_in_bytes": 150917
+      },
+      {
+        "_path": "site-packages/ee/tests/imagecollection_test.py",
+        "path_type": "hardlink",
+        "sha256": "aa8b1165709b87016ecbca91ec36c0f85325e24b56ed8d9c5091de5cb72cce98",
+        "sha256_in_prefix": "aa8b1165709b87016ecbca91ec36c0f85325e24b56ed8d9c5091de5cb72cce98",
+        "size_in_bytes": 38444
+      },
+      {
+        "_path": "site-packages/ee/tests/join_test.py",
+        "path_type": "hardlink",
+        "sha256": "a4520bab7a8cdbbaceeb85986c10b503f1acf3fa5a6d1bfaf17ecc53f10cfdcc",
+        "sha256_in_prefix": "a4520bab7a8cdbbaceeb85986c10b503f1acf3fa5a6d1bfaf17ecc53f10cfdcc",
+        "size_in_bytes": 7630
+      },
+      {
+        "_path": "site-packages/ee/tests/kernel_test.py",
+        "path_type": "hardlink",
+        "sha256": "fb49d954d4b1135206b38cbad288a32128761e2d55ecd0a3ae652710c0ddd274",
+        "sha256_in_prefix": "fb49d954d4b1135206b38cbad288a32128761e2d55ecd0a3ae652710c0ddd274",
+        "size_in_bytes": 19378
+      },
+      {
+        "_path": "site-packages/ee/tests/model_test.py",
+        "path_type": "hardlink",
+        "sha256": "7609d67ea4784783085258cc04bd5339ccedcc0fa558497b713e5fd98d24d9c9",
+        "sha256_in_prefix": "7609d67ea4784783085258cc04bd5339ccedcc0fa558497b713e5fd98d24d9c9",
+        "size_in_bytes": 12483
+      },
+      {
+        "_path": "site-packages/ee/tests/oauth_test.py",
+        "path_type": "hardlink",
+        "sha256": "8d8170f0658f1662d1d2387636f6dcacc8b3428fea47f6d10c1551748678e20d",
+        "sha256_in_prefix": "8d8170f0658f1662d1d2387636f6dcacc8b3428fea47f6d10c1551748678e20d",
+        "size_in_bytes": 3067
+      },
+      {
+        "_path": "site-packages/ee/tests/pixeltype_test.py",
+        "path_type": "hardlink",
+        "sha256": "d342162a767bc71915c12482b963a50b0953b0701bdd73f22a9d40adce12d765",
+        "sha256_in_prefix": "d342162a767bc71915c12482b963a50b0953b0701bdd73f22a9d40adce12d765",
+        "size_in_bytes": 10024
+      },
+      {
+        "_path": "site-packages/ee/tests/projection_test.py",
+        "path_type": "hardlink",
+        "sha256": "7ca5d7c503c1bd676530db4db09cdeda96ec4f4c871e52fb38df0f7639b567b1",
+        "sha256_in_prefix": "7ca5d7c503c1bd676530db4db09cdeda96ec4f4c871e52fb38df0f7639b567b1",
+        "size_in_bytes": 6871
+      },
+      {
+        "_path": "site-packages/ee/tests/reducer_test.py",
+        "path_type": "hardlink",
+        "sha256": "bea5e980b67b7cfc9f675dacae944480ca5faca60b705428777427d4d8afed53",
+        "sha256_in_prefix": "bea5e980b67b7cfc9f675dacae944480ca5faca60b705428777427d4d8afed53",
+        "size_in_bytes": 31979
+      },
+      {
+        "_path": "site-packages/ee/tests/serializer_test.py",
+        "path_type": "hardlink",
+        "sha256": "77a2045bf76df86f74d0845f42765fb6bc23a5cd7027ea2e69043068b3b41712",
+        "sha256_in_prefix": "77a2045bf76df86f74d0845f42765fb6bc23a5cd7027ea2e69043068b3b41712",
+        "size_in_bytes": 9834
+      },
+      {
+        "_path": "site-packages/ee/tests/table_converter_test.py",
+        "path_type": "hardlink",
+        "sha256": "2ae6c2fc86384a95e4a44c2f8aca6523529080bcc714e7f129ea4681c642a0b8",
+        "sha256_in_prefix": "2ae6c2fc86384a95e4a44c2f8aca6523529080bcc714e7f129ea4681c642a0b8",
+        "size_in_bytes": 3360
+      },
+      {
+        "_path": "site-packages/ee/tests/terrain_test.py",
+        "path_type": "hardlink",
+        "sha256": "8a7676b32f34ee70c6fc732eb731876aa71351a2e765038c756c9fd0dad0cd5d",
+        "sha256_in_prefix": "8a7676b32f34ee70c6fc732eb731876aa71351a2e765038c756c9fd0dad0cd5d",
+        "size_in_bytes": 4561
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/_arg_types.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/_cloud_api_utils.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/_helpers.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/_state.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/_utils.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/apifunction.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/apitestcase.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/batch.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/blob.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/classifier.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/cli/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/cli/__pycache__/commands.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/cli/__pycache__/eecli.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/cli/__pycache__/eecli_wrapper.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/cli/__pycache__/utils.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/clusterer.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/collection.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/computedobject.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/confusionmatrix.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/customfunction.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/data.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/daterange.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/deprecation.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/deserializer.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/dictionary.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/ee_array.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/ee_date.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/ee_exception.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/ee_list.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/ee_number.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/ee_string.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/ee_types.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/element.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/encodable.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/errormargin.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/feature.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/featurecollection.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/filter.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/function.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/geometry.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/image.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/image_converter.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/imagecollection.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/join.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/kernel.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/mapclient.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/model.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/oauth.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/pixeltype.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/projection.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/reducer.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/serializer.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/table_converter.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/__pycache__/terrain.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/_cloud_api_utils_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/_helpers_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/_state_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/_utils_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/apifunction_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/batch_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/blob_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/classifier_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/clusterer_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/collection_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/computedobject_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/confusionmatrix_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/data_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/daterange_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/deprecation_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/deserializer_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/dictionary_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/ee_array_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/ee_date_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/ee_list_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/ee_number_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/ee_string_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/ee_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/ee_types_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/element_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/errormargin_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/feature_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/featurecollection_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/filter_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/function_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/geometry_point_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/geometry_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/image_converter_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/image_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/imagecollection_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/join_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/kernel_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/model_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/oauth_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/pixeltype_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/projection_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/reducer_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/serializer_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/table_converter_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ee/tests/__pycache__/terrain_test.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/earthengine-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/earthengine.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "earthengine-api",
+  "sha256": "5431d413f4b22c65d7c2599bc68cfcf1b7b4dababf35d11bddadd3547bb7c217",
+  "size": 320788,
+  "subdir": "noarch",
+  "timestamp": 1763590008000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/earthengine-api-1.7.1-pyhd8ed1ab_0.conda",
+  "version": "1.7.1"
+}

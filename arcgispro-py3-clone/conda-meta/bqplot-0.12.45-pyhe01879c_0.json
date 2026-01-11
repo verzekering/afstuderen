@@ -1,0 +1,493 @@
+{
+  "build": "pyhe01879c_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python",
+    "python >=3.9",
+    "numpy >=1.10.4",
+    "ipywidgets >=7.6.0,<9",
+    "traittypes >=0.0.6",
+    "traitlets >=4.3.0,<6.0",
+    "pandas >=1.0.0,<3.0.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\bqplot-0.12.45-pyhe01879c_0",
+  "files": [
+    "etc/jupyter/nbconfig/notebook.d/bqplot.json",
+    "share/jupyter/labextensions/bqplot/install.json",
+    "share/jupyter/labextensions/bqplot/package.json",
+    "share/jupyter/labextensions/bqplot/static/133.184b7ff4eeea6053c218.js",
+    "share/jupyter/labextensions/bqplot/static/212.898d3b3da016aa77edc1.js",
+    "share/jupyter/labextensions/bqplot/static/212.898d3b3da016aa77edc1.js.LICENSE.txt",
+    "share/jupyter/labextensions/bqplot/static/501.6c13f92ce49688bde790.js",
+    "share/jupyter/labextensions/bqplot/static/568.b608ff62f9d0024ea2f1.js",
+    "share/jupyter/labextensions/bqplot/static/662.d928d9e888427c5996be.js",
+    "share/jupyter/labextensions/bqplot/static/794.8d6261fd8a7307e156f7.js",
+    "share/jupyter/labextensions/bqplot/static/815.4fcd9a1489787115f930.js",
+    "share/jupyter/labextensions/bqplot/static/842.a94bbf6f3349e982fb8b.js",
+    "share/jupyter/labextensions/bqplot/static/87.cc5d175e0ffc0d125bd5.js",
+    "share/jupyter/labextensions/bqplot/static/981.3f93685e278b785a3338.js",
+    "share/jupyter/labextensions/bqplot/static/981.3f93685e278b785a3338.js.LICENSE.txt",
+    "share/jupyter/labextensions/bqplot/static/remoteEntry.ac6ba46a96b6912c489d.js",
+    "share/jupyter/labextensions/bqplot/static/style.js",
+    "share/jupyter/labextensions/bqplot/static/third-party-licenses.json",
+    "share/jupyter/nbextensions/bqplot/extension.js",
+    "share/jupyter/nbextensions/bqplot/index.js",
+    "Lib/site-packages/bqplot/__init__.py",
+    "Lib/site-packages/bqplot/_version.py",
+    "Lib/site-packages/bqplot/axes.py",
+    "Lib/site-packages/bqplot/colorschemes.py",
+    "Lib/site-packages/bqplot/default_tooltip.py",
+    "Lib/site-packages/bqplot/figure.py",
+    "Lib/site-packages/bqplot/install.py",
+    "Lib/site-packages/bqplot/interacts.py",
+    "Lib/site-packages/bqplot/map_data/EuropeMap.json",
+    "Lib/site-packages/bqplot/map_data/USCountiesMap.json",
+    "Lib/site-packages/bqplot/map_data/USStatesMap.json",
+    "Lib/site-packages/bqplot/map_data/WorldMap.json",
+    "Lib/site-packages/bqplot/market_map.py",
+    "Lib/site-packages/bqplot/marks.py",
+    "Lib/site-packages/bqplot/plotting_widgets.py",
+    "Lib/site-packages/bqplot/pyplot.py",
+    "Lib/site-packages/bqplot/scales.py",
+    "Lib/site-packages/bqplot/toolbar.py",
+    "Lib/site-packages/bqplot/traits.py",
+    "Lib/site-packages/bqplot-0.12.45.dist-info/INSTALLER",
+    "Lib/site-packages/bqplot-0.12.45.dist-info/METADATA",
+    "Lib/site-packages/bqplot-0.12.45.dist-info/RECORD",
+    "Lib/site-packages/bqplot-0.12.45.dist-info/REQUESTED",
+    "Lib/site-packages/bqplot-0.12.45.dist-info/WHEEL",
+    "Lib/site-packages/bqplot-0.12.45.dist-info/direct_url.json",
+    "Lib/site-packages/bqplot-0.12.45.dist-info/licenses/LICENSE",
+    "Lib/site-packages/bqplot-0.12.45.dist-info/top_level.txt",
+    ".nonadmin",
+    "Lib/site-packages/bqplot/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/bqplot/__pycache__/_version.cpython-311.pyc",
+    "Lib/site-packages/bqplot/__pycache__/axes.cpython-311.pyc",
+    "Lib/site-packages/bqplot/__pycache__/colorschemes.cpython-311.pyc",
+    "Lib/site-packages/bqplot/__pycache__/default_tooltip.cpython-311.pyc",
+    "Lib/site-packages/bqplot/__pycache__/figure.cpython-311.pyc",
+    "Lib/site-packages/bqplot/__pycache__/install.cpython-311.pyc",
+    "Lib/site-packages/bqplot/__pycache__/interacts.cpython-311.pyc",
+    "Lib/site-packages/bqplot/__pycache__/market_map.cpython-311.pyc",
+    "Lib/site-packages/bqplot/__pycache__/marks.cpython-311.pyc",
+    "Lib/site-packages/bqplot/__pycache__/plotting_widgets.cpython-311.pyc",
+    "Lib/site-packages/bqplot/__pycache__/pyplot.cpython-311.pyc",
+    "Lib/site-packages/bqplot/__pycache__/scales.cpython-311.pyc",
+    "Lib/site-packages/bqplot/__pycache__/toolbar.cpython-311.pyc",
+    "Lib/site-packages/bqplot/__pycache__/traits.cpython-311.pyc"
+  ],
+  "fn": "bqplot-0.12.45-pyhe01879c_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\bqplot-0.12.45-pyhe01879c_0",
+    "type": 1
+  },
+  "md5": "3cedf673ae6d0e272807bcb9929df40e",
+  "name": "bqplot",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\bqplot-0.12.45-pyhe01879c_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "etc/jupyter/nbconfig/notebook.d/bqplot.json",
+        "path_type": "hardlink",
+        "sha256": "1ddf69a00ab8109eb027067106f1afe3038132536b2ae58140393167f1cf847b",
+        "sha256_in_prefix": "1ddf69a00ab8109eb027067106f1afe3038132536b2ae58140393167f1cf847b",
+        "size_in_bytes": 60
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/install.json",
+        "path_type": "hardlink",
+        "sha256": "23e02b053b495eff9a22fd7da42e3ddaaaa614d550a61c12ef5ebb23d747f190",
+        "sha256_in_prefix": "23e02b053b495eff9a22fd7da42e3ddaaaa614d550a61c12ef5ebb23d747f190",
+        "size_in_bytes": 173
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/package.json",
+        "path_type": "hardlink",
+        "sha256": "b8d78f2511b6252f1136734018bbf0db0811bbccfe4dad02515fd8efcc781861",
+        "sha256_in_prefix": "b8d78f2511b6252f1136734018bbf0db0811bbccfe4dad02515fd8efcc781861",
+        "size_in_bytes": 3172
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/static/133.184b7ff4eeea6053c218.js",
+        "path_type": "hardlink",
+        "sha256": "184b7ff4eeea6053c218cae688aa6f8859f700444ac66ea6447d036ac1ceb55c",
+        "sha256_in_prefix": "184b7ff4eeea6053c218cae688aa6f8859f700444ac66ea6447d036ac1ceb55c",
+        "size_in_bytes": 15617
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/static/212.898d3b3da016aa77edc1.js",
+        "path_type": "hardlink",
+        "sha256": "9b9dd2ec059faa78e980c7dbad332f8dd97ae37d59095c411913e9659bbc557a",
+        "sha256_in_prefix": "9b9dd2ec059faa78e980c7dbad332f8dd97ae37d59095c411913e9659bbc557a",
+        "size_in_bytes": 538309
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/static/212.898d3b3da016aa77edc1.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "2355fa961337587bcf330cdd5fffa4bc73fb8758b9a62b43cfb618aea465f125",
+        "sha256_in_prefix": "2355fa961337587bcf330cdd5fffa4bc73fb8758b9a62b43cfb618aea465f125",
+        "size_in_bytes": 44
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/static/501.6c13f92ce49688bde790.js",
+        "path_type": "hardlink",
+        "sha256": "6c13f92ce49688bde79047502f171a9e101a8602fb277f363748a161419a5651",
+        "sha256_in_prefix": "6c13f92ce49688bde79047502f171a9e101a8602fb277f363748a161419a5651",
+        "size_in_bytes": 710
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/static/568.b608ff62f9d0024ea2f1.js",
+        "path_type": "hardlink",
+        "sha256": "b608ff62f9d0024ea2f17e068a0b3cdf581ee8c9d238dd575db8e95ce14a5afe",
+        "sha256_in_prefix": "b608ff62f9d0024ea2f17e068a0b3cdf581ee8c9d238dd575db8e95ce14a5afe",
+        "size_in_bytes": 425855
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/static/662.d928d9e888427c5996be.js",
+        "path_type": "hardlink",
+        "sha256": "d928d9e888427c5996be9ad6a35a5b5e7bdd7d9b7970fad38ddb5a3e77cf1397",
+        "sha256_in_prefix": "d928d9e888427c5996be9ad6a35a5b5e7bdd7d9b7970fad38ddb5a3e77cf1397",
+        "size_in_bytes": 200722
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/static/794.8d6261fd8a7307e156f7.js",
+        "path_type": "hardlink",
+        "sha256": "8d6261fd8a7307e156f7513414a42767652c35f9083f6ab7f71bec34d08744aa",
+        "sha256_in_prefix": "8d6261fd8a7307e156f7513414a42767652c35f9083f6ab7f71bec34d08744aa",
+        "size_in_bytes": 22074
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/static/815.4fcd9a1489787115f930.js",
+        "path_type": "hardlink",
+        "sha256": "4fcd9a1489787115f9300f18231f15d4571bcda0e83c58a07195484100bab776",
+        "sha256_in_prefix": "4fcd9a1489787115f9300f18231f15d4571bcda0e83c58a07195484100bab776",
+        "size_in_bytes": 13081
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/static/842.a94bbf6f3349e982fb8b.js",
+        "path_type": "hardlink",
+        "sha256": "a94bbf6f3349e982fb8bbd6629f21f57388066982f747c466f3b443151a11c15",
+        "sha256_in_prefix": "a94bbf6f3349e982fb8bbd6629f21f57388066982f747c466f3b443151a11c15",
+        "size_in_bytes": 54310
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/static/87.cc5d175e0ffc0d125bd5.js",
+        "path_type": "hardlink",
+        "sha256": "cc5d175e0ffc0d125bd53e3fdbc9a876a6b3ab9ac6aca2fe9ed30ada87ca24b2",
+        "sha256_in_prefix": "cc5d175e0ffc0d125bd53e3fdbc9a876a6b3ab9ac6aca2fe9ed30ada87ca24b2",
+        "size_in_bytes": 6312
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/static/981.3f93685e278b785a3338.js",
+        "path_type": "hardlink",
+        "sha256": "3eb8076dae15637e508741491e31341f0c423b3c45a52e126cef67f4afb48e29",
+        "sha256_in_prefix": "3eb8076dae15637e508741491e31341f0c423b3c45a52e126cef67f4afb48e29",
+        "size_in_bytes": 20892
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/static/981.3f93685e278b785a3338.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "a5575483e0d910f7e5ca737628948a4144ca883fed7ac486dbc5d50153ab1272",
+        "sha256_in_prefix": "a5575483e0d910f7e5ca737628948a4144ca883fed7ac486dbc5d50153ab1272",
+        "size_in_bytes": 1262
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/static/remoteEntry.ac6ba46a96b6912c489d.js",
+        "path_type": "hardlink",
+        "sha256": "ac6ba46a96b6912c489d840499266a7a2349372dea57a6a9cabfa18d2a3b3e15",
+        "sha256_in_prefix": "ac6ba46a96b6912c489d840499266a7a2349372dea57a6a9cabfa18d2a3b3e15",
+        "size_in_bytes": 8482
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/static/style.js",
+        "path_type": "hardlink",
+        "sha256": "f8242dd194cf6824efad188b7339f17e501b7ef20a94e5738cea2cfa6b9a5d0f",
+        "sha256_in_prefix": "f8242dd194cf6824efad188b7339f17e501b7ef20a94e5738cea2cfa6b9a5d0f",
+        "size_in_bytes": 118
+      },
+      {
+        "_path": "share/jupyter/labextensions/bqplot/static/third-party-licenses.json",
+        "path_type": "hardlink",
+        "sha256": "c4bdaec4ecbff0cf4a304985dfea87bf60f8ec2cc8b7807cc1d93cb75bc6515a",
+        "sha256_in_prefix": "c4bdaec4ecbff0cf4a304985dfea87bf60f8ec2cc8b7807cc1d93cb75bc6515a",
+        "size_in_bytes": 64818
+      },
+      {
+        "_path": "share/jupyter/nbextensions/bqplot/extension.js",
+        "path_type": "hardlink",
+        "sha256": "d8baf49bbc445daaa7c0197c951bcdc1aa260bfffe78c0a438c060ec802f2612",
+        "sha256_in_prefix": "d8baf49bbc445daaa7c0197c951bcdc1aa260bfffe78c0a438c060ec802f2612",
+        "size_in_bytes": 268
+      },
+      {
+        "_path": "share/jupyter/nbextensions/bqplot/index.js",
+        "path_type": "hardlink",
+        "sha256": "394fc171930fd5a148bc36ce9978ca7d03b940cb31806b6bef8c70f8110afc7f",
+        "sha256_in_prefix": "394fc171930fd5a148bc36ce9978ca7d03b940cb31806b6bef8c70f8110afc7f",
+        "size_in_bytes": 1538398
+      },
+      {
+        "_path": "site-packages/bqplot/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c26826bf700d2baaf27966dcba6314c8aff517264f71026783e136a14872573e",
+        "sha256_in_prefix": "c26826bf700d2baaf27966dcba6314c8aff517264f71026783e136a14872573e",
+        "size_in_bytes": 2647
+      },
+      {
+        "_path": "site-packages/bqplot/_version.py",
+        "path_type": "hardlink",
+        "sha256": "cd6e74a4b7631f3cf3f18112730e75a0f27f883c1b2a2da2f3aa88487bdc8b8c",
+        "sha256_in_prefix": "cd6e74a4b7631f3cf3f18112730e75a0f27f883c1b2a2da2f3aa88487bdc8b8c",
+        "size_in_bytes": 327
+      },
+      {
+        "_path": "site-packages/bqplot/axes.py",
+        "path_type": "hardlink",
+        "sha256": "607a01ba741d17ccf5f25a364c01891ea2392d1852928c2457955d64739c66f6",
+        "sha256_in_prefix": "607a01ba741d17ccf5f25a364c01891ea2392d1852928c2457955d64739c66f6",
+        "size_in_bytes": 6537
+      },
+      {
+        "_path": "site-packages/bqplot/colorschemes.py",
+        "path_type": "hardlink",
+        "sha256": "f0da26336e538c46811d701a2728c4a4ee06f5e5c35d07ea461255a35a133e22",
+        "sha256_in_prefix": "f0da26336e538c46811d701a2728c4a4ee06f5e5c35d07ea461255a35a133e22",
+        "size_in_bytes": 2808
+      },
+      {
+        "_path": "site-packages/bqplot/default_tooltip.py",
+        "path_type": "hardlink",
+        "sha256": "48f4a3108e3c7a10fdfe94f4bfc41d7ae1907d8f6f6321888f12ee43b5848826",
+        "sha256_in_prefix": "48f4a3108e3c7a10fdfe94f4bfc41d7ae1907d8f6f6321888f12ee43b5848826",
+        "size_in_bytes": 2294
+      },
+      {
+        "_path": "site-packages/bqplot/figure.py",
+        "path_type": "hardlink",
+        "sha256": "277e011bc8376bd243967019bf0c38e6ede7fcbace467cd05a8715d95f6f9bc1",
+        "sha256_in_prefix": "277e011bc8376bd243967019bf0c38e6ede7fcbace467cd05a8715d95f6f9bc1",
+        "size_in_bytes": 9755
+      },
+      {
+        "_path": "site-packages/bqplot/install.py",
+        "path_type": "hardlink",
+        "sha256": "22f00f585dec0b22f57ed5cc6f23163c1e36c721c041faa0aeea83a83d24a01a",
+        "sha256_in_prefix": "22f00f585dec0b22f57ed5cc6f23163c1e36c721c041faa0aeea83a83d24a01a",
+        "size_in_bytes": 1549
+      },
+      {
+        "_path": "site-packages/bqplot/interacts.py",
+        "path_type": "hardlink",
+        "sha256": "d63a88619779479d03c42ee44015d6b306613925e0fd58f5130451c79e24e4d9",
+        "sha256_in_prefix": "d63a88619779479d03c42ee44015d6b306613925e0fd58f5130451c79e24e4d9",
+        "size_in_bytes": 22555
+      },
+      {
+        "_path": "site-packages/bqplot/map_data/EuropeMap.json",
+        "path_type": "hardlink",
+        "sha256": "08322a75d4ac4027f88e9fe322a69222afb5bd6d4e5268daaec5ea500e28fd6f",
+        "sha256_in_prefix": "08322a75d4ac4027f88e9fe322a69222afb5bd6d4e5268daaec5ea500e28fd6f",
+        "size_in_bytes": 585370
+      },
+      {
+        "_path": "site-packages/bqplot/map_data/USCountiesMap.json",
+        "path_type": "hardlink",
+        "sha256": "3ed03a58a99190ce581f7b639239788dbb551376a5c97497fee39defdc7bd2a5",
+        "sha256_in_prefix": "3ed03a58a99190ce581f7b639239788dbb551376a5c97497fee39defdc7bd2a5",
+        "size_in_bytes": 890275
+      },
+      {
+        "_path": "site-packages/bqplot/map_data/USStatesMap.json",
+        "path_type": "hardlink",
+        "sha256": "5dae92fd75d6e69bbade2d35d499acf3081cfe8b87619768711f45de6054a89d",
+        "sha256_in_prefix": "5dae92fd75d6e69bbade2d35d499acf3081cfe8b87619768711f45de6054a89d",
+        "size_in_bytes": 373665
+      },
+      {
+        "_path": "site-packages/bqplot/map_data/WorldMap.json",
+        "path_type": "hardlink",
+        "sha256": "35ed3867de6bc88de49a2aca6655ca8b91d0c4118cb85d8282ad8a1f67299e1c",
+        "sha256_in_prefix": "35ed3867de6bc88de49a2aca6655ca8b91d0c4118cb85d8282ad8a1f67299e1c",
+        "size_in_bytes": 123542
+      },
+      {
+        "_path": "site-packages/bqplot/market_map.py",
+        "path_type": "hardlink",
+        "sha256": "84447db0e5c736226689ae3a0cf130c00e08709ebcdb0a88d4a9d6c8d9aca492",
+        "sha256_in_prefix": "84447db0e5c736226689ae3a0cf130c00e08709ebcdb0a88d4a9d6c8d9aca492",
+        "size_in_bytes": 9448
+      },
+      {
+        "_path": "site-packages/bqplot/marks.py",
+        "path_type": "hardlink",
+        "sha256": "59619838005fd1b4f25883e65143cab3319b1a704284bff4b7c07e93aa696971",
+        "sha256_in_prefix": "59619838005fd1b4f25883e65143cab3319b1a704284bff4b7c07e93aa696971",
+        "size_in_bytes": 75500
+      },
+      {
+        "_path": "site-packages/bqplot/plotting_widgets.py",
+        "path_type": "hardlink",
+        "sha256": "d456971c0801d40466077ad647657bb2add3bdb1b386161f8268bbb25ed31ab7",
+        "sha256_in_prefix": "d456971c0801d40466077ad647657bb2add3bdb1b386161f8268bbb25ed31ab7",
+        "size_in_bytes": 6986
+      },
+      {
+        "_path": "site-packages/bqplot/pyplot.py",
+        "path_type": "hardlink",
+        "sha256": "5d1b0867d67fbd3b33829404c817b543af80e783acb854d6744ba915a8d78e52",
+        "sha256_in_prefix": "5d1b0867d67fbd3b33829404c817b543af80e783acb854d6744ba915a8d78e52",
+        "size_in_bytes": 47548
+      },
+      {
+        "_path": "site-packages/bqplot/scales.py",
+        "path_type": "hardlink",
+        "sha256": "1fe8b4cb069f0a1c7a13894f6d0a1405bf627c36eb73955cfbf6c1ed8624ae83",
+        "sha256_in_prefix": "1fe8b4cb069f0a1c7a13894f6d0a1405bf627c36eb73955cfbf6c1ed8624ae83",
+        "size_in_bytes": 19347
+      },
+      {
+        "_path": "site-packages/bqplot/toolbar.py",
+        "path_type": "hardlink",
+        "sha256": "a1e0689580ff27ee79c6a0356c6b9c59c068d97a51880eac8a5b268f2f243afa",
+        "sha256_in_prefix": "a1e0689580ff27ee79c6a0356c6b9c59c068d97a51880eac8a5b268f2f243afa",
+        "size_in_bytes": 2759
+      },
+      {
+        "_path": "site-packages/bqplot/traits.py",
+        "path_type": "hardlink",
+        "sha256": "4f30f8adc0711ece8a38597f6f9e038dbb2b4d763993f6282e96f6a246d29d13",
+        "sha256_in_prefix": "4f30f8adc0711ece8a38597f6f9e038dbb2b4d763993f6282e96f6a246d29d13",
+        "size_in_bytes": 10105
+      },
+      {
+        "_path": "site-packages/bqplot-0.12.45.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "bc33022edcb7639ff53355b4e91dade50a0bbf0299efeb6171d1ec0ba5029cfc",
+        "sha256_in_prefix": "bc33022edcb7639ff53355b4e91dade50a0bbf0299efeb6171d1ec0ba5029cfc",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "site-packages/bqplot-0.12.45.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "3cbfe88b4642196660a93241d2d18feb0ee03f0392ed0f82188a5f1a24a6e192",
+        "sha256_in_prefix": "3cbfe88b4642196660a93241d2d18feb0ee03f0392ed0f82188a5f1a24a6e192",
+        "size_in_bytes": 6436
+      },
+      {
+        "_path": "site-packages/bqplot-0.12.45.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "bbf3465e42630f5b9ee8ce0154cc7398d464549a9d6a75b762a006346f243dc5",
+        "sha256_in_prefix": "bbf3465e42630f5b9ee8ce0154cc7398d464549a9d6a75b762a006346f243dc5",
+        "size_in_bytes": 5507
+      },
+      {
+        "_path": "site-packages/bqplot-0.12.45.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/bqplot-0.12.45.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "24d5a1d459b551dc08415d3be609429f8315b8246cd2ca2d248abe27aadbc425",
+        "sha256_in_prefix": "24d5a1d459b551dc08415d3be609429f8315b8246cd2ca2d248abe27aadbc425",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "site-packages/bqplot-0.12.45.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a2186c7a8e73f8f450e83e96f5940451662f02347129ee0419a42a6a85476f72",
+        "sha256_in_prefix": "a2186c7a8e73f8f450e83e96f5940451662f02347129ee0419a42a6a85476f72",
+        "size_in_bytes": 117
+      },
+      {
+        "_path": "site-packages/bqplot-0.12.45.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "cb5e975337295587371256e133154cf534e3dad65ead9a69e35e95ec2b97c859",
+        "sha256_in_prefix": "cb5e975337295587371256e133154cf534e3dad65ead9a69e35e95ec2b97c859",
+        "size_in_bytes": 17723
+      },
+      {
+        "_path": "site-packages/bqplot-0.12.45.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "68066d66540709b14be2f636fe931faa92ad25d5cd1184e1febaef54e28fd136",
+        "sha256_in_prefix": "68066d66540709b14be2f636fe931faa92ad25d5cd1184e1febaef54e28fd136",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "Lib/site-packages/bqplot/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bqplot/__pycache__/_version.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bqplot/__pycache__/axes.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bqplot/__pycache__/colorschemes.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bqplot/__pycache__/default_tooltip.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bqplot/__pycache__/figure.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bqplot/__pycache__/install.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bqplot/__pycache__/interacts.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bqplot/__pycache__/market_map.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bqplot/__pycache__/marks.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bqplot/__pycache__/plotting_widgets.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bqplot/__pycache__/pyplot.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bqplot/__pycache__/scales.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bqplot/__pycache__/toolbar.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/bqplot/__pycache__/traits.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "2248c46491d6cc11692d7fbc5bb61c1b6177fd50654a296c13e31434e30b8994",
+  "size": 966021,
+  "subdir": "noarch",
+  "timestamp": 1756830785000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/bqplot-0.12.45-pyhe01879c_0.conda",
+  "version": "0.12.45"
+}

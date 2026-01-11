@@ -1,0 +1,45 @@
+{
+  "arch": "x86_64",
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "constrains": [],
+  "depends": [
+    "libbrotlidec 1.1.0.*",
+    "libbrotlienc 1.1.0.*"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\brotli-bin-1.1.0-2",
+  "files": [
+    "Library/bin/brotli.exe",
+    ".nonadmin"
+  ],
+  "fn": "brotli-bin-1.1.0-2.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\brotli-bin-1.1.0-2",
+    "type": 1
+  },
+  "md5": "58858390737bc2fb64f50571815bc180",
+  "name": "brotli-bin",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\brotli-bin-1.1.0-2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/brotli.exe",
+        "path_type": "hardlink",
+        "sha256": "69ec4624b40d5a16e539497b05657c3344adae3c02650af9d30b8fa0e3c8ce2b",
+        "sha256_in_prefix": "69ec4624b40d5a16e539497b05657c3344adae3c02650af9d30b8fa0e3c8ce2b",
+        "size_in_bytes": 40288
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "esri/win-64::brotli-bin==1.1.0=2",
+  "sha256": "163f223fd669f94457f6e38e8dd4aa708fbc80e9656d43e0bd5722ce412197b7",
+  "size": 24303,
+  "subdir": "win-64",
+  "timestamp": 1736973874838,
+  "url": "https://conda.anaconda.org/esri/win-64/brotli-bin-1.1.0-2.conda",
+  "version": "1.1.0"
+}

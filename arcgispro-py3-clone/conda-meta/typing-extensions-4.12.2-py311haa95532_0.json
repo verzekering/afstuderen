@@ -1,0 +1,37 @@
+{
+  "arch": "x86_64",
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "typing_extensions 4.12.2 py311haa95532_0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\typing-extensions-4.12.2-py311haa95532_0",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "typing-extensions-4.12.2-py311haa95532_0.conda",
+  "license": "PSF-2.0",
+  "license_family": "PSF",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\typing-extensions-4.12.2-py311haa95532_0",
+    "type": 1
+  },
+  "md5": "6f3224e1a67c6bd27d502bb347a1ccc3",
+  "name": "typing-extensions",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\typing-extensions-4.12.2-py311haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "defaults/win-64::typing-extensions==4.12.2=py311haa95532_0",
+  "sha256": "efd86de41e3dec628b74c2ffbd63d092567a8b04070c2dbdea42fc7f8137263d",
+  "size": 10203,
+  "subdir": "win-64",
+  "timestamp": 1734714947897,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/typing-extensions-4.12.2-py311haa95532_0.conda",
+  "version": "4.12.2"
+}

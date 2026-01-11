@@ -1,0 +1,142 @@
+{
+  "arch": "x86_64",
+  "build": "arcgispro_14",
+  "build_number": 14,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "constrains": [],
+  "depends": [
+    "intel-openmp 2024.*"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\mkl-2024.2.2-arcgispro_14",
+  "features": "arcgispro",
+  "files": [
+    "Library/bin/libimalloc.dll",
+    "Library/bin/mkl_avx2.2.dll",
+    "Library/bin/mkl_avx512.2.dll",
+    "Library/bin/mkl_core.2.dll",
+    "Library/bin/mkl_def.2.dll",
+    "Library/bin/mkl_intel_thread.2.dll",
+    "Library/bin/mkl_mc3.2.dll",
+    "Library/bin/mkl_rt.2.dll",
+    "Library/bin/mkl_sequential.2.dll",
+    "Library/bin/mkl_tbb_thread.2.dll",
+    "Library/bin/mkl_vml_avx2.2.dll",
+    "Library/bin/mkl_vml_avx512.2.dll",
+    "Library/bin/mkl_vml_def.2.dll",
+    ".nonadmin"
+  ],
+  "fn": "mkl-2024.2.2-arcgispro_14.conda",
+  "license": "Intel End User License Agreement for Developer Tools",
+  "license_family": "Proprietary",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\mkl-2024.2.2-arcgispro_14",
+    "type": 1
+  },
+  "md5": "c0cc9db54c975b882a64e60f31ed2304",
+  "name": "mkl",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\mkl-2024.2.2-arcgispro_14.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/libimalloc.dll",
+        "path_type": "hardlink",
+        "sha256": "14611ac25ed6f61b8af2cef3b33893807a8f459a39ee4394e33bb242e2d7c3d2",
+        "sha256_in_prefix": "14611ac25ed6f61b8af2cef3b33893807a8f459a39ee4394e33bb242e2d7c3d2",
+        "size_in_bytes": 14728
+      },
+      {
+        "_path": "Library/bin/mkl_avx2.2.dll",
+        "path_type": "hardlink",
+        "sha256": "e9242b49df13f1b9acd0efd3c6f1fd161e448fc94ce1e08eb3f19c2fe7232c07",
+        "sha256_in_prefix": "e9242b49df13f1b9acd0efd3c6f1fd161e448fc94ce1e08eb3f19c2fe7232c07",
+        "size_in_bytes": 38304136
+      },
+      {
+        "_path": "Library/bin/mkl_avx512.2.dll",
+        "path_type": "hardlink",
+        "sha256": "eefc4105f56c51c1a39c7765ba75241cc7568357855d6f52bcdb78b3f6523d14",
+        "sha256_in_prefix": "eefc4105f56c51c1a39c7765ba75241cc7568357855d6f52bcdb78b3f6523d14",
+        "size_in_bytes": 58527624
+      },
+      {
+        "_path": "Library/bin/mkl_core.2.dll",
+        "path_type": "hardlink",
+        "sha256": "7ba9eb547bfd8d5f7b0141de5e76b103fbb8b11fc3fcc18aa42ea282db615177",
+        "sha256_in_prefix": "7ba9eb547bfd8d5f7b0141de5e76b103fbb8b11fc3fcc18aa42ea282db615177",
+        "size_in_bytes": 62488456
+      },
+      {
+        "_path": "Library/bin/mkl_def.2.dll",
+        "path_type": "hardlink",
+        "sha256": "719dc8c766be2b3aaa6d8eae30f8dc0852a51ca454a0d0207bd80bc65c7d7031",
+        "sha256_in_prefix": "719dc8c766be2b3aaa6d8eae30f8dc0852a51ca454a0d0207bd80bc65c7d7031",
+        "size_in_bytes": 33045384
+      },
+      {
+        "_path": "Library/bin/mkl_intel_thread.2.dll",
+        "path_type": "hardlink",
+        "sha256": "8dc015860d666b18a45d8ea1097123a43ed4f7b59139ae96a9f6f427b6f9e629",
+        "sha256_in_prefix": "8dc015860d666b18a45d8ea1097123a43ed4f7b59139ae96a9f6f427b6f9e629",
+        "size_in_bytes": 36085640
+      },
+      {
+        "_path": "Library/bin/mkl_mc3.2.dll",
+        "path_type": "hardlink",
+        "sha256": "cfa5eb464dc7c3f7c074d236e64e14daca4393a5647f93fc4e8b8801acdd7c4c",
+        "sha256_in_prefix": "cfa5eb464dc7c3f7c074d236e64e14daca4393a5647f93fc4e8b8801acdd7c4c",
+        "size_in_bytes": 39119752
+      },
+      {
+        "_path": "Library/bin/mkl_rt.2.dll",
+        "path_type": "hardlink",
+        "sha256": "75f2faf9ba5a658ebe068e9568d1275514f878b7a760d285b16f1e1505eea67c",
+        "sha256_in_prefix": "75f2faf9ba5a658ebe068e9568d1275514f878b7a760d285b16f1e1505eea67c",
+        "size_in_bytes": 26840968
+      },
+      {
+        "_path": "Library/bin/mkl_sequential.2.dll",
+        "path_type": "hardlink",
+        "sha256": "963c76849feff120471937cfd40321ef5699e3db8f478e0074442861b4ae7794",
+        "sha256_in_prefix": "963c76849feff120471937cfd40321ef5699e3db8f478e0074442861b4ae7794",
+        "size_in_bytes": 22161288
+      },
+      {
+        "_path": "Library/bin/mkl_tbb_thread.2.dll",
+        "path_type": "hardlink",
+        "sha256": "43c28bc53e16d0d5d475b192b59d21d41891b6ec05ce241460cbe435c08bfa11",
+        "sha256_in_prefix": "43c28bc53e16d0d5d475b192b59d21d41891b6ec05ce241460cbe435c08bfa11",
+        "size_in_bytes": 27242888
+      },
+      {
+        "_path": "Library/bin/mkl_vml_avx2.2.dll",
+        "path_type": "hardlink",
+        "sha256": "f9fab30cf62652bd97ae2a926224dc69280c0dea5a6209cc0e9f70f6fc509907",
+        "sha256_in_prefix": "f9fab30cf62652bd97ae2a926224dc69280c0dea5a6209cc0e9f70f6fc509907",
+        "size_in_bytes": 15001992
+      },
+      {
+        "_path": "Library/bin/mkl_vml_avx512.2.dll",
+        "path_type": "hardlink",
+        "sha256": "438b1877d08cdc49971b84de6ef8cb55252cf391361ae5d125426517efa5a62a",
+        "sha256_in_prefix": "438b1877d08cdc49971b84de6ef8cb55252cf391361ae5d125426517efa5a62a",
+        "size_in_bytes": 15831432
+      },
+      {
+        "_path": "Library/bin/mkl_vml_def.2.dll",
+        "path_type": "hardlink",
+        "sha256": "02e3a051bfcb8d424936771fb5acf4dd07c9335904617d2f5ed8e2854180ad56",
+        "sha256_in_prefix": "02e3a051bfcb8d424936771fb5acf4dd07c9335904617d2f5ed8e2854180ad56",
+        "size_in_bytes": 9214856
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "esri/win-64::mkl==2024.2.2=arcgispro_14",
+  "sha256": "2bb25b12b5dc937006b63a655b7f19aa02d7e05ee38aa7499e04e403f09e4fc4",
+  "size": 86247919,
+  "subdir": "win-64",
+  "timestamp": 1733427632806,
+  "url": "https://conda.anaconda.org/esri/win-64/mkl-2024.2.2-arcgispro_14.conda",
+  "version": "2024.2.2"
+}

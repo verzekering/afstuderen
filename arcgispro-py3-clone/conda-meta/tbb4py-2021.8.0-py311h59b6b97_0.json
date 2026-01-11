@@ -1,0 +1,151 @@
+{
+  "arch": "x86_64",
+  "build": "py311h59b6b97_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "tbb >=2021.8.0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\tbb4py-2021.8.0-py311h59b6b97_0",
+  "files": [
+    "Lib/site-packages/TBB-0.2-py3.11.egg-info",
+    "Lib/site-packages/TBB.py",
+    "Lib/site-packages/__pycache__/TBB.cpython-311.pyc",
+    "Lib/site-packages/tbb/__init__.py",
+    "Lib/site-packages/tbb/__main__.py",
+    "Lib/site-packages/tbb/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/tbb/__pycache__/__main__.cpython-311.pyc",
+    "Lib/site-packages/tbb/__pycache__/api.cpython-311.pyc",
+    "Lib/site-packages/tbb/__pycache__/pool.cpython-311.pyc",
+    "Lib/site-packages/tbb/__pycache__/test.cpython-311.pyc",
+    "Lib/site-packages/tbb/_api.cp311-win_amd64.pyd",
+    "Lib/site-packages/tbb/api.py",
+    "Lib/site-packages/tbb/pool.py",
+    "Lib/site-packages/tbb/test.py",
+    ".nonadmin"
+  ],
+  "fn": "tbb4py-2021.8.0-py311h59b6b97_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\tbb4py-2021.8.0-py311h59b6b97_0",
+    "type": 1
+  },
+  "md5": "3a0854a15f6524d2991b17823628e64b",
+  "name": "tbb4py",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\tbb4py-2021.8.0-py311h59b6b97_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/TBB-0.2-py3.11.egg-info",
+        "path_type": "hardlink",
+        "sha256": "e672a93fa8434b565b578c749fcb06d861ec71c991e2dc30d76c774ca58ec247",
+        "sha256_in_prefix": "e672a93fa8434b565b578c749fcb06d861ec71c991e2dc30d76c774ca58ec247",
+        "size_in_bytes": 1284
+      },
+      {
+        "_path": "Lib/site-packages/TBB.py",
+        "path_type": "hardlink",
+        "sha256": "d850d9edbe9cc07ea2ea43a6b9eb40d53c5e825cd54813e5a1b90489f14faff4",
+        "sha256_in_prefix": "d850d9edbe9cc07ea2ea43a6b9eb40d53c5e825cd54813e5a1b90489f14faff4",
+        "size_in_bytes": 759
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/TBB.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "87d21b5a346100ce07d9be244621de2224723addfe619c141f57e79335045458",
+        "sha256_in_prefix": "87d21b5a346100ce07d9be244621de2224723addfe619c141f57e79335045458",
+        "size_in_bytes": 432
+      },
+      {
+        "_path": "Lib/site-packages/tbb/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2df5aa3690cc61582d0244c52320d597b3f1254da867c0c73272ed7cd2dfd199",
+        "sha256_in_prefix": "2df5aa3690cc61582d0244c52320d597b3f1254da867c0c73272ed7cd2dfd199",
+        "size_in_bytes": 13145
+      },
+      {
+        "_path": "Lib/site-packages/tbb/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "4ca5ac46d4841679d5a8d109f79dcc21a58b16829be9b0dd65e5e60419857b22",
+        "sha256_in_prefix": "4ca5ac46d4841679d5a8d109f79dcc21a58b16829be9b0dd65e5e60419857b22",
+        "size_in_bytes": 672
+      },
+      {
+        "_path": "Lib/site-packages/tbb/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "30a7fe312b9f97d4e466b9ca9fd69478f9b08b4a72672df732c43bb97dcd00a9",
+        "sha256_in_prefix": "30a7fe312b9f97d4e466b9ca9fd69478f9b08b4a72672df732c43bb97dcd00a9",
+        "size_in_bytes": 18695
+      },
+      {
+        "_path": "Lib/site-packages/tbb/__pycache__/__main__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "73b5e7c08c6c8e379f2a233c9bf89d3260dc3c8e626e39e62a139b51e4886f95",
+        "sha256_in_prefix": "73b5e7c08c6c8e379f2a233c9bf89d3260dc3c8e626e39e62a139b51e4886f95",
+        "size_in_bytes": 296
+      },
+      {
+        "_path": "Lib/site-packages/tbb/__pycache__/api.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "40670b8e26bc78fc382b6d3b96fcca510152dbb779285ca70b20700c5b11977c",
+        "sha256_in_prefix": "40670b8e26bc78fc382b6d3b96fcca510152dbb779285ca70b20700c5b11977c",
+        "size_in_bytes": 8565
+      },
+      {
+        "_path": "Lib/site-packages/tbb/__pycache__/pool.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "9bdb53d157efa5ba4bd096c8ed3920b2ca6e1191c763cf743b04c3744ba698df",
+        "sha256_in_prefix": "9bdb53d157efa5ba4bd096c8ed3920b2ca6e1191c763cf743b04c3744ba698df",
+        "size_in_bytes": 29102
+      },
+      {
+        "_path": "Lib/site-packages/tbb/__pycache__/test.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ca8c0b59362704be8e1dd81c92625180f94db16c9fd99b4b04a54d65c1a86a68",
+        "sha256_in_prefix": "ca8c0b59362704be8e1dd81c92625180f94db16c9fd99b4b04a54d65c1a86a68",
+        "size_in_bytes": 10102
+      },
+      {
+        "_path": "Lib/site-packages/tbb/_api.cp311-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "4a34d29944ee1c19d5f42b1a04ee043c656df49c58a72ebfad9b413763a07ffc",
+        "sha256_in_prefix": "4a34d29944ee1c19d5f42b1a04ee043c656df49c58a72ebfad9b413763a07ffc",
+        "size_in_bytes": 78848
+      },
+      {
+        "_path": "Lib/site-packages/tbb/api.py",
+        "path_type": "hardlink",
+        "sha256": "98e92eab6a7fbe7bd07e72902c04f85b524f733267fa195547a3e5e1188070df",
+        "sha256_in_prefix": "98e92eab6a7fbe7bd07e72902c04f85b524f733267fa195547a3e5e1188070df",
+        "size_in_bytes": 5606
+      },
+      {
+        "_path": "Lib/site-packages/tbb/pool.py",
+        "path_type": "hardlink",
+        "sha256": "dc72b12a2a1f74cb854aa37863f5ab755b17d06656ad59c62665c1daf5016973",
+        "sha256_in_prefix": "dc72b12a2a1f74cb854aa37863f5ab755b17d06656ad59c62665c1daf5016973",
+        "size_in_bytes": 25018
+      },
+      {
+        "_path": "Lib/site-packages/tbb/test.py",
+        "path_type": "hardlink",
+        "sha256": "5bd342dcbe70a5af086ab11dbbdcec8ec04745a4c597d9f629c9f7681aba11a0",
+        "sha256_in_prefix": "5bd342dcbe70a5af086ab11dbbdcec8ec04745a4c597d9f629c9f7681aba11a0",
+        "size_in_bytes": 7136
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "defaults/win-64::tbb4py==2021.8.0=py311h59b6b97_0",
+  "sha256": "a005e95b7053136d4fdc21d652c58fafa5539ded7a0876054bda3519cff48ae6",
+  "size": 74696,
+  "subdir": "win-64",
+  "timestamp": 1680167442286,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/tbb4py-2021.8.0-py311h59b6b97_0.conda",
+  "version": "2021.8.0"
+}

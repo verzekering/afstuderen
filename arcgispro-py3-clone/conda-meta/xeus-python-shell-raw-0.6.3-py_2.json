@@ -1,0 +1,168 @@
+{
+  "build": "py_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/esri/noarch",
+  "constrains": [
+    "debugpy >=1.4,<2"
+  ],
+  "depends": [
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\xeus-python-shell-raw-0.6.3-py_2",
+  "files": [
+    "Lib/site-packages/xeus_python_shell-0.6.3.dist-info/INSTALLER",
+    "Lib/site-packages/xeus_python_shell-0.6.3.dist-info/LICENSE",
+    "Lib/site-packages/xeus_python_shell-0.6.3.dist-info/METADATA",
+    "Lib/site-packages/xeus_python_shell-0.6.3.dist-info/RECORD",
+    "Lib/site-packages/xeus_python_shell-0.6.3.dist-info/REQUESTED",
+    "Lib/site-packages/xeus_python_shell-0.6.3.dist-info/WHEEL",
+    "Lib/site-packages/xeus_python_shell-0.6.3.dist-info/direct_url.json",
+    "Lib/site-packages/xeus_python_shell-0.6.3.dist-info/top_level.txt",
+    "Lib/site-packages/xeus_python_shell/__init__.py",
+    "Lib/site-packages/xeus_python_shell/compiler.py",
+    "Lib/site-packages/xeus_python_shell/debugger.py",
+    "Lib/site-packages/xeus_python_shell/display.py",
+    "Lib/site-packages/xeus_python_shell/shell.py",
+    ".nonadmin",
+    "Lib/site-packages/xeus_python_shell/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/xeus_python_shell/__pycache__/compiler.cpython-311.pyc",
+    "Lib/site-packages/xeus_python_shell/__pycache__/debugger.cpython-311.pyc",
+    "Lib/site-packages/xeus_python_shell/__pycache__/display.cpython-311.pyc",
+    "Lib/site-packages/xeus_python_shell/__pycache__/shell.cpython-311.pyc"
+  ],
+  "fn": "xeus-python-shell-raw-0.6.3-py_2.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\xeus-python-shell-raw-0.6.3-py_2",
+    "type": 1
+  },
+  "md5": "a236a24f5b2fe921cbe5ac274c8ba667",
+  "name": "xeus-python-shell-raw",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\xeus-python-shell-raw-0.6.3-py_2.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/xeus_python_shell-0.6.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/xeus_python_shell-0.6.3.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "d2fdf013343aea6bd9afb6636f8c19589328cb8b9c2609a8053795af0a083c37",
+        "sha256_in_prefix": "d2fdf013343aea6bd9afb6636f8c19589328cb8b9c2609a8053795af0a083c37",
+        "size_in_bytes": 1518
+      },
+      {
+        "_path": "site-packages/xeus_python_shell-0.6.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "3231fa323c819cf1095ffaef9e704ad7918a846faae516a213c6ae5ea4a1bc29",
+        "sha256_in_prefix": "3231fa323c819cf1095ffaef9e704ad7918a846faae516a213c6ae5ea4a1bc29",
+        "size_in_bytes": 1016
+      },
+      {
+        "_path": "site-packages/xeus_python_shell-0.6.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "93c10d32d99caf8f1627b2e1b01274d7d5377c5636912c0a5ed85bdf5ba39640",
+        "sha256_in_prefix": "93c10d32d99caf8f1627b2e1b01274d7d5377c5636912c0a5ed85bdf5ba39640",
+        "size_in_bytes": 1455
+      },
+      {
+        "_path": "site-packages/xeus_python_shell-0.6.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/xeus_python_shell-0.6.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "715c5c07d026b93717aa6c2bb4f84d2bcf1dafb211fdbeaa6a04e3d14bc811b6",
+        "sha256_in_prefix": "715c5c07d026b93717aa6c2bb4f84d2bcf1dafb211fdbeaa6a04e3d14bc811b6",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "site-packages/xeus_python_shell-0.6.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "403ae918005006e8d38d09debd83973aee072766bced1102051291993a1284a1",
+        "sha256_in_prefix": "403ae918005006e8d38d09debd83973aee072766bced1102051291993a1284a1",
+        "size_in_bytes": 90
+      },
+      {
+        "_path": "site-packages/xeus_python_shell-0.6.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "ae7bc36f18acfd1fc7186fd573a176ac841512e82ebdc724eb90d52ee81696b1",
+        "sha256_in_prefix": "ae7bc36f18acfd1fc7186fd573a176ac841512e82ebdc724eb90d52ee81696b1",
+        "size_in_bytes": 18
+      },
+      {
+        "_path": "site-packages/xeus_python_shell/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/xeus_python_shell/compiler.py",
+        "path_type": "hardlink",
+        "sha256": "b2623f7db34519e6ab987c0b4d11980505afab0d3e385ba9ce3c5eec545d5b2d",
+        "sha256_in_prefix": "b2623f7db34519e6ab987c0b4d11980505afab0d3e385ba9ce3c5eec545d5b2d",
+        "size_in_bytes": 666
+      },
+      {
+        "_path": "site-packages/xeus_python_shell/debugger.py",
+        "path_type": "hardlink",
+        "sha256": "80ad8c560e6da5422611fc4d78328181b9b60afe1cb113262a7b74faad3dd859",
+        "sha256_in_prefix": "80ad8c560e6da5422611fc4d78328181b9b60afe1cb113262a7b74faad3dd859",
+        "size_in_bytes": 3805
+      },
+      {
+        "_path": "site-packages/xeus_python_shell/display.py",
+        "path_type": "hardlink",
+        "sha256": "fec0d25f32af8764ee34a014cef956baf73823edfa2a96febd708694126b4b72",
+        "sha256_in_prefix": "fec0d25f32af8764ee34a014cef956baf73823edfa2a96febd708694126b4b72",
+        "size_in_bytes": 1383
+      },
+      {
+        "_path": "site-packages/xeus_python_shell/shell.py",
+        "path_type": "hardlink",
+        "sha256": "ac218b3c4187ff6aa328bb1d3db8e1d3776521b768f8e78abb96d8cafa01c7e6",
+        "sha256_in_prefix": "ac218b3c4187ff6aa328bb1d3db8e1d3776521b768f8e78abb96d8cafa01c7e6",
+        "size_in_bytes": 3320
+      },
+      {
+        "_path": "Lib/site-packages/xeus_python_shell/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/xeus_python_shell/__pycache__/compiler.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/xeus_python_shell/__pycache__/debugger.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/xeus_python_shell/__pycache__/display.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/xeus_python_shell/__pycache__/shell.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "esri/noarch::xeus-python-shell-raw==0.6.3=py_2",
+  "sha256": "87a3f6d74440bb26232b66ee72aa5107c6ab2df59f1f989513ebe549e1975d1a",
+  "size": 11124,
+  "subdir": "noarch",
+  "timestamp": 1730485280659,
+  "url": "https://conda.anaconda.org/esri/noarch/xeus-python-shell-raw-0.6.3-py_2.conda",
+  "version": "0.6.3"
+}

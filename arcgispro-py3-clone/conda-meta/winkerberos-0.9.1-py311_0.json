@@ -1,0 +1,111 @@
+{
+  "arch": "x86_64",
+  "build": "py311_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\winkerberos-0.9.1-py311_0",
+  "files": [
+    "Lib/site-packages/winkerberos-0.9.1.dist-info/INSTALLER",
+    "Lib/site-packages/winkerberos-0.9.1.dist-info/LICENSE",
+    "Lib/site-packages/winkerberos-0.9.1.dist-info/METADATA",
+    "Lib/site-packages/winkerberos-0.9.1.dist-info/RECORD",
+    "Lib/site-packages/winkerberos-0.9.1.dist-info/REQUESTED",
+    "Lib/site-packages/winkerberos-0.9.1.dist-info/WHEEL",
+    "Lib/site-packages/winkerberos-0.9.1.dist-info/direct_url.json",
+    "Lib/site-packages/winkerberos-0.9.1.dist-info/top_level.txt",
+    "Lib/site-packages/winkerberos.cp311-win_amd64.pyd",
+    ".nonadmin"
+  ],
+  "fn": "winkerberos-0.9.1-py311_0.conda",
+  "license": "Apache 2.0",
+  "license_family": "APACHE",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\winkerberos-0.9.1-py311_0",
+    "type": 1
+  },
+  "md5": "2fc8065a5cbed4b3074d7ce366bb5b50",
+  "name": "winkerberos",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\winkerberos-0.9.1-py311_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/winkerberos-0.9.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/winkerberos-0.9.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c",
+        "sha256_in_prefix": "c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c",
+        "size_in_bytes": 11358
+      },
+      {
+        "_path": "Lib/site-packages/winkerberos-0.9.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "4f5a2e8edec83b42ff544db68ca680548c791d93e517b868cc33124e800d54c6",
+        "sha256_in_prefix": "4f5a2e8edec83b42ff544db68ca680548c791d93e517b868cc33124e800d54c6",
+        "size_in_bytes": 6220
+      },
+      {
+        "_path": "Lib/site-packages/winkerberos-0.9.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "c03ed7aa50526f9beb1dce2e4b8ac35699a75e60d9a01b246e64aedf9caec879",
+        "sha256_in_prefix": "c03ed7aa50526f9beb1dce2e4b8ac35699a75e60d9a01b246e64aedf9caec879",
+        "size_in_bytes": 787
+      },
+      {
+        "_path": "Lib/site-packages/winkerberos-0.9.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/winkerberos-0.9.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "6da76f352fb2f5f12ad17faacdd658bea97f2458c8ed77f0fb047c16c8e82b42",
+        "sha256_in_prefix": "6da76f352fb2f5f12ad17faacdd658bea97f2458c8ed77f0fb047c16c8e82b42",
+        "size_in_bytes": 102
+      },
+      {
+        "_path": "Lib/site-packages/winkerberos-0.9.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "47c1fceb946995017f54c36562815f1dc737efdd7e7fcaeed7a40fa82465e3e9",
+        "sha256_in_prefix": "47c1fceb946995017f54c36562815f1dc737efdd7e7fcaeed7a40fa82465e3e9",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "Lib/site-packages/winkerberos-0.9.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "c2f906fac135aef91f3b7b3e9dce5b8976184b569946d6d60b304fe40841d605",
+        "sha256_in_prefix": "c2f906fac135aef91f3b7b3e9dce5b8976184b569946d6d60b304fe40841d605",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "Lib/site-packages/winkerberos.cp311-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "1d8bfb28878ffdc5347a7c91967f855f71474b368a98376b64c68c9340ffed19",
+        "sha256_in_prefix": "1d8bfb28878ffdc5347a7c91967f855f71474b368a98376b64c68c9340ffed19",
+        "size_in_bytes": 36864
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "esri/win-64::winkerberos==0.9.1=py311_0",
+  "sha256": "a6962f9befdfe8c68083570b7e2df720235e6b21b9b9e5cceb0033866954ee36",
+  "size": 26976,
+  "subdir": "win-64",
+  "timestamp": 1700166760466,
+  "url": "https://conda.anaconda.org/esri/win-64/winkerberos-0.9.1-py311_0.conda",
+  "version": "0.9.1"
+}

@@ -1,0 +1,192 @@
+{
+  "arch": "x86_64",
+  "build": "py311h827c3e9_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "lz4-c >=1.9.4,<1.10.0a0",
+    "python >=3.11,<3.12.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\lz4-4.3.2-py311h827c3e9_1",
+  "files": [
+    "Lib/site-packages/lz4-4.3.2.dist-info/INSTALLER",
+    "Lib/site-packages/lz4-4.3.2.dist-info/LICENSE",
+    "Lib/site-packages/lz4-4.3.2.dist-info/METADATA",
+    "Lib/site-packages/lz4-4.3.2.dist-info/RECORD",
+    "Lib/site-packages/lz4-4.3.2.dist-info/REQUESTED",
+    "Lib/site-packages/lz4-4.3.2.dist-info/WHEEL",
+    "Lib/site-packages/lz4-4.3.2.dist-info/direct_url.json",
+    "Lib/site-packages/lz4-4.3.2.dist-info/top_level.txt",
+    "Lib/site-packages/lz4/__init__.py",
+    "Lib/site-packages/lz4/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/lz4/__pycache__/version.cpython-311.pyc",
+    "Lib/site-packages/lz4/_version.cp311-win_amd64.pyd",
+    "Lib/site-packages/lz4/block/__init__.py",
+    "Lib/site-packages/lz4/block/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/lz4/block/_block.cp311-win_amd64.pyd",
+    "Lib/site-packages/lz4/frame/__init__.py",
+    "Lib/site-packages/lz4/frame/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/lz4/frame/_frame.cp311-win_amd64.pyd",
+    "Lib/site-packages/lz4/version.py",
+    ".nonadmin"
+  ],
+  "fn": "lz4-4.3.2-py311h827c3e9_1.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\lz4-4.3.2-py311h827c3e9_1",
+    "type": 1
+  },
+  "md5": "f32d95b06df16b49ce2a663b0c4db9ed",
+  "name": "lz4",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\lz4-4.3.2-py311h827c3e9_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/lz4-4.3.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/lz4-4.3.2.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "e2ac43d6eb80eb4e52141817c812437e0b981b1d7b2dc7cc86c7ef5524044c6f",
+        "sha256_in_prefix": "e2ac43d6eb80eb4e52141817c812437e0b981b1d7b2dc7cc86c7ef5524044c6f",
+        "size_in_bytes": 1495
+      },
+      {
+        "_path": "Lib/site-packages/lz4-4.3.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "6fe010439a3802bc2201101c10bf22d4b578497afae87983a9a35419db438b11",
+        "sha256_in_prefix": "6fe010439a3802bc2201101c10bf22d4b578497afae87983a9a35419db438b11",
+        "size_in_bytes": 3749
+      },
+      {
+        "_path": "Lib/site-packages/lz4-4.3.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "88ebcd7829bf7f8ea55c07d9d8c387e7ff34af7834e5f1212dcfd6daaaa6bda0",
+        "sha256_in_prefix": "88ebcd7829bf7f8ea55c07d9d8c387e7ff34af7834e5f1212dcfd6daaaa6bda0",
+        "size_in_bytes": 1399
+      },
+      {
+        "_path": "Lib/site-packages/lz4-4.3.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/lz4-4.3.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "a96e110f5adf1e6f194548c96d75276470cd3c25c7b7a46ad26811f25bff2448",
+        "sha256_in_prefix": "a96e110f5adf1e6f194548c96d75276470cd3c25c7b7a46ad26811f25bff2448",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "Lib/site-packages/lz4-4.3.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "0f23983cae9f72d280e6c2e3c957b8cf332128f816f184cfe24f5c82a611e22f",
+        "sha256_in_prefix": "0f23983cae9f72d280e6c2e3c957b8cf332128f816f184cfe24f5c82a611e22f",
+        "size_in_bytes": 83
+      },
+      {
+        "_path": "Lib/site-packages/lz4-4.3.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "717ebf83115474d4a8e344dfc6b1a94c282eedea469b7c96de6da4ee2ad30f32",
+        "sha256_in_prefix": "717ebf83115474d4a8e344dfc6b1a94c282eedea469b7c96de6da4ee2ad30f32",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "Lib/site-packages/lz4/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7adb15f971bdbe00a7f842ab169cd626c188a7e554b47fada4dad098c9831025",
+        "sha256_in_prefix": "7adb15f971bdbe00a7f842ab169cd626c188a7e554b47fada4dad098c9831025",
+        "size_in_bytes": 627
+      },
+      {
+        "_path": "Lib/site-packages/lz4/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "db2320c3956526d8aad94e6fb5be9e39dae61378fb0b38b1d4b2d3a2f5712d72",
+        "sha256_in_prefix": "db2320c3956526d8aad94e6fb5be9e39dae61378fb0b38b1d4b2d3a2f5712d72",
+        "size_in_bytes": 345
+      },
+      {
+        "_path": "Lib/site-packages/lz4/__pycache__/version.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f91ead8482f255da7e58887d8c5720ab74d1a93b0cd61563368d61e2a3616001",
+        "sha256_in_prefix": "f91ead8482f255da7e58887d8c5720ab74d1a93b0cd61563368d61e2a3616001",
+        "size_in_bytes": 599
+      },
+      {
+        "_path": "Lib/site-packages/lz4/_version.cp311-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "bc15b58a105de51d2eb30d7e8f1cc39af08c49b9e0c1c46cd9c28e7e89d40b5d",
+        "sha256_in_prefix": "bc15b58a105de51d2eb30d7e8f1cc39af08c49b9e0c1c46cd9c28e7e89d40b5d",
+        "size_in_bytes": 23312
+      },
+      {
+        "_path": "Lib/site-packages/lz4/block/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2ac4901a068fa49b553c9e507cc69d54615db8ccb48527ad2475863663afa6ca",
+        "sha256_in_prefix": "2ac4901a068fa49b553c9e507cc69d54615db8ccb48527ad2475863663afa6ca",
+        "size_in_bytes": 70
+      },
+      {
+        "_path": "Lib/site-packages/lz4/block/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "fde5e3e24925163adc9a559751e8f8268e49d0b4fdfb2a56fe7971c3bdb4c6e8",
+        "sha256_in_prefix": "fde5e3e24925163adc9a559751e8f8268e49d0b4fdfb2a56fe7971c3bdb4c6e8",
+        "size_in_bytes": 258
+      },
+      {
+        "_path": "Lib/site-packages/lz4/block/_block.cp311-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "3cc277288ca5ea4077acd4cf967580d7b26653cdbb36a9e4c8729f502e6c52ea",
+        "sha256_in_prefix": "3cc277288ca5ea4077acd4cf967580d7b26653cdbb36a9e4c8729f502e6c52ea",
+        "size_in_bytes": 89360
+      },
+      {
+        "_path": "Lib/site-packages/lz4/frame/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "12a7cd9e598f87b3c3d2df83bdf29e8d15a622c47b51fe4e24a59d942dd25370",
+        "sha256_in_prefix": "12a7cd9e598f87b3c3d2df83bdf29e8d15a622c47b51fe4e24a59d942dd25370",
+        "size_in_bytes": 31131
+      },
+      {
+        "_path": "Lib/site-packages/lz4/frame/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a6f392db5a2c109f99c401c32a91652ff4c9dbb25e5a28898c78f164b8773708",
+        "sha256_in_prefix": "a6f392db5a2c109f99c401c32a91652ff4c9dbb25e5a28898c78f164b8773708",
+        "size_in_bytes": 33992
+      },
+      {
+        "_path": "Lib/site-packages/lz4/frame/_frame.cp311-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "77cbecedd2a43d439646e7c485cadf1e2570ed87d41e0843cab3624bf28b673d",
+        "sha256_in_prefix": "77cbecedd2a43d439646e7c485cadf1e2570ed87d41e0843cab3624bf28b673d",
+        "size_in_bytes": 127248
+      },
+      {
+        "_path": "Lib/site-packages/lz4/version.py",
+        "path_type": "hardlink",
+        "sha256": "21a75963c7fdf42e43fdcab4e1280189244a81c0791227e53cb5319e9607a411",
+        "sha256_in_prefix": "21a75963c7fdf42e43fdcab4e1280189244a81c0791227e53cb5319e9607a411",
+        "size_in_bytes": 427
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "defaults/win-64::lz4==4.3.2=py311h827c3e9_1",
+  "sha256": "998d1875f11419213a3ab3e1e52d35a117346e584c4355f3d25d23881b83fb1c",
+  "size": 94616,
+  "subdir": "win-64",
+  "timestamp": 1736370127321,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/lz4-4.3.2-py311h827c3e9_1.conda",
+  "version": "4.3.2"
+}

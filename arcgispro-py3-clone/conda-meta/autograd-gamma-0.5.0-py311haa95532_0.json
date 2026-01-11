@@ -1,0 +1,119 @@
+{
+  "arch": "x86_64",
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "autograd >=1.2.0",
+    "python >=3.11,<3.12.0a0",
+    "scipy >=1.2.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\autograd-gamma-0.5.0-py311haa95532_0",
+  "files": [
+    "Lib/site-packages/autograd_gamma-0.5.0.dist-info/INSTALLER",
+    "Lib/site-packages/autograd_gamma-0.5.0.dist-info/LICENSE",
+    "Lib/site-packages/autograd_gamma-0.5.0.dist-info/METADATA",
+    "Lib/site-packages/autograd_gamma-0.5.0.dist-info/RECORD",
+    "Lib/site-packages/autograd_gamma-0.5.0.dist-info/REQUESTED",
+    "Lib/site-packages/autograd_gamma-0.5.0.dist-info/WHEEL",
+    "Lib/site-packages/autograd_gamma-0.5.0.dist-info/direct_url.json",
+    "Lib/site-packages/autograd_gamma-0.5.0.dist-info/top_level.txt",
+    "Lib/site-packages/autograd_gamma/__init__.py",
+    "Lib/site-packages/autograd_gamma/__pycache__/__init__.cpython-311.pyc",
+    ".nonadmin"
+  ],
+  "fn": "autograd-gamma-0.5.0-py311haa95532_0.conda",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\autograd-gamma-0.5.0-py311haa95532_0",
+    "type": 1
+  },
+  "md5": "e3700f5192fca7114bab9b31d4c6a67b",
+  "name": "autograd-gamma",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\autograd-gamma-0.5.0-py311haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/autograd_gamma-0.5.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/autograd_gamma-0.5.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "224ef7498546f6f39250ea4827954719646c66b0bd757e15031a5c39811f69e8",
+        "sha256_in_prefix": "224ef7498546f6f39250ea4827954719646c66b0bd757e15031a5c39811f69e8",
+        "size_in_bytes": 1079
+      },
+      {
+        "_path": "Lib/site-packages/autograd_gamma-0.5.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "5eddc5fc11f1431f6929a9ae500aad803ecbf2fad1c9a0bae379d68bef5567f9",
+        "sha256_in_prefix": "5eddc5fc11f1431f6929a9ae500aad803ecbf2fad1c9a0bae379d68bef5567f9",
+        "size_in_bytes": 1694
+      },
+      {
+        "_path": "Lib/site-packages/autograd_gamma-0.5.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "b1ccdcbcf22a6a64730177c8340085c50f82e89847cc0fcc5406c86066d9fde4",
+        "sha256_in_prefix": "b1ccdcbcf22a6a64730177c8340085c50f82e89847cc0fcc5406c86066d9fde4",
+        "size_in_bytes": 857
+      },
+      {
+        "_path": "Lib/site-packages/autograd_gamma-0.5.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/autograd_gamma-0.5.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "sha256_in_prefix": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "Lib/site-packages/autograd_gamma-0.5.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a2b24924ccd86e86ae67ecd9a500747a6735f4ae6f8560edddf80fabfc48be87",
+        "sha256_in_prefix": "a2b24924ccd86e86ae67ecd9a500747a6735f4ae6f8560edddf80fabfc48be87",
+        "size_in_bytes": 94
+      },
+      {
+        "_path": "Lib/site-packages/autograd_gamma-0.5.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "fec7dcb9df4eb71025da9362be80b7786bbe8c5de7275b5b370ae90017335a27",
+        "sha256_in_prefix": "fec7dcb9df4eb71025da9362be80b7786bbe8c5de7275b5b370ae90017335a27",
+        "size_in_bytes": 15
+      },
+      {
+        "_path": "Lib/site-packages/autograd_gamma/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "558de1a0e3742a17d19d3ef5b6565e9516eaadbdf1b5df2c9a688f1285aa4fef",
+        "sha256_in_prefix": "558de1a0e3742a17d19d3ef5b6565e9516eaadbdf1b5df2c9a688f1285aa4fef",
+        "size_in_bytes": 6455
+      },
+      {
+        "_path": "Lib/site-packages/autograd_gamma/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e08a705c12451b716f7e0d09598b3c4674381446a76106e263b17e436d29929c",
+        "sha256_in_prefix": "e08a705c12451b716f7e0d09598b3c4674381446a76106e263b17e436d29929c",
+        "size_in_bytes": 11525
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "defaults/win-64::autograd-gamma==0.5.0=py311haa95532_0",
+  "sha256": "93c159102e16059e6d322b061794fef922ba7e056a3651022b3e276d45da1882",
+  "size": 14171,
+  "subdir": "win-64",
+  "timestamp": 1687867071831,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/autograd-gamma-0.5.0-py311haa95532_0.conda",
+  "version": "0.5.0"
+}

@@ -1,0 +1,256 @@
+{
+  "arch": "x86_64",
+  "build": "py311h636fa0f_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "anyio >=3.0.0",
+    "python >=3.11,<3.12.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\watchfiles-0.24.0-py311h636fa0f_2",
+  "files": [
+    "Lib/site-packages/watchfiles-0.24.0.dist-info/INSTALLER",
+    "Lib/site-packages/watchfiles-0.24.0.dist-info/METADATA",
+    "Lib/site-packages/watchfiles-0.24.0.dist-info/RECORD",
+    "Lib/site-packages/watchfiles-0.24.0.dist-info/REQUESTED",
+    "Lib/site-packages/watchfiles-0.24.0.dist-info/WHEEL",
+    "Lib/site-packages/watchfiles-0.24.0.dist-info/direct_url.json",
+    "Lib/site-packages/watchfiles-0.24.0.dist-info/entry_points.txt",
+    "Lib/site-packages/watchfiles-0.24.0.dist-info/license_files/LICENSE",
+    "Lib/site-packages/watchfiles/__init__.py",
+    "Lib/site-packages/watchfiles/__main__.py",
+    "Lib/site-packages/watchfiles/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/watchfiles/__pycache__/__main__.cpython-311.pyc",
+    "Lib/site-packages/watchfiles/__pycache__/cli.cpython-311.pyc",
+    "Lib/site-packages/watchfiles/__pycache__/filters.cpython-311.pyc",
+    "Lib/site-packages/watchfiles/__pycache__/main.cpython-311.pyc",
+    "Lib/site-packages/watchfiles/__pycache__/run.cpython-311.pyc",
+    "Lib/site-packages/watchfiles/__pycache__/version.cpython-311.pyc",
+    "Lib/site-packages/watchfiles/_rust_notify.cp311-win_amd64.pyd",
+    "Lib/site-packages/watchfiles/_rust_notify.pyi",
+    "Lib/site-packages/watchfiles/cli.py",
+    "Lib/site-packages/watchfiles/filters.py",
+    "Lib/site-packages/watchfiles/main.py",
+    "Lib/site-packages/watchfiles/py.typed",
+    "Lib/site-packages/watchfiles/run.py",
+    "Lib/site-packages/watchfiles/version.py",
+    "Scripts/watchfiles-script.py",
+    "Scripts/watchfiles.exe",
+    ".nonadmin"
+  ],
+  "fn": "watchfiles-0.24.0-py311h636fa0f_2.conda",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\watchfiles-0.24.0-py311h636fa0f_2",
+    "type": 1
+  },
+  "md5": "e9982c4a74cb85a1771d62f0e1b4a6ad",
+  "name": "watchfiles",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\watchfiles-0.24.0-py311h636fa0f_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/watchfiles-0.24.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles-0.24.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "4590a9517a5b9a5aa86440906f62bb5d0b8f0635f2aff0b0f8ee0f5449f46e38",
+        "sha256_in_prefix": "4590a9517a5b9a5aa86440906f62bb5d0b8f0635f2aff0b0f8ee0f5449f46e38",
+        "size_in_bytes": 4923
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles-0.24.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "e65e3b88b440fe1034b92bcfb8ee053ad2a640dfa26cfd5ef21f9feb15b45e6f",
+        "sha256_in_prefix": "e65e3b88b440fe1034b92bcfb8ee053ad2a640dfa26cfd5ef21f9feb15b45e6f",
+        "size_in_bytes": 1944
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles-0.24.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles-0.24.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "d1f999a7a340c52954fd881c1af2618591c332500f6afab4e60c3288f13dd205",
+        "sha256_in_prefix": "d1f999a7a340c52954fd881c1af2618591c332500f6afab4e60c3288f13dd205",
+        "size_in_bytes": 95
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles-0.24.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "ee43b1547a113514400c0b32b58a68fc1e9b673e6366e1f96ec30d97a9e136ca",
+        "sha256_in_prefix": "ee43b1547a113514400c0b32b58a68fc1e9b673e6366e1f96ec30d97a9e136ca",
+        "size_in_bytes": 90
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles-0.24.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "b350e96b677f28a072fa32911165bad19dc6a11677269084a3ff62603b7a84e4",
+        "sha256_in_prefix": "b350e96b677f28a072fa32911165bad19dc6a11677269084a3ff62603b7a84e4",
+        "size_in_bytes": 48
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles-0.24.0.dist-info/license_files/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "36b6f98a7a42de39e14f1c6eb59831cdb94cc11b05eead31c81fb8f851d1750b",
+        "sha256_in_prefix": "36b6f98a7a42de39e14f1c6eb59831cdb94cc11b05eead31c81fb8f851d1750b",
+        "size_in_bytes": 1110
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "21194cf4a39279d3331757ef2ebef21073d54be50511135386507eb66588f325",
+        "sha256_in_prefix": "21194cf4a39279d3331757ef2ebef21073d54be50511135386507eb66588f325",
+        "size_in_bytes": 364
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "26012b6248ac92287c63aa11c28c002ed47eaf042100076a3985a342b69120f2",
+        "sha256_in_prefix": "26012b6248ac92287c63aa11c28c002ed47eaf042100076a3985a342b69120f2",
+        "size_in_bytes": 59
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5a18b1eeb535d3e842a665d661e37a7c597854efc7e3984c60860f4d9a61cf18",
+        "sha256_in_prefix": "5a18b1eeb535d3e842a665d661e37a7c597854efc7e3984c60860f4d9a61cf18",
+        "size_in_bytes": 586
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/__pycache__/__main__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b84f337b025a30c3ce2240485dc976f3e0eb546b1fefd87d0d11195dd5ef8206",
+        "sha256_in_prefix": "b84f337b025a30c3ce2240485dc976f3e0eb546b1fefd87d0d11195dd5ef8206",
+        "size_in_bytes": 273
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/__pycache__/cli.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "539db126ed8036669649c0f3701e33ab9554b8d62cc8bb9e9c2c4826fa9edde4",
+        "sha256_in_prefix": "539db126ed8036669649c0f3701e33ab9554b8d62cc8bb9e9c2c4826fa9edde4",
+        "size_in_bytes": 11273
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/__pycache__/filters.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "43f09753ba4f1969d4d20075b6b044bec0222d79663accc03e96011e58a361d0",
+        "sha256_in_prefix": "43f09753ba4f1969d4d20075b6b044bec0222d79663accc03e96011e58a361d0",
+        "size_in_bytes": 8056
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/__pycache__/main.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5c603bfc60e2a142b4d1f138c8b0271bf8b4b21f30b6dba61d2982a383192c38",
+        "sha256_in_prefix": "5c603bfc60e2a142b4d1f138c8b0271bf8b4b21f30b6dba61d2982a383192c38",
+        "size_in_bytes": 18115
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/__pycache__/run.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "8fa3d92787e812367c9f10d825bbb780f552159aca5571fffbcdb10b88ee4172",
+        "sha256_in_prefix": "8fa3d92787e812367c9f10d825bbb780f552159aca5571fffbcdb10b88ee4172",
+        "size_in_bytes": 21322
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/__pycache__/version.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f69fab6b2930460a657b6688fbfcb07f7cec2122d1c08ccf16c44b08433eb044",
+        "sha256_in_prefix": "f69fab6b2930460a657b6688fbfcb07f7cec2122d1c08ccf16c44b08433eb044",
+        "size_in_bytes": 251
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/_rust_notify.cp311-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "4c285e46067691a5dd087a2b79ea7205ff726daa3bef8a3ff5fd5186efd3311f",
+        "sha256_in_prefix": "4c285e46067691a5dd087a2b79ea7205ff726daa3bef8a3ff5fd5186efd3311f",
+        "size_in_bytes": 669456
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/_rust_notify.pyi",
+        "path_type": "hardlink",
+        "sha256": "ab915091780124414fb7d4427fb9b2e303f944cd45c12569a9fdb6d5cb3279b8",
+        "sha256_in_prefix": "ab915091780124414fb7d4427fb9b2e303f944cd45c12569a9fdb6d5cb3279b8",
+        "size_in_bytes": 4753
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/cli.py",
+        "path_type": "hardlink",
+        "sha256": "0c7308d0b7d3ee13ab59a8bf63844ffefbd3bd576d7036a2a22c572e2bf6a46e",
+        "sha256_in_prefix": "0c7308d0b7d3ee13ab59a8bf63844ffefbd3bd576d7036a2a22c572e2bf6a46e",
+        "size_in_bytes": 7707
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/filters.py",
+        "path_type": "hardlink",
+        "sha256": "534cd718e7a0f5d307913e75fb9e812a946b588bbde653ead070d1fd9078a031",
+        "sha256_in_prefix": "534cd718e7a0f5d307913e75fb9e812a946b588bbde653ead070d1fd9078a031",
+        "size_in_bytes": 5139
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/main.py",
+        "path_type": "hardlink",
+        "sha256": "2da8ba2f1c56d2463c2696eb4db40c6f8effc6974dbdefb3d0a8d0de1437acbb",
+        "sha256_in_prefix": "2da8ba2f1c56d2463c2696eb4db40c6f8effc6974dbdefb3d0a8d0de1437acbb",
+        "size_in_bytes": 14360
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/py.typed",
+        "path_type": "hardlink",
+        "sha256": "312e0d6b7b68f554c63f2ffcc0140cffa98d29a5f8a88a62e7ec3bfcb641fbc2",
+        "sha256_in_prefix": "312e0d6b7b68f554c63f2ffcc0140cffa98d29a5f8a88a62e7ec3bfcb641fbc2",
+        "size_in_bytes": 69
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/run.py",
+        "path_type": "hardlink",
+        "sha256": "965c56b6dd861f2fb43a34746435b992c35d0765a5dd721f2aee4370c81dc583",
+        "sha256_in_prefix": "965c56b6dd861f2fb43a34746435b992c35d0765a5dd721f2aee4370c81dc583",
+        "size_in_bytes": 15350
+      },
+      {
+        "_path": "Lib/site-packages/watchfiles/version.py",
+        "path_type": "hardlink",
+        "sha256": "3515949e4677d836a6b0d295db411eb5a8081932c330c527a83595185140d964",
+        "sha256_in_prefix": "3515949e4677d836a6b0d295db411eb5a8081932c330c527a83595185140d964",
+        "size_in_bytes": 85
+      },
+      {
+        "_path": "Scripts/watchfiles-script.py",
+        "path_type": "hardlink",
+        "sha256": "2965a217d5446657eec8bc41ce15a2c68b53fa4e263356fb987eb194eb9c7e09",
+        "sha256_in_prefix": "2965a217d5446657eec8bc41ce15a2c68b53fa4e263356fb987eb194eb9c7e09",
+        "size_in_bytes": 206
+      },
+      {
+        "_path": "Scripts/watchfiles.exe",
+        "path_type": "hardlink",
+        "sha256": "f24d102084620e54fe68d07f6e9169118b283f8d33d0c8f4b974c2e05a306059",
+        "sha256_in_prefix": "f24d102084620e54fe68d07f6e9169118b283f8d33d0c8f4b974c2e05a306059",
+        "size_in_bytes": 54032
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "defaults/win-64::watchfiles==0.24.0=py311h636fa0f_2",
+  "sha256": "c78de33156071fe00a5d6103e470a57b2533ba642ce1a173f1e1c8a445bab740",
+  "size": 338645,
+  "subdir": "win-64",
+  "timestamp": 1732648221637,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/watchfiles-0.24.0-py311h636fa0f_2.conda",
+  "version": "0.24.0"
+}

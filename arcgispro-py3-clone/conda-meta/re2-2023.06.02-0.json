@@ -1,0 +1,122 @@
+{
+  "arch": "x86_64",
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\re2-2023.06.02-0",
+  "files": [
+    "Library/bin/re2.dll",
+    "Library/include/re2/filtered_re2.h",
+    "Library/include/re2/re2.h",
+    "Library/include/re2/set.h",
+    "Library/include/re2/stringpiece.h",
+    "Library/lib/cmake/re2/re2Config.cmake",
+    "Library/lib/cmake/re2/re2ConfigVersion.cmake",
+    "Library/lib/cmake/re2/re2Targets-relwithdebinfo.cmake",
+    "Library/lib/cmake/re2/re2Targets.cmake",
+    "Library/lib/pkgconfig/re2.pc",
+    "Library/lib/re2.lib",
+    ".nonadmin"
+  ],
+  "fn": "re2-2023.06.02-0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\re2-2023.06.02-0",
+    "type": 1
+  },
+  "md5": "e58fd2b25f2b406ede8bd142262c849c",
+  "name": "re2",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\re2-2023.06.02-0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/re2.dll",
+        "path_type": "hardlink",
+        "sha256": "b75f8c52f922de1fffd8c14b91fac57b63cb59ddcd5180686ce4c7b9ac1c78d4",
+        "sha256_in_prefix": "b75f8c52f922de1fffd8c14b91fac57b63cb59ddcd5180686ce4c7b9ac1c78d4",
+        "size_in_bytes": 632416
+      },
+      {
+        "_path": "Library/include/re2/filtered_re2.h",
+        "path_type": "hardlink",
+        "sha256": "1ea210499ecb637cd0c8ebc5f20d0c3be02697e4aa0f614ebc831812709227f5",
+        "sha256_in_prefix": "1ea210499ecb637cd0c8ebc5f20d0c3be02697e4aa0f614ebc831812709227f5",
+        "size_in_bytes": 4281
+      },
+      {
+        "_path": "Library/include/re2/re2.h",
+        "path_type": "hardlink",
+        "sha256": "9e38921730f02883de794593b493428eaf6bf394ed2c48452604805126d8985b",
+        "sha256_in_prefix": "9e38921730f02883de794593b493428eaf6bf394ed2c48452604805126d8985b",
+        "size_in_bytes": 41787
+      },
+      {
+        "_path": "Library/include/re2/set.h",
+        "path_type": "hardlink",
+        "sha256": "1ca569050914c165c5af16f3118c5dbae92925de4e5e172b8fbfa69a7fff5482",
+        "sha256_in_prefix": "1ca569050914c165c5af16f3118c5dbae92925de4e5e172b8fbfa69a7fff5482",
+        "size_in_bytes": 2518
+      },
+      {
+        "_path": "Library/include/re2/stringpiece.h",
+        "path_type": "hardlink",
+        "sha256": "62ad04abcea0167c2b48e69be7945064f1b19f93af2a6ac5e96816063c599971",
+        "sha256_in_prefix": "62ad04abcea0167c2b48e69be7945064f1b19f93af2a6ac5e96816063c599971",
+        "size_in_bytes": 1004
+      },
+      {
+        "_path": "Library/lib/cmake/re2/re2Config.cmake",
+        "path_type": "hardlink",
+        "sha256": "66e78c92d686dea8a3a7be5e1ca7092b63f4fdfb70890c5f950b4f02f98a075b",
+        "sha256_in_prefix": "66e78c92d686dea8a3a7be5e1ca7092b63f4fdfb70890c5f950b4f02f98a075b",
+        "size_in_bytes": 1496
+      },
+      {
+        "_path": "Library/lib/cmake/re2/re2ConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "1769afe663b77d9d5d463d3a21bb4a3956a8cd6012b1a1d2d49cd2d202ca8020",
+        "sha256_in_prefix": "1769afe663b77d9d5d463d3a21bb4a3956a8cd6012b1a1d2d49cd2d202ca8020",
+        "size_in_bytes": 2951
+      },
+      {
+        "_path": "Library/lib/cmake/re2/re2Targets-relwithdebinfo.cmake",
+        "path_type": "hardlink",
+        "sha256": "c15a4c5eebadf0112b62d1b6c7e4c479f4ac66e10796b893acff08189a8e7fcf",
+        "sha256_in_prefix": "c15a4c5eebadf0112b62d1b6c7e4c479f4ac66e10796b893acff08189a8e7fcf",
+        "size_in_bytes": 887
+      },
+      {
+        "_path": "Library/lib/cmake/re2/re2Targets.cmake",
+        "path_type": "hardlink",
+        "sha256": "460a54fe66b67d7e75c0ef0fa7ddd8e474fe0f9704823825c9f78045114420a5",
+        "sha256_in_prefix": "460a54fe66b67d7e75c0ef0fa7ddd8e474fe0f9704823825c9f78045114420a5",
+        "size_in_bytes": 3552
+      },
+      {
+        "_path": "Library/lib/pkgconfig/re2.pc",
+        "path_type": "hardlink",
+        "sha256": "2c2ad09b98f2241a5874c70b1fb90a2260c1b71ffe6dea00d33cc956089965a6",
+        "sha256_in_prefix": "2c2ad09b98f2241a5874c70b1fb90a2260c1b71ffe6dea00d33cc956089965a6",
+        "size_in_bytes": 322
+      },
+      {
+        "_path": "Library/lib/re2.lib",
+        "path_type": "hardlink",
+        "sha256": "1c4e41e8f70df09d75550a66aaf795e73205ac5751c532c1dd7828625f453f6c",
+        "sha256_in_prefix": "1c4e41e8f70df09d75550a66aaf795e73205ac5751c532c1dd7828625f453f6c",
+        "size_in_bytes": 584118
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "esri/win-64::re2==2023.06.02=0",
+  "sha256": "b99fac886bf5e93a40aa4ef305243d03ada805b21f24226a13ec2c6018f3d511",
+  "size": 228636,
+  "subdir": "win-64",
+  "timestamp": 1686668558492,
+  "url": "https://conda.anaconda.org/esri/win-64/re2-2023.06.02-0.conda",
+  "version": "2023.06.02"
+}

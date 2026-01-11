@@ -1,0 +1,141 @@
+{
+  "arch": "x86_64",
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\jpeg-9e-0",
+  "files": [
+    "Library/bin/cjpeg.exe",
+    "Library/bin/djpeg.exe",
+    "Library/bin/jpegtran.exe",
+    "Library/bin/libjpeg.dll",
+    "Library/bin/rdjpgcom.exe",
+    "Library/bin/wrjpgcom.exe",
+    "Library/include/jconfig.h",
+    "Library/include/jerror.h",
+    "Library/include/jmorecfg.h",
+    "Library/include/jpegint.h",
+    "Library/include/jpeglib.h",
+    "Library/lib/jpeg.lib",
+    "Library/lib/libjpeg.lib",
+    ".nonadmin"
+  ],
+  "fn": "jpeg-9e-0.conda",
+  "license": "IJG",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\jpeg-9e-0",
+    "type": 1
+  },
+  "md5": "2327af6d059123b4b52933e4886e7a8b",
+  "name": "jpeg",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\jpeg-9e-0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/cjpeg.exe",
+        "path_type": "hardlink",
+        "sha256": "b44dc9d6f3f703d60286c2b11d96fdb4b43e4646ae3182fc673208dbf93c0468",
+        "sha256_in_prefix": "b44dc9d6f3f703d60286c2b11d96fdb4b43e4646ae3182fc673208dbf93c0468",
+        "size_in_bytes": 38912
+      },
+      {
+        "_path": "Library/bin/djpeg.exe",
+        "path_type": "hardlink",
+        "sha256": "8da12fb089a1a43b42e07713f594cdea2a9313c7d2fc0e0f7af22926cb50b25d",
+        "sha256_in_prefix": "8da12fb089a1a43b42e07713f594cdea2a9313c7d2fc0e0f7af22926cb50b25d",
+        "size_in_bytes": 30208
+      },
+      {
+        "_path": "Library/bin/jpegtran.exe",
+        "path_type": "hardlink",
+        "sha256": "fd3a5db4eb009a0c58168fe91f90eb788dfe8a1fe101247c571b5caad50f32d4",
+        "sha256_in_prefix": "fd3a5db4eb009a0c58168fe91f90eb788dfe8a1fe101247c571b5caad50f32d4",
+        "size_in_bytes": 47104
+      },
+      {
+        "_path": "Library/bin/libjpeg.dll",
+        "path_type": "hardlink",
+        "sha256": "f9cf4a6622e479eeb556ae1b0606ee54145f0de92fbcf3363a4005561af712c5",
+        "sha256_in_prefix": "f9cf4a6622e479eeb556ae1b0606ee54145f0de92fbcf3363a4005561af712c5",
+        "size_in_bytes": 271360
+      },
+      {
+        "_path": "Library/bin/rdjpgcom.exe",
+        "path_type": "hardlink",
+        "sha256": "381a663d8bc4b8fc7326a77d5845733483b76bada5ee20277388a13266319192",
+        "sha256_in_prefix": "381a663d8bc4b8fc7326a77d5845733483b76bada5ee20277388a13266319192",
+        "size_in_bytes": 14336
+      },
+      {
+        "_path": "Library/bin/wrjpgcom.exe",
+        "path_type": "hardlink",
+        "sha256": "51307fc71561ebc4627b51d4ca52840b4b225d430835c2ddc407e973d2e11bca",
+        "sha256_in_prefix": "51307fc71561ebc4627b51d4ca52840b4b225d430835c2ddc407e973d2e11bca",
+        "size_in_bytes": 14336
+      },
+      {
+        "_path": "Library/include/jconfig.h",
+        "path_type": "hardlink",
+        "sha256": "2f7f9b03a8717cdd51239728fb11855f76d7a6f827c2493f64b7d32edc7e9233",
+        "sha256_in_prefix": "2f7f9b03a8717cdd51239728fb11855f76d7a6f827c2493f64b7d32edc7e9233",
+        "size_in_bytes": 1553
+      },
+      {
+        "_path": "Library/include/jerror.h",
+        "path_type": "hardlink",
+        "sha256": "7cda61a9413f996ace004b3523381170905be368b8e56067e33f15f178c96319",
+        "sha256_in_prefix": "7cda61a9413f996ace004b3523381170905be368b8e56067e33f15f178c96319",
+        "size_in_bytes": 14588
+      },
+      {
+        "_path": "Library/include/jmorecfg.h",
+        "path_type": "hardlink",
+        "sha256": "4219bd0a1c6a4410c0a5432cf8c9bf7df25a90a78a5bd0057e6bae81792c9bc5",
+        "sha256_in_prefix": "4219bd0a1c6a4410c0a5432cf8c9bf7df25a90a78a5bd0057e6bae81792c9bc5",
+        "size_in_bytes": 14925
+      },
+      {
+        "_path": "Library/include/jpegint.h",
+        "path_type": "hardlink",
+        "sha256": "43d711c8fd4a877d18a19af895974234fae71ec7331a6676d06be7759ce2c01d",
+        "sha256_in_prefix": "43d711c8fd4a877d18a19af895974234fae71ec7331a6676d06be7759ce2c01d",
+        "size_in_bytes": 17972
+      },
+      {
+        "_path": "Library/include/jpeglib.h",
+        "path_type": "hardlink",
+        "sha256": "3d5483da25be359de001c47a8254d69bbf91dbca8ce9aa1028485320107cbcfd",
+        "sha256_in_prefix": "3d5483da25be359de001c47a8254d69bbf91dbca8ce9aa1028485320107cbcfd",
+        "size_in_bytes": 49408
+      },
+      {
+        "_path": "Library/lib/jpeg.lib",
+        "path_type": "hardlink",
+        "sha256": "1dee1e42108c34a64e710ef037da5dbd7254a5371cac71a84c22caa6f6ccf4e7",
+        "sha256_in_prefix": "1dee1e42108c34a64e710ef037da5dbd7254a5371cac71a84c22caa6f6ccf4e7",
+        "size_in_bytes": 628882
+      },
+      {
+        "_path": "Library/lib/libjpeg.lib",
+        "path_type": "hardlink",
+        "sha256": "b3999c38a56eac5d621f8cdd33224d274f57e2c6b1fbbc24bc2713149daa530c",
+        "sha256_in_prefix": "b3999c38a56eac5d621f8cdd33224d274f57e2c6b1fbbc24bc2713149daa530c",
+        "size_in_bytes": 36976
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "esri/win-64::jpeg==9e=0",
+  "sha256": "a0201d7a115973792282989dc139ac0cbdddd3fbba214f46ca9b3293d2a607b2",
+  "size": 277988,
+  "subdir": "win-64",
+  "timestamp": 1666571048149,
+  "url": "https://conda.anaconda.org/esri/win-64/jpeg-9e-0.conda",
+  "version": "9e"
+}

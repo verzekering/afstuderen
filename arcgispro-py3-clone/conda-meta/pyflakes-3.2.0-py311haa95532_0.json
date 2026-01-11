@@ -1,0 +1,461 @@
+{
+  "arch": "x86_64",
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\pyflakes-3.2.0-py311haa95532_0",
+  "files": [
+    "Lib/site-packages/pyflakes-3.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/pyflakes-3.2.0.dist-info/LICENSE",
+    "Lib/site-packages/pyflakes-3.2.0.dist-info/METADATA",
+    "Lib/site-packages/pyflakes-3.2.0.dist-info/RECORD",
+    "Lib/site-packages/pyflakes-3.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/pyflakes-3.2.0.dist-info/WHEEL",
+    "Lib/site-packages/pyflakes-3.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/pyflakes-3.2.0.dist-info/entry_points.txt",
+    "Lib/site-packages/pyflakes-3.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/pyflakes/__init__.py",
+    "Lib/site-packages/pyflakes/__main__.py",
+    "Lib/site-packages/pyflakes/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/__pycache__/__main__.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/__pycache__/api.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/__pycache__/checker.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/__pycache__/messages.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/__pycache__/reporter.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/api.py",
+    "Lib/site-packages/pyflakes/checker.py",
+    "Lib/site-packages/pyflakes/messages.py",
+    "Lib/site-packages/pyflakes/reporter.py",
+    "Lib/site-packages/pyflakes/scripts/__init__.py",
+    "Lib/site-packages/pyflakes/scripts/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/scripts/__pycache__/pyflakes.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/scripts/pyflakes.py",
+    "Lib/site-packages/pyflakes/test/__init__.py",
+    "Lib/site-packages/pyflakes/test/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/test/__pycache__/harness.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/test/__pycache__/test_api.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/test/__pycache__/test_builtin.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/test/__pycache__/test_code_segment.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/test/__pycache__/test_dict.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/test/__pycache__/test_doctests.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/test/__pycache__/test_imports.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/test/__pycache__/test_is_literal.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/test/__pycache__/test_match.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/test/__pycache__/test_other.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/test/__pycache__/test_type_annotations.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/test/__pycache__/test_undefined_names.cpython-311.pyc",
+    "Lib/site-packages/pyflakes/test/harness.py",
+    "Lib/site-packages/pyflakes/test/test_api.py",
+    "Lib/site-packages/pyflakes/test/test_builtin.py",
+    "Lib/site-packages/pyflakes/test/test_code_segment.py",
+    "Lib/site-packages/pyflakes/test/test_dict.py",
+    "Lib/site-packages/pyflakes/test/test_doctests.py",
+    "Lib/site-packages/pyflakes/test/test_imports.py",
+    "Lib/site-packages/pyflakes/test/test_is_literal.py",
+    "Lib/site-packages/pyflakes/test/test_match.py",
+    "Lib/site-packages/pyflakes/test/test_other.py",
+    "Lib/site-packages/pyflakes/test/test_type_annotations.py",
+    "Lib/site-packages/pyflakes/test/test_undefined_names.py",
+    "Scripts/pyflakes-script.py",
+    "Scripts/pyflakes.exe",
+    ".nonadmin"
+  ],
+  "fn": "pyflakes-3.2.0-py311haa95532_0.conda",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\pyflakes-3.2.0-py311haa95532_0",
+    "type": 1
+  },
+  "md5": "4edc1a3b3f5c687b959659412e2437c3",
+  "name": "pyflakes",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\pyflakes-3.2.0-py311haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pyflakes-3.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes-3.2.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "22c47569cc0aae531b372361366818af01c6fc2e314770584a7866c92b3a0463",
+        "sha256_in_prefix": "22c47569cc0aae531b372361366818af01c6fc2e314770584a7866c92b3a0463",
+        "size_in_bytes": 1093
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes-3.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "a8b60d18e17e3273475004bd49e7803b38acc75870d3d224bfb0ebd025dd8d21",
+        "sha256_in_prefix": "a8b60d18e17e3273475004bd49e7803b38acc75870d3d224bfb0ebd025dd8d21",
+        "size_in_bytes": 3595
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes-3.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "9b2ef0a4b07bb73509a9be02cbc8dc153a911e2bf82ba7d0e015285179a6950f",
+        "sha256_in_prefix": "9b2ef0a4b07bb73509a9be02cbc8dc153a911e2bf82ba7d0e015285179a6950f",
+        "size_in_bytes": 3782
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes-3.2.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes-3.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "89896fe5f5f7e7b3d0c914f6a3ab70d5b37e61c2851472aa07f2f01cee703fe8",
+        "sha256_in_prefix": "89896fe5f5f7e7b3d0c914f6a3ab70d5b37e61c2851472aa07f2f01cee703fe8",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes-3.2.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "13291497deeaf26096f3df92d3352254801fa4458078be972fb4d8fb92661315",
+        "sha256_in_prefix": "13291497deeaf26096f3df92d3352254801fa4458078be972fb4d8fb92661315",
+        "size_in_bytes": 88
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes-3.2.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "2177bef5ebde52b0271ac0ed807733d88c8f2a809623d6f86d71cb5e8847a931",
+        "sha256_in_prefix": "2177bef5ebde52b0271ac0ed807733d88c8f2a809623d6f86d71cb5e8847a931",
+        "size_in_bytes": 47
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes-3.2.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "c2e2be99cc2cfeff4c36413265a5700f6c7d8dd864b9185d61972aa4116588d3",
+        "sha256_in_prefix": "c2e2be99cc2cfeff4c36413265a5700f6c7d8dd864b9185d61972aa4116588d3",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "90e660a2429c97324e6f864b4da373e267431a46503338824cd35cf5bf469884",
+        "sha256_in_prefix": "90e660a2429c97324e6f864b4da373e267431a46503338824cd35cf5bf469884",
+        "size_in_bytes": 22
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "f619ad4eaa38a8043077bd5fd9e91630881be777ebc4657011a6c55861bf5a21",
+        "sha256_in_prefix": "f619ad4eaa38a8043077bd5fd9e91630881be777ebc4657011a6c55861bf5a21",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "16e23ce8d9d41f65f5e6a45da8e5d7cca99e960453b3bf19ee19bf7a97ccb6bb",
+        "sha256_in_prefix": "16e23ce8d9d41f65f5e6a45da8e5d7cca99e960453b3bf19ee19bf7a97ccb6bb",
+        "size_in_bytes": 167
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/__pycache__/__main__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c8226d62d59e982512d1f6ff9774ccc411bb399e9c294250826b08b306fd4599",
+        "sha256_in_prefix": "c8226d62d59e982512d1f6ff9774ccc411bb399e9c294250826b08b306fd4599",
+        "size_in_bytes": 320
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/__pycache__/api.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "1c2882d4a1cdffcb74fe57f1da26f7afd2cb65d40ed4790c1a105d88a92cb684",
+        "sha256_in_prefix": "1c2882d4a1cdffcb74fe57f1da26f7afd2cb65d40ed4790c1a105d88a92cb684",
+        "size_in_bytes": 8467
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/__pycache__/checker.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6c11efc27c9b114167f3a48a843ed9b99202bff3e31e6db87f3f8ddc87d77a02",
+        "sha256_in_prefix": "6c11efc27c9b114167f3a48a843ed9b99202bff3e31e6db87f3f8ddc87d77a02",
+        "size_in_bytes": 113998
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/__pycache__/messages.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "7fcde22fe0f94710b1251ecf51264d6a55ad26ec56d2adfb9cf30851588bc466",
+        "sha256_in_prefix": "7fcde22fe0f94710b1251ecf51264d6a55ad26ec56d2adfb9cf30851588bc466",
+        "size_in_bytes": 21172
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/__pycache__/reporter.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "316c571043f3931917fbf1371ce4b425a649ae389469cc24ed0dcce8d958bcff",
+        "sha256_in_prefix": "316c571043f3931917fbf1371ce4b425a649ae389469cc24ed0dcce8d958bcff",
+        "size_in_bytes": 4193
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/api.py",
+        "path_type": "hardlink",
+        "sha256": "3070f542eb8fd36cd564b6f3a3d9409b63d327ff8fcb6835a9a1fd905171d6e7",
+        "sha256_in_prefix": "3070f542eb8fd36cd564b6f3a3d9409b63d327ff8fcb6835a9a1fd905171d6e7",
+        "size_in_bytes": 5550
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/checker.py",
+        "path_type": "hardlink",
+        "sha256": "b2718d23d51c9e90d5f3ca2428ed0fe3ce77848c35de416908cc00e735a56169",
+        "sha256_in_prefix": "b2718d23d51c9e90d5f3ca2428ed0fe3ce77848c35de416908cc00e735a56169",
+        "size_in_bytes": 75691
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/messages.py",
+        "path_type": "hardlink",
+        "sha256": "06a4291fbbb0bf0ccf75eb5c0feeeac775826f598b09d6c3a14247a5eecb016f",
+        "sha256_in_prefix": "06a4291fbbb0bf0ccf75eb5c0feeeac775826f598b09d6c3a14247a5eecb016f",
+        "size_in_bytes": 10227
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/reporter.py",
+        "path_type": "hardlink",
+        "sha256": "f4d69eb0b554d8426d39cf3058d45cae06f18d95509d102b6768d5a57a6dfeae",
+        "sha256_in_prefix": "f4d69eb0b554d8426d39cf3058d45cae06f18d95509d102b6768d5a57a6dfeae",
+        "size_in_bytes": 3001
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/scripts/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/scripts/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "50b4e5d53da950a3d6f85f5283fe9c2d37be026ee069b015b68584dc8d7ee204",
+        "sha256_in_prefix": "50b4e5d53da950a3d6f85f5283fe9c2d37be026ee069b015b68584dc8d7ee204",
+        "size_in_bytes": 155
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/scripts/__pycache__/pyflakes.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f5ba227d537265fc8b99ec322ced5516b2081320b8eb9c831aad603ddca57dce",
+        "sha256_in_prefix": "f5ba227d537265fc8b99ec322ced5516b2081320b8eb9c831aad603ddca57dce",
+        "size_in_bytes": 430
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/scripts/pyflakes.py",
+        "path_type": "hardlink",
+        "sha256": "89b5afa647757db303592a0e70e69f608f8cca6ee94dbc44a520ffa011d95185",
+        "sha256_in_prefix": "89b5afa647757db303592a0e70e69f608f8cca6ee94dbc44a520ffa011d95185",
+        "size_in_bytes": 248
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d8c2afe1f5ce6b30e19e8c1096d48d53fc69603f9417b1e853c72d29836c616b",
+        "sha256_in_prefix": "d8c2afe1f5ce6b30e19e8c1096d48d53fc69603f9417b1e853c72d29836c616b",
+        "size_in_bytes": 152
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/__pycache__/harness.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "915adf607c57b35c1503d01aea38a4b1e7e6f04de8791828f0c128848adfff78",
+        "sha256_in_prefix": "915adf607c57b35c1503d01aea38a4b1e7e6f04de8791828f0c128848adfff78",
+        "size_in_bytes": 2494
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/__pycache__/test_api.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "873c734c70ff449761284b5c387e3f38cb8cd4a1098a08ea1c2505d0a0071815",
+        "sha256_in_prefix": "873c734c70ff449761284b5c387e3f38cb8cd4a1098a08ea1c2505d0a0071815",
+        "size_in_bytes": 46860
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/__pycache__/test_builtin.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a239e93329542f839f1aff34afc5c178be94328929be35b43778ef924983393f",
+        "sha256_in_prefix": "a239e93329542f839f1aff34afc5c178be94328929be35b43778ef924983393f",
+        "size_in_bytes": 1414
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/__pycache__/test_code_segment.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0bbbde630db9f774c9a2a22d831ac83f61b4c4788e18c031d9f41b9c21f70df3",
+        "sha256_in_prefix": "0bbbde630db9f774c9a2a22d831ac83f61b4c4788e18c031d9f41b9c21f70df3",
+        "size_in_bytes": 7892
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/__pycache__/test_dict.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "bd9bc04abc83e0d92390c53e08016c222b784094ae3d3fe0f2a09b33af3c8a0b",
+        "sha256_in_prefix": "bd9bc04abc83e0d92390c53e08016c222b784094ae3d3fe0f2a09b33af3c8a0b",
+        "size_in_bytes": 8813
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/__pycache__/test_doctests.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6985e6647dccd2cf6aa930bb9ea1c7801d80ea80f97f9ca70d4bd73e9e00035b",
+        "sha256_in_prefix": "6985e6647dccd2cf6aa930bb9ea1c7801d80ea80f97f9ca70d4bd73e9e00035b",
+        "size_in_bytes": 21176
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/__pycache__/test_imports.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "23ceac719ff31aac5cf275f9a965793db706e761ea751c1fa82eda3feca8b237",
+        "sha256_in_prefix": "23ceac719ff31aac5cf275f9a965793db706e761ea751c1fa82eda3feca8b237",
+        "size_in_bytes": 58762
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/__pycache__/test_is_literal.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "324daaabf8843aee2c0a8f74bd6998f4e257f03005843e6d7ee0e8c44c7a5161",
+        "sha256_in_prefix": "324daaabf8843aee2c0a8f74bd6998f4e257f03005843e6d7ee0e8c44c7a5161",
+        "size_in_bytes": 8946
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/__pycache__/test_match.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "bd67398528e89a701ea6a4b57f318d190646cb5ebfc01463f8a7d2f887a3e5f3",
+        "sha256_in_prefix": "bd67398528e89a701ea6a4b57f318d190646cb5ebfc01463f8a7d2f887a3e5f3",
+        "size_in_bytes": 4278
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/__pycache__/test_other.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "16fef410bfc5bc826c0be6ea6dbff222261e1fd6a0b3651dfe790a171dab89c3",
+        "sha256_in_prefix": "16fef410bfc5bc826c0be6ea6dbff222261e1fd6a0b3651dfe790a171dab89c3",
+        "size_in_bytes": 80228
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/__pycache__/test_type_annotations.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0e3ab75ae299a7b7ad445a6fa4cb76c588486edfbe754cf88d1109b514b1e6cf",
+        "sha256_in_prefix": "0e3ab75ae299a7b7ad445a6fa4cb76c588486edfbe754cf88d1109b514b1e6cf",
+        "size_in_bytes": 32120
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/__pycache__/test_undefined_names.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ef4cfdcbf9e43dd61902b498bea1d3c7324c6d021fc2f795eb8a5bda5478a099",
+        "sha256_in_prefix": "ef4cfdcbf9e43dd61902b498bea1d3c7324c6d021fc2f795eb8a5bda5478a099",
+        "size_in_bytes": 36031
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/harness.py",
+        "path_type": "hardlink",
+        "sha256": "2e8dcec271b1ffac4f92f9c7dbdb6aff49ff59511fa2898a409dd10b2b131ea3",
+        "sha256_in_prefix": "2e8dcec271b1ffac4f92f9c7dbdb6aff49ff59511fa2898a409dd10b2b131ea3",
+        "size_in_bytes": 891
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/test_api.py",
+        "path_type": "hardlink",
+        "sha256": "31d2f013b5c12defe3484c097f4101165804e544905620abe284ca882c2105e0",
+        "sha256_in_prefix": "31d2f013b5c12defe3484c097f4101165804e544905620abe284ca882c2105e0",
+        "size_in_bytes": 26526
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/test_builtin.py",
+        "path_type": "hardlink",
+        "sha256": "931be33d8b45e2c0cda15d046f67fb295187301909aaedb5a08bc651bd0a7740",
+        "sha256_in_prefix": "931be33d8b45e2c0cda15d046f67fb295187301909aaedb5a08bc651bd0a7740",
+        "size_in_bytes": 582
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/test_code_segment.py",
+        "path_type": "hardlink",
+        "sha256": "4fdc4162b4c5724f48012336e0eb62175e418d4fded19c30c6952002c9454f6e",
+        "sha256_in_prefix": "4fdc4162b4c5724f48012336e0eb62175e418d4fded19c30c6952002c9454f6e",
+        "size_in_bytes": 4496
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/test_dict.py",
+        "path_type": "hardlink",
+        "sha256": "2e7cf4ca0a97c8fb9ed4d659146acbb9df35ccddc7945e0435df0454da37e862",
+        "sha256_in_prefix": "2e7cf4ca0a97c8fb9ed4d659146acbb9df35ccddc7945e0435df0454da37e862",
+        "size_in_bytes": 5271
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/test_doctests.py",
+        "path_type": "hardlink",
+        "sha256": "9aa29f2c9846ffe7ab57c922ffc6aff7101ea63fdb5ec0d5795f0db5e0bb7867",
+        "sha256_in_prefix": "9aa29f2c9846ffe7ab57c922ffc6aff7101ea63fdb5ec0d5795f0db5e0bb7867",
+        "size_in_bytes": 12600
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/test_imports.py",
+        "path_type": "hardlink",
+        "sha256": "e99deede1c1e09b3bdeb8116ce09fa12d08f4dcafe52b225d28f3aa3b1dcec03",
+        "sha256_in_prefix": "e99deede1c1e09b3bdeb8116ce09fa12d08f4dcafe52b225d28f3aa3b1dcec03",
+        "size_in_bytes": 33703
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/test_is_literal.py",
+        "path_type": "hardlink",
+        "sha256": "a63f570923919b3159e9f3918f5dbf1c6b6158fe9137930f7a8ca3de4af0571b",
+        "sha256_in_prefix": "a63f570923919b3159e9f3918f5dbf1c6b6158fe9137930f7a8ca3de4af0571b",
+        "size_in_bytes": 4573
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/test_match.py",
+        "path_type": "hardlink",
+        "sha256": "7259486ddfffa3fc42e239d23c95f2de379b150b01df7d82fccfd3e42f4ed3e2",
+        "sha256_in_prefix": "7259486ddfffa3fc42e239d23c95f2de379b150b01df7d82fccfd3e42f4ed3e2",
+        "size_in_bytes": 2393
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/test_other.py",
+        "path_type": "hardlink",
+        "sha256": "6813f2c76e5428187dfed70048c6bff80c8e614a0e79511c6e8a6385cc18c9b9",
+        "sha256_in_prefix": "6813f2c76e5428187dfed70048c6bff80c8e614a0e79511c6e8a6385cc18c9b9",
+        "size_in_bytes": 50635
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/test_type_annotations.py",
+        "path_type": "hardlink",
+        "sha256": "bba55945974398cde07a44b936200032f2978ce52fa43ae238182a5537c5946b",
+        "sha256_in_prefix": "bba55945974398cde07a44b936200032f2978ce52fa43ae238182a5537c5946b",
+        "size_in_bytes": 20212
+      },
+      {
+        "_path": "Lib/site-packages/pyflakes/test/test_undefined_names.py",
+        "path_type": "hardlink",
+        "sha256": "ca3513c3b8de9fe4861406422c008b08b0d2bfcb17ae88c0ca13c97a5dd60691",
+        "sha256_in_prefix": "ca3513c3b8de9fe4861406422c008b08b0d2bfcb17ae88c0ca13c97a5dd60691",
+        "size_in_bytes": 23488
+      },
+      {
+        "_path": "Scripts/pyflakes-script.py",
+        "path_type": "hardlink",
+        "sha256": "f1a973de8933d177a7b85f12484bb1b4bd5df209381b22799a18390acbf56ad6",
+        "sha256_in_prefix": "f1a973de8933d177a7b85f12484bb1b4bd5df209381b22799a18390acbf56ad6",
+        "size_in_bytes": 206
+      },
+      {
+        "_path": "Scripts/pyflakes.exe",
+        "path_type": "hardlink",
+        "sha256": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "sha256_in_prefix": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+        "size_in_bytes": 41984
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "defaults/win-64::pyflakes==3.2.0=py311haa95532_0",
+  "sha256": "bdf0675684ead2d88576567bb1b26c1e792cd0d16f00ae38ce63c324d2975c17",
+  "size": 177160,
+  "subdir": "win-64",
+  "timestamp": 1708963183334,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyflakes-3.2.0-py311haa95532_0.conda",
+  "version": "3.2.0"
+}

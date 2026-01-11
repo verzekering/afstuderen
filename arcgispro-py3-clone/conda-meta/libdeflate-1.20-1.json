@@ -1,0 +1,114 @@
+{
+  "arch": "x86_64",
+  "build": "1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\libdeflate-1.20-1",
+  "files": [
+    "Library/bin/deflate.dll",
+    "Library/bin/libdeflate-gunzip.exe",
+    "Library/bin/libdeflate-gzip.exe",
+    "Library/include/libdeflate.h",
+    "Library/lib/cmake/libdeflate/libdeflate-config-version.cmake",
+    "Library/lib/cmake/libdeflate/libdeflate-config.cmake",
+    "Library/lib/cmake/libdeflate/libdeflate-targets-relwithdebinfo.cmake",
+    "Library/lib/cmake/libdeflate/libdeflate-targets.cmake",
+    "Library/lib/deflate.lib",
+    "Library/lib/pkgconfig/libdeflate.pc",
+    ".nonadmin"
+  ],
+  "fn": "libdeflate-1.20-1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\libdeflate-1.20-1",
+    "type": 1
+  },
+  "md5": "50b0032e3241339b09bfa798426c9961",
+  "name": "libdeflate",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\libdeflate-1.20-1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/deflate.dll",
+        "path_type": "hardlink",
+        "sha256": "4db7fd8842ec5ade208c7b7d75de1dd0c1659c1be50aef8e1c381c08b50716d1",
+        "sha256_in_prefix": "4db7fd8842ec5ade208c7b7d75de1dd0c1659c1be50aef8e1c381c08b50716d1",
+        "size_in_bytes": 97120
+      },
+      {
+        "_path": "Library/bin/libdeflate-gunzip.exe",
+        "path_type": "hardlink",
+        "sha256": "b383a759f7b5ef8cf55288d39280a9dafc84cd8bdd61863f005b9fe83e04f34b",
+        "sha256_in_prefix": "b383a759f7b5ef8cf55288d39280a9dafc84cd8bdd61863f005b9fe83e04f34b",
+        "size_in_bytes": 34144
+      },
+      {
+        "_path": "Library/bin/libdeflate-gzip.exe",
+        "path_type": "hardlink",
+        "sha256": "81338abd86999f4c1cb24b0c6c825d8548baf3415b45cb67142764c4f52ef5c8",
+        "sha256_in_prefix": "81338abd86999f4c1cb24b0c6c825d8548baf3415b45cb67142764c4f52ef5c8",
+        "size_in_bytes": 34144
+      },
+      {
+        "_path": "Library/include/libdeflate.h",
+        "path_type": "hardlink",
+        "sha256": "85643c90aa0be39dfa74eea261674aee2a7c5e8d9aa6cc878e0302260a75adab",
+        "sha256_in_prefix": "85643c90aa0be39dfa74eea261674aee2a7c5e8d9aa6cc878e0302260a75adab",
+        "size_in_bytes": 17098
+      },
+      {
+        "_path": "Library/lib/cmake/libdeflate/libdeflate-config-version.cmake",
+        "path_type": "hardlink",
+        "sha256": "ae287fa5cbd9c7b25ca3d102d59e68bf851e0a076ac3b0ac48a994db87e21d0b",
+        "sha256_in_prefix": "ae287fa5cbd9c7b25ca3d102d59e68bf851e0a076ac3b0ac48a994db87e21d0b",
+        "size_in_bytes": 1903
+      },
+      {
+        "_path": "Library/lib/cmake/libdeflate/libdeflate-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "38872d2917fdd8b9acc643b06108e99ec4fe603e71055dfa6e84948578f0e5b8",
+        "sha256_in_prefix": "38872d2917fdd8b9acc643b06108e99ec4fe603e71055dfa6e84948578f0e5b8",
+        "size_in_bytes": 974
+      },
+      {
+        "_path": "Library/lib/cmake/libdeflate/libdeflate-targets-relwithdebinfo.cmake",
+        "path_type": "hardlink",
+        "sha256": "8ff50d80d9c58d1249ae3fb78bc6dc2c5efb0cd872bb053eb689874c1105ea32",
+        "sha256_in_prefix": "8ff50d80d9c58d1249ae3fb78bc6dc2c5efb0cd872bb053eb689874c1105ea32",
+        "size_in_bytes": 1020
+      },
+      {
+        "_path": "Library/lib/cmake/libdeflate/libdeflate-targets.cmake",
+        "path_type": "hardlink",
+        "sha256": "b878eb4ea120a792a9f8c8356416b7d29735d9ef368b5545873de18e8da23f32",
+        "sha256_in_prefix": "b878eb4ea120a792a9f8c8356416b7d29735d9ef368b5545873de18e8da23f32",
+        "size_in_bytes": 4147
+      },
+      {
+        "_path": "Library/lib/deflate.lib",
+        "path_type": "hardlink",
+        "sha256": "a17fc07da248eed4bc766c3a4d3176f57cac93812c59945b020f023dcd9b8794",
+        "sha256_in_prefix": "a17fc07da248eed4bc766c3a4d3176f57cac93812c59945b020f023dcd9b8794",
+        "size_in_bytes": 7054
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libdeflate.pc",
+        "path_type": "hardlink",
+        "sha256": "49b8dd1ee26bd320c9ba743e8457cca53d5c0abd4ce680d644381ec0e8f40634",
+        "sha256_in_prefix": "49b8dd1ee26bd320c9ba743e8457cca53d5c0abd4ce680d644381ec0e8f40634",
+        "size_in_bytes": 823
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "esri/win-64::libdeflate==1.20=1",
+  "sha256": "3371d162a7ce4d9729d8d47837ec57bd39c8d337b42b35e7ac8b2f864d709fed",
+  "size": 72744,
+  "subdir": "win-64",
+  "timestamp": 1725470639791,
+  "url": "https://conda.anaconda.org/esri/win-64/libdeflate-1.20-1.conda",
+  "version": "1.20"
+}

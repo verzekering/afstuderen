@@ -1,0 +1,260 @@
+{
+  "arch": "x86_64",
+  "build": "py311_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "constrains": [],
+  "depends": [
+    "libpdal-base >=2.8.0,<2.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\python-pdal-3.4.5-py311_2",
+  "files": [
+    "Lib/site-packages/pdal-3.4.5.dist-info/INSTALLER",
+    "Lib/site-packages/pdal-3.4.5.dist-info/METADATA",
+    "Lib/site-packages/pdal-3.4.5.dist-info/RECORD",
+    "Lib/site-packages/pdal-3.4.5.dist-info/REQUESTED",
+    "Lib/site-packages/pdal-3.4.5.dist-info/WHEEL",
+    "Lib/site-packages/pdal-3.4.5.dist-info/direct_url.json",
+    "Lib/site-packages/pdal-3.4.5.dist-info/licenses/LICENSE.txt",
+    "Lib/site-packages/pdal/PyArray.cpp",
+    "Lib/site-packages/pdal/PyArray.hpp",
+    "Lib/site-packages/pdal/PyDimension.hpp",
+    "Lib/site-packages/pdal/PyPipeline.cpp",
+    "Lib/site-packages/pdal/PyPipeline.hpp",
+    "Lib/site-packages/pdal/StreamableExecutor.cpp",
+    "Lib/site-packages/pdal/StreamableExecutor.hpp",
+    "Lib/site-packages/pdal/__init__.py",
+    "Lib/site-packages/pdal/__main__.py",
+    "Lib/site-packages/pdal/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/pdal/__pycache__/__main__.cpython-311.pyc",
+    "Lib/site-packages/pdal/__pycache__/drivers.cpython-311.pyc",
+    "Lib/site-packages/pdal/__pycache__/pipeline.cpython-311.pyc",
+    "Lib/site-packages/pdal/drivers.py",
+    "Lib/site-packages/pdal/libpdalpython.cp311-win_amd64.pyd",
+    "Lib/site-packages/pdal/libpdalpython.cpp",
+    "Lib/site-packages/pdal/pipeline.py",
+    "Library/bin/libpdal_plugin_filter_python.dll",
+    "Library/bin/libpdal_plugin_reader_numpy.dll",
+    "Library/lib/libpdal_plugin_filter_python.lib",
+    "Library/lib/libpdal_plugin_reader_numpy.lib",
+    ".nonadmin"
+  ],
+  "fn": "python-pdal-3.4.5-py311_2.conda",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\python-pdal-3.4.5-py311_2",
+    "type": 1
+  },
+  "md5": "48ff654cabbbb9adf41eb32f4eb3cb3b",
+  "name": "python-pdal",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\python-pdal-3.4.5-py311_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pdal-3.4.5.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/pdal-3.4.5.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "2b96b55de93eda36600e1f7e235410bc78c4ef30be981def20407268b3c197b2",
+        "sha256_in_prefix": "2b96b55de93eda36600e1f7e235410bc78c4ef30be981def20407268b3c197b2",
+        "size_in_bytes": 15544
+      },
+      {
+        "_path": "Lib/site-packages/pdal-3.4.5.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "3c3af839c3266bb250a49feea7e8ca297f101c7926d56fe3bfdf7f399377e72e",
+        "sha256_in_prefix": "3c3af839c3266bb250a49feea7e8ca297f101c7926d56fe3bfdf7f399377e72e",
+        "size_in_bytes": 1766
+      },
+      {
+        "_path": "Lib/site-packages/pdal-3.4.5.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/pdal-3.4.5.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "017d007b6a6b8182e6b55fc57f1f4b1e30e453f8dc7eb2bc91f9d76fcc688c8b",
+        "sha256_in_prefix": "017d007b6a6b8182e6b55fc57f1f4b1e30e453f8dc7eb2bc91f9d76fcc688c8b",
+        "size_in_bytes": 106
+      },
+      {
+        "_path": "Lib/site-packages/pdal-3.4.5.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "e1268e01440c2e525e5d238e18f2bd7222a7c0765da8f0910c9b39392935aa42",
+        "sha256_in_prefix": "e1268e01440c2e525e5d238e18f2bd7222a7c0765da8f0910c9b39392935aa42",
+        "size_in_bytes": 49
+      },
+      {
+        "_path": "Lib/site-packages/pdal-3.4.5.dist-info/licenses/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "0e42abeec615088db26c013dc66fe4b3e1a559a44d4314aa551402a924d5914a",
+        "sha256_in_prefix": "0e42abeec615088db26c013dc66fe4b3e1a559a44d4314aa551402a924d5914a",
+        "size_in_bytes": 1898
+      },
+      {
+        "_path": "Lib/site-packages/pdal/PyArray.cpp",
+        "path_type": "hardlink",
+        "sha256": "8c473cb2701ff7fd98b5bfc6d947d243438f1d3b418713098e6ad715e987a20b",
+        "sha256_in_prefix": "8c473cb2701ff7fd98b5bfc6d947d243438f1d3b418713098e6ad715e987a20b",
+        "size_in_bytes": 6352
+      },
+      {
+        "_path": "Lib/site-packages/pdal/PyArray.hpp",
+        "path_type": "hardlink",
+        "sha256": "e1412092612042474897061cbfbee8096c36eab64b8554157069d6b69fb95ea6",
+        "sha256_in_prefix": "e1412092612042474897061cbfbee8096c36eab64b8554157069d6b69fb95ea6",
+        "size_in_bytes": 3283
+      },
+      {
+        "_path": "Lib/site-packages/pdal/PyDimension.hpp",
+        "path_type": "hardlink",
+        "sha256": "d09b5fc6d2181cbf2adb75216e902031d4c2a06d8400585bd3fee8c6d93e1a8b",
+        "sha256_in_prefix": "d09b5fc6d2181cbf2adb75216e902031d4c2a06d8400585bd3fee8c6d93e1a8b",
+        "size_in_bytes": 3219
+      },
+      {
+        "_path": "Lib/site-packages/pdal/PyPipeline.cpp",
+        "path_type": "hardlink",
+        "sha256": "412f18fd9bec2abc717a093c3013641373f4eb6ca50086810b4295156635252e",
+        "sha256_in_prefix": "412f18fd9bec2abc717a093c3013641373f4eb6ca50086810b4295156635252e",
+        "size_in_bytes": 11691
+      },
+      {
+        "_path": "Lib/site-packages/pdal/PyPipeline.hpp",
+        "path_type": "hardlink",
+        "sha256": "a93093d35f0d67ac425c18c19818fb1c93970e7b51ba6c2ca043da3950e18c15",
+        "sha256_in_prefix": "a93093d35f0d67ac425c18c19818fb1c93970e7b51ba6c2ca043da3950e18c15",
+        "size_in_bytes": 3486
+      },
+      {
+        "_path": "Lib/site-packages/pdal/StreamableExecutor.cpp",
+        "path_type": "hardlink",
+        "sha256": "ba426d96cd5ccea46fecad5da88906704fbfa9a07f0a9a0340195174e9eb1935",
+        "sha256_in_prefix": "ba426d96cd5ccea46fecad5da88906704fbfa9a07f0a9a0340195174e9eb1935",
+        "size_in_bytes": 6947
+      },
+      {
+        "_path": "Lib/site-packages/pdal/StreamableExecutor.hpp",
+        "path_type": "hardlink",
+        "sha256": "d7d418b2d2aec67172488113a45e4ab386de675d67f453379c0dad6cff7a3713",
+        "sha256_in_prefix": "d7d418b2d2aec67172488113a45e4ab386de675d67f453379c0dad6cff7a3713",
+        "size_in_bytes": 3294
+      },
+      {
+        "_path": "Lib/site-packages/pdal/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "1bfc6c8a16c1e002029504d2fec60eb3d453d86c0afe6d68873ba1872d601681",
+        "sha256_in_prefix": "1bfc6c8a16c1e002029504d2fec60eb3d453d86c0afe6d68873ba1872d601681",
+        "size_in_bytes": 789
+      },
+      {
+        "_path": "Lib/site-packages/pdal/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "f2203c11cf45fa595f61e184e546f50ad2fb137a091498c93506aff881f86b89",
+        "sha256_in_prefix": "f2203c11cf45fa595f61e184e546f50ad2fb137a091498c93506aff881f86b89",
+        "size_in_bytes": 2296
+      },
+      {
+        "_path": "Lib/site-packages/pdal/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "78688cc62daf17c377d46f3d3b08bf78e200baa42e11f76bed5b4bef75404f7c",
+        "sha256_in_prefix": "78688cc62daf17c377d46f3d3b08bf78e200baa42e11f76bed5b4bef75404f7c",
+        "size_in_bytes": 1393
+      },
+      {
+        "_path": "Lib/site-packages/pdal/__pycache__/__main__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "e709a91f2b6c4f91b3786fc43496871500fc97d6ac6165c0a6f13676fc1d9d93",
+        "sha256_in_prefix": "e709a91f2b6c4f91b3786fc43496871500fc97d6ac6165c0a6f13676fc1d9d93",
+        "size_in_bytes": 4167
+      },
+      {
+        "_path": "Lib/site-packages/pdal/__pycache__/drivers.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5a44858898615b7f1e96fa294e2279565685482ee9decff1badbe90fcfbaaa34",
+        "sha256_in_prefix": "5a44858898615b7f1e96fa294e2279565685482ee9decff1badbe90fcfbaaa34",
+        "size_in_bytes": 5735
+      },
+      {
+        "_path": "Lib/site-packages/pdal/__pycache__/pipeline.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6c2fa5d23512c5a2c9dbcf1b2b5983966dde24a2483ce967dd310fd39735d314",
+        "sha256_in_prefix": "6c2fa5d23512c5a2c9dbcf1b2b5983966dde24a2483ce967dd310fd39735d314",
+        "size_in_bytes": 16654
+      },
+      {
+        "_path": "Lib/site-packages/pdal/drivers.py",
+        "path_type": "hardlink",
+        "sha256": "295c10890fba7c71c4eafc23c735e01df3d5bb6f53c6db5d57d9c6a236b31f44",
+        "sha256_in_prefix": "295c10890fba7c71c4eafc23c735e01df3d5bb6f53c6db5d57d9c6a236b31f44",
+        "size_in_bytes": 2576
+      },
+      {
+        "_path": "Lib/site-packages/pdal/libpdalpython.cp311-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "fc6d68ebdd4c13714c30bdbf1c41c039eaa27b2267cb07eeec5997c1066279b6",
+        "sha256_in_prefix": "fc6d68ebdd4c13714c30bdbf1c41c039eaa27b2267cb07eeec5997c1066279b6",
+        "size_in_bytes": 519512
+      },
+      {
+        "_path": "Lib/site-packages/pdal/libpdalpython.cpp",
+        "path_type": "hardlink",
+        "sha256": "ce601e83e5d0bfb1525cab2926776236502a001b8649cc102d5f8623003268e2",
+        "sha256_in_prefix": "ce601e83e5d0bfb1525cab2926776236502a001b8649cc102d5f8623003268e2",
+        "size_in_bytes": 11626
+      },
+      {
+        "_path": "Lib/site-packages/pdal/pipeline.py",
+        "path_type": "hardlink",
+        "sha256": "2ba00890bd0895e9fb927ec97c96eb954321964aca905b4b613884395cc2b878",
+        "sha256_in_prefix": "2ba00890bd0895e9fb927ec97c96eb954321964aca905b4b613884395cc2b878",
+        "size_in_bytes": 8308
+      },
+      {
+        "_path": "Library/bin/libpdal_plugin_filter_python.dll",
+        "path_type": "hardlink",
+        "sha256": "765222c3c272372484c357bab78cc560f24f53bdda47db6d5136969af98dd83e",
+        "sha256_in_prefix": "765222c3c272372484c357bab78cc560f24f53bdda47db6d5136969af98dd83e",
+        "size_in_bytes": 410312
+      },
+      {
+        "_path": "Library/bin/libpdal_plugin_reader_numpy.dll",
+        "path_type": "hardlink",
+        "sha256": "e6cc7ab3bcc005d1e1a51b4c0e83862ba89beccdf7d363577ca61e5d4b0933f2",
+        "sha256_in_prefix": "e6cc7ab3bcc005d1e1a51b4c0e83862ba89beccdf7d363577ca61e5d4b0933f2",
+        "size_in_bytes": 339656
+      },
+      {
+        "_path": "Library/lib/libpdal_plugin_filter_python.lib",
+        "path_type": "hardlink",
+        "sha256": "20ecb11bdfeab5099546927a1f1d302137e6c62ee34d0fe3b57a00ef190a0fc4",
+        "sha256_in_prefix": "20ecb11bdfeab5099546927a1f1d302137e6c62ee34d0fe3b57a00ef190a0fc4",
+        "size_in_bytes": 212090
+      },
+      {
+        "_path": "Library/lib/libpdal_plugin_reader_numpy.lib",
+        "path_type": "hardlink",
+        "sha256": "282e8c4d1f5a6d14a10edcef235660c1e96337ae0bb1a0b3324d26989309286f",
+        "sha256_in_prefix": "282e8c4d1f5a6d14a10edcef235660c1e96337ae0bb1a0b3324d26989309286f",
+        "size_in_bytes": 218354
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "esri/win-64::python-pdal==3.4.5=py311_2",
+  "sha256": "eba76120b65c93a455576d059b3f1617f2910fa9defd5337282829a0f4d0221a",
+  "size": 394470,
+  "subdir": "win-64",
+  "timestamp": 1742343801346,
+  "url": "https://conda.anaconda.org/esri/win-64/python-pdal-3.4.5-py311_2.conda",
+  "version": "3.4.5"
+}

@@ -1,0 +1,132 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/esri/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.8"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\tokenize-rt-6.0.0-py_0",
+  "files": [
+    "Lib/site-packages/tokenize_rt-6.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/tokenize_rt-6.0.0.dist-info/LICENSE",
+    "Lib/site-packages/tokenize_rt-6.0.0.dist-info/METADATA",
+    "Lib/site-packages/tokenize_rt-6.0.0.dist-info/RECORD",
+    "Lib/site-packages/tokenize_rt-6.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/tokenize_rt-6.0.0.dist-info/WHEEL",
+    "Lib/site-packages/tokenize_rt-6.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/tokenize_rt-6.0.0.dist-info/entry_points.txt",
+    "Lib/site-packages/tokenize_rt-6.0.0.dist-info/top_level.txt",
+    "Lib/site-packages/tokenize_rt.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/tokenize_rt.cpython-311.pyc",
+    "Scripts/tokenize-rt-script.py",
+    "Scripts/tokenize-rt.exe"
+  ],
+  "fn": "tokenize-rt-6.0.0-py_0.conda",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\tokenize-rt-6.0.0-py_0",
+    "type": 1
+  },
+  "md5": "a73df0ba9db7ee889410cb0ef30d8481",
+  "name": "tokenize-rt",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\tokenize-rt-6.0.0-py_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/tokenize_rt-6.0.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/tokenize_rt-6.0.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "ec1e7339c4ff924852df2f5d74170120e3a722aab28c8b6ef20660c3dbe9a2b7",
+        "sha256_in_prefix": "ec1e7339c4ff924852df2f5d74170120e3a722aab28c8b6ef20660c3dbe9a2b7",
+        "size_in_bytes": 1059
+      },
+      {
+        "_path": "site-packages/tokenize_rt-6.0.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "4e24729d5c9cfd6852a8df7847352fe374c86b2a78f25923a5bcb1363dc26027",
+        "sha256_in_prefix": "4e24729d5c9cfd6852a8df7847352fe374c86b2a78f25923a5bcb1363dc26027",
+        "size_in_bytes": 4193
+      },
+      {
+        "_path": "site-packages/tokenize_rt-6.0.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "fb3a8071088bae930fee12104eef844326bd56952c7f043a00cb5fbef4f88ee1",
+        "sha256_in_prefix": "fb3a8071088bae930fee12104eef844326bd56952c7f043a00cb5fbef4f88ee1",
+        "size_in_bytes": 1000
+      },
+      {
+        "_path": "site-packages/tokenize_rt-6.0.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/tokenize_rt-6.0.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "a94cf319e9d75ee253cf28c56a1efa90356a0ef9e4f980f3634d2cbe7ae5f38c",
+        "sha256_in_prefix": "a94cf319e9d75ee253cf28c56a1efa90356a0ef9e4f980f3634d2cbe7ae5f38c",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "site-packages/tokenize_rt-6.0.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "b8e7405c879f179b06da5200bc500bcd92429f6ccf2a129cdf4bfc684d83bc8c",
+        "sha256_in_prefix": "b8e7405c879f179b06da5200bc500bcd92429f6ccf2a129cdf4bfc684d83bc8c",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "site-packages/tokenize_rt-6.0.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "a997a1edd6f3afd881cc0ae077d7e8a0b8f6444a6f968e993ea05f03b1118033",
+        "sha256_in_prefix": "a997a1edd6f3afd881cc0ae077d7e8a0b8f6444a6f968e993ea05f03b1118033",
+        "size_in_bytes": 49
+      },
+      {
+        "_path": "site-packages/tokenize_rt-6.0.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "fe7c9be3d7a15fcefe23419248c2d6b371cd6820262a0f84702279ed80750bce",
+        "sha256_in_prefix": "fe7c9be3d7a15fcefe23419248c2d6b371cd6820262a0f84702279ed80750bce",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "site-packages/tokenize_rt.py",
+        "path_type": "hardlink",
+        "sha256": "320ddf338cb228f7cd8ad6522c2c996d3df63d216aa441bae6cbe22307ceda95",
+        "sha256_in_prefix": "320ddf338cb228f7cd8ad6522c2c996d3df63d216aa441bae6cbe22307ceda95",
+        "size_in_bytes": 5996
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/tokenize_rt.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/tokenize-rt-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/tokenize-rt.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "esri/noarch::tokenize-rt==6.0.0=py_0",
+  "sha256": "7b1f59852e64009154b188cfdc08ea7a162a948b02765e633c1e7e58a2013e99",
+  "size": 10390,
+  "subdir": "noarch",
+  "timestamp": 1729272858262,
+  "url": "https://conda.anaconda.org/esri/noarch/tokenize-rt-6.0.0-py_0.conda",
+  "version": "6.0.0"
+}

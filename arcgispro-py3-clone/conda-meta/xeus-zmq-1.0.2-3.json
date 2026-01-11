@@ -1,0 +1,176 @@
+{
+  "arch": "x86_64",
+  "build": "3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "constrains": [
+    "xtl",
+    "cppzmq >=4.9.0,<4.10.0a0",
+    "nlohmann_json"
+  ],
+  "depends": [
+    "zeromq >=4.3,<5.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\xeus-zmq-1.0.2-3",
+  "files": [
+    "Library/bin/libxeus-zmq.dll",
+    "Library/include/xeus-zmq/xauthentication.hpp",
+    "Library/include/xeus-zmq/xdap_tcp_client.hpp",
+    "Library/include/xeus-zmq/xdebugger_base.hpp",
+    "Library/include/xeus-zmq/xeus-zmq.hpp",
+    "Library/include/xeus-zmq/xmiddleware.hpp",
+    "Library/include/xeus-zmq/xserver_control_main.hpp",
+    "Library/include/xeus-zmq/xserver_shell_main.hpp",
+    "Library/include/xeus-zmq/xserver_zmq.hpp",
+    "Library/include/xeus-zmq/xserver_zmq_split.hpp",
+    "Library/include/xeus-zmq/xzmq_serializer.hpp",
+    "Library/lib/cmake/xeus-zmq/FindLibUUID.cmake",
+    "Library/lib/cmake/xeus-zmq/xeus-zmqConfig.cmake",
+    "Library/lib/cmake/xeus-zmq/xeus-zmqConfigVersion.cmake",
+    "Library/lib/cmake/xeus-zmq/xeus-zmqTargets-relwithdebinfo.cmake",
+    "Library/lib/cmake/xeus-zmq/xeus-zmqTargets.cmake",
+    "Library/lib/libxeus-zmq.lib",
+    ".nonadmin"
+  ],
+  "fn": "xeus-zmq-1.0.2-3.conda",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\xeus-zmq-1.0.2-3",
+    "type": 1
+  },
+  "md5": "d90444c9a810a70c23d5a160b74cf8ce",
+  "name": "xeus-zmq",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\xeus-zmq-1.0.2-3.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/libxeus-zmq.dll",
+        "path_type": "hardlink",
+        "sha256": "75b4f66b1d1fa48d8d4a65d9afe695fbdc9ab468d783ba1a0625315618aa3a6e",
+        "sha256_in_prefix": "75b4f66b1d1fa48d8d4a65d9afe695fbdc9ab468d783ba1a0625315618aa3a6e",
+        "size_in_bytes": 428384
+      },
+      {
+        "_path": "Library/include/xeus-zmq/xauthentication.hpp",
+        "path_type": "hardlink",
+        "sha256": "b469f40829dd12ee0ebc819ab67593d814248622a34412988df856c920933617",
+        "sha256_in_prefix": "b469f40829dd12ee0ebc819ab67593d814248622a34412988df856c920933617",
+        "size_in_bytes": 2767
+      },
+      {
+        "_path": "Library/include/xeus-zmq/xdap_tcp_client.hpp",
+        "path_type": "hardlink",
+        "sha256": "b622284d4b26746aecc1da9484bc2e5b1c6c4e70817bfd39a84388548a7de38d",
+        "sha256_in_prefix": "b622284d4b26746aecc1da9484bc2e5b1c6c4e70817bfd39a84388548a7de38d",
+        "size_in_bytes": 3695
+      },
+      {
+        "_path": "Library/include/xeus-zmq/xdebugger_base.hpp",
+        "path_type": "hardlink",
+        "sha256": "45de99d27d963e444e1cf9d84b1c29654bdcc29a13aa5e4af5f00f6f979bf9b1",
+        "sha256_in_prefix": "45de99d27d963e444e1cf9d84b1c29654bdcc29a13aa5e4af5f00f6f979bf9b1",
+        "size_in_bytes": 4422
+      },
+      {
+        "_path": "Library/include/xeus-zmq/xeus-zmq.hpp",
+        "path_type": "hardlink",
+        "sha256": "2b44bc61d029bfd80d7c72cee74b8759c9030f5a64bef4d1f69dae74a3c8e2e0",
+        "sha256_in_prefix": "2b44bc61d029bfd80d7c72cee74b8759c9030f5a64bef4d1f69dae74a3c8e2e0",
+        "size_in_bytes": 1225
+      },
+      {
+        "_path": "Library/include/xeus-zmq/xmiddleware.hpp",
+        "path_type": "hardlink",
+        "sha256": "f2c9c1901d57d67c78c6b402462c7449f3c96fdc5c9f973737122a9bd008d158",
+        "sha256_in_prefix": "f2c9c1901d57d67c78c6b402462c7449f3c96fdc5c9f973737122a9bd008d158",
+        "size_in_bytes": 1643
+      },
+      {
+        "_path": "Library/include/xeus-zmq/xserver_control_main.hpp",
+        "path_type": "hardlink",
+        "sha256": "9bd41c1539d91eb9a2d2b4979bd07dc91abb2998b42fd14d035a4c0d27fc9174",
+        "sha256_in_prefix": "9bd41c1539d91eb9a2d2b4979bd07dc91abb2998b42fd14d035a4c0d27fc9174",
+        "size_in_bytes": 1583
+      },
+      {
+        "_path": "Library/include/xeus-zmq/xserver_shell_main.hpp",
+        "path_type": "hardlink",
+        "sha256": "21a40f880bc1710abc04ac802ca2ae1c54149d42095b5ba3c00ada640cef9b7c",
+        "sha256_in_prefix": "21a40f880bc1710abc04ac802ca2ae1c54149d42095b5ba3c00ada640cef9b7c",
+        "size_in_bytes": 1524
+      },
+      {
+        "_path": "Library/include/xeus-zmq/xserver_zmq.hpp",
+        "path_type": "hardlink",
+        "sha256": "a207e4efb58ee8fbd057ee6e561aacc841e5484f06fb9d45b3f437f5dfb049b5",
+        "sha256_in_prefix": "a207e4efb58ee8fbd057ee6e561aacc841e5484f06fb9d45b3f437f5dfb049b5",
+        "size_in_bytes": 2966
+      },
+      {
+        "_path": "Library/include/xeus-zmq/xserver_zmq_split.hpp",
+        "path_type": "hardlink",
+        "sha256": "9ddb70f25fea3d78000bfc757195e4603a4fed9ee6701da4928765c6a3156b53",
+        "sha256_in_prefix": "9ddb70f25fea3d78000bfc757195e4603a4fed9ee6701da4928765c6a3156b53",
+        "size_in_bytes": 3130
+      },
+      {
+        "_path": "Library/include/xeus-zmq/xzmq_serializer.hpp",
+        "path_type": "hardlink",
+        "sha256": "109b0679426d5bd8a875efa8d6e4a6b8c65f0f368e217a7f1f652f70c326057c",
+        "sha256_in_prefix": "109b0679426d5bd8a875efa8d6e4a6b8c65f0f368e217a7f1f652f70c326057c",
+        "size_in_bytes": 1692
+      },
+      {
+        "_path": "Library/lib/cmake/xeus-zmq/FindLibUUID.cmake",
+        "path_type": "hardlink",
+        "sha256": "4cc854c948654a2dbee992fd4ddbbc5624537174bce59b0f709d0760c684bfb1",
+        "sha256_in_prefix": "4cc854c948654a2dbee992fd4ddbbc5624537174bce59b0f709d0760c684bfb1",
+        "size_in_bytes": 2657
+      },
+      {
+        "_path": "Library/lib/cmake/xeus-zmq/xeus-zmqConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "801b1bb60d346341f1d9c3a33f4c60b14923d2202fccb693e48c6a3ce3ce60bf",
+        "sha256_in_prefix": "801b1bb60d346341f1d9c3a33f4c60b14923d2202fccb693e48c6a3ce3ce60bf",
+        "size_in_bytes": 3422
+      },
+      {
+        "_path": "Library/lib/cmake/xeus-zmq/xeus-zmqConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "45fcc14f9988b4130d439a0e469c5dd1bda0256cf64ef510e3c79dc3796763b5",
+        "sha256_in_prefix": "45fcc14f9988b4130d439a0e469c5dd1bda0256cf64ef510e3c79dc3796763b5",
+        "size_in_bytes": 2025
+      },
+      {
+        "_path": "Library/lib/cmake/xeus-zmq/xeus-zmqTargets-relwithdebinfo.cmake",
+        "path_type": "hardlink",
+        "sha256": "57328525798900acf2caa9ba0246cda74da8d8d014278e499eb7f05bd82d05f1",
+        "sha256_in_prefix": "57328525798900acf2caa9ba0246cda74da8d8d014278e499eb7f05bd82d05f1",
+        "size_in_bytes": 919
+      },
+      {
+        "_path": "Library/lib/cmake/xeus-zmq/xeus-zmqTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "6851217e3230ec65919d47cde525642677e6dd3df0963c51c7d5fa49f27641cf",
+        "sha256_in_prefix": "6851217e3230ec65919d47cde525642677e6dd3df0963c51c7d5fa49f27641cf",
+        "size_in_bytes": 3774
+      },
+      {
+        "_path": "Library/lib/libxeus-zmq.lib",
+        "path_type": "hardlink",
+        "sha256": "a1534954a204d51f09a47eeffee8178d54dabdc06d37d1667433e0a0c2be17fe",
+        "sha256_in_prefix": "a1534954a204d51f09a47eeffee8178d54dabdc06d37d1667433e0a0c2be17fe",
+        "size_in_bytes": 84402
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "esri/win-64::xeus-zmq==1.0.2=3",
+  "sha256": "d5e18dee8f716e58feb7f54ac77c2d47cf26b212ddb033c7188e259a9e950f15",
+  "size": 134293,
+  "subdir": "win-64",
+  "timestamp": 1724937922440,
+  "url": "https://conda.anaconda.org/esri/win-64/xeus-zmq-1.0.2-3.conda",
+  "version": "1.0.2"
+}

@@ -1,0 +1,161 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\tblib-1.7.0-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/tblib-1.7.0.dist-info/AUTHORS.rst",
+    "Lib/site-packages/tblib-1.7.0.dist-info/INSTALLER",
+    "Lib/site-packages/tblib-1.7.0.dist-info/LICENSE",
+    "Lib/site-packages/tblib-1.7.0.dist-info/METADATA",
+    "Lib/site-packages/tblib-1.7.0.dist-info/RECORD",
+    "Lib/site-packages/tblib-1.7.0.dist-info/REQUESTED",
+    "Lib/site-packages/tblib-1.7.0.dist-info/WHEEL",
+    "Lib/site-packages/tblib-1.7.0.dist-info/direct_url.json",
+    "Lib/site-packages/tblib-1.7.0.dist-info/top_level.txt",
+    "Lib/site-packages/tblib/__init__.py",
+    "Lib/site-packages/tblib/cpython.py",
+    "Lib/site-packages/tblib/decorators.py",
+    "Lib/site-packages/tblib/pickling_support.py",
+    ".nonadmin",
+    "Lib/site-packages/tblib/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/tblib/__pycache__/cpython.cpython-311.pyc",
+    "Lib/site-packages/tblib/__pycache__/decorators.cpython-311.pyc",
+    "Lib/site-packages/tblib/__pycache__/pickling_support.cpython-311.pyc"
+  ],
+  "fn": "tblib-1.7.0-pyhd3eb1b0_0.conda",
+  "license": "BSD 2-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\tblib-1.7.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "6af496367894a19ed9f0115bef20fd7d",
+  "name": "tblib",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\tblib-1.7.0-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/tblib-1.7.0.dist-info/AUTHORS.rst",
+        "path_type": "hardlink",
+        "sha256": "4400e704f6ec239a5b12c2fd09353e2818944153a038da6764cfb2dd7db3dcb3",
+        "sha256_in_prefix": "4400e704f6ec239a5b12c2fd09353e2818944153a038da6764cfb2dd7db3dcb3",
+        "size_in_bytes": 474
+      },
+      {
+        "_path": "site-packages/tblib-1.7.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/tblib-1.7.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "4c78d57bf0fdac9ccc5a5863746cfcc3cc9a7867176846e8d6477bc26064bdb9",
+        "sha256_in_prefix": "4c78d57bf0fdac9ccc5a5863746cfcc3cc9a7867176846e8d6477bc26064bdb9",
+        "size_in_bytes": 1330
+      },
+      {
+        "_path": "site-packages/tblib-1.7.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "535969c71f158baf8664af090aab3c9ae4797dd97264a71c30a3b0c25c01e5a1",
+        "sha256_in_prefix": "535969c71f158baf8664af090aab3c9ae4797dd97264a71c30a3b0c25c01e5a1",
+        "size_in_bytes": 24870
+      },
+      {
+        "_path": "site-packages/tblib-1.7.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4891564c34051838f46b3e3b58c8a45ab612ab1d10d0ae61e0874efe7b444973",
+        "sha256_in_prefix": "4891564c34051838f46b3e3b58c8a45ab612ab1d10d0ae61e0874efe7b444973",
+        "size_in_bytes": 1235
+      },
+      {
+        "_path": "site-packages/tblib-1.7.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/tblib-1.7.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "5b367c7308e1f25d23b542cd8d8ab51e9afe582a824603ebfbe4d7e0fe48d56a",
+        "sha256_in_prefix": "5b367c7308e1f25d23b542cd8d8ab51e9afe582a824603ebfbe4d7e0fe48d56a",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/tblib-1.7.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "e2dfdaede99cd2ea6b31bb5aef25253216567cc481f5bb33cc8f27f2299f261d",
+        "sha256_in_prefix": "e2dfdaede99cd2ea6b31bb5aef25253216567cc481f5bb33cc8f27f2299f261d",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "site-packages/tblib-1.7.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "6af9f512fa824d48b4be04514e9917456ceca9fd7a5cce898f531873682b3993",
+        "sha256_in_prefix": "6af9f512fa824d48b4be04514e9917456ceca9fd7a5cce898f531873682b3993",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "site-packages/tblib/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "379db8765e691829b1fcf1477cd25525659a073427ab25d4650b1378cf1227f9",
+        "sha256_in_prefix": "379db8765e691829b1fcf1477cd25525659a073427ab25d4650b1378cf1227f9",
+        "size_in_bytes": 9433
+      },
+      {
+        "_path": "site-packages/tblib/cpython.py",
+        "path_type": "hardlink",
+        "sha256": "30b03d221fe46359ddfa96b9479cab18ff545d147d98ababedd3fc390ab06e7b",
+        "sha256_in_prefix": "30b03d221fe46359ddfa96b9479cab18ff545d147d98ababedd3fc390ab06e7b",
+        "size_in_bytes": 2381
+      },
+      {
+        "_path": "site-packages/tblib/decorators.py",
+        "path_type": "hardlink",
+        "sha256": "186fc2da1743e69c172fcb8e04465bd9a9982779bc299affc55dc166a2315283",
+        "sha256_in_prefix": "186fc2da1743e69c172fcb8e04465bd9a9982779bc299affc55dc166a2315283",
+        "size_in_bytes": 1076
+      },
+      {
+        "_path": "site-packages/tblib/pickling_support.py",
+        "path_type": "hardlink",
+        "sha256": "8e5acc26b1f445ac1389a1652143e8930ab21c7ae3b69942ccd1493f6a307e15",
+        "sha256_in_prefix": "8e5acc26b1f445ac1389a1652143e8930ab21c7ae3b69942ccd1493f6a307e15",
+        "size_in_bytes": 2917
+      },
+      {
+        "_path": "Lib/site-packages/tblib/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tblib/__pycache__/cpython.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tblib/__pycache__/decorators.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tblib/__pycache__/pickling_support.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::tblib==1.7.0=pyhd3eb1b0_0",
+  "sha256": "c2903e9a9c0e6b77cd6bd1166bf7798494848d0f9ca017e00667d795e4f1dce9",
+  "size": 15686,
+  "subdir": "noarch",
+  "timestamp": 1629402049497,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/tblib-1.7.0-pyhd3eb1b0_0.conda",
+  "version": "1.7.0"
+}

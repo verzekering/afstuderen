@@ -1,0 +1,60 @@
+{
+  "arch": "x86_64",
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "constrains": [],
+  "depends": [
+    "libbrotlicommon 1.1.0.*"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\libbrotlienc-1.1.0-2",
+  "files": [
+    "Library/bin/brotlienc.dll",
+    "Library/lib/brotlienc.lib",
+    "Library/lib/pkgconfig/libbrotlienc.pc",
+    ".nonadmin"
+  ],
+  "fn": "libbrotlienc-1.1.0-2.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\libbrotlienc-1.1.0-2",
+    "type": 1
+  },
+  "md5": "4dbf489d008db06047e36d47d68882cb",
+  "name": "libbrotlienc",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\libbrotlienc-1.1.0-2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/brotlienc.dll",
+        "path_type": "hardlink",
+        "sha256": "7fabf6f88fe9896aabb3ed7ceb818cc6df748f9547227e232b7797bb1a23230c",
+        "sha256_in_prefix": "7fabf6f88fe9896aabb3ed7ceb818cc6df748f9547227e232b7797bb1a23230c",
+        "size_in_bytes": 661344
+      },
+      {
+        "_path": "Library/lib/brotlienc.lib",
+        "path_type": "hardlink",
+        "sha256": "e906be3d42a7beb72f9a5e83b8c18ec2b2e1d0edaf6c08c5542e1d0866d4c29d",
+        "sha256_in_prefix": "e906be3d42a7beb72f9a5e83b8c18ec2b2e1d0edaf6c08c5542e1d0866d4c29d",
+        "size_in_bytes": 4990
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libbrotlienc.pc",
+        "path_type": "hardlink",
+        "sha256": "a411e2540a4cdec185b21d88135e95823bfb0adc511d71ee44ed0535478d782f",
+        "sha256_in_prefix": "a411e2540a4cdec185b21d88135e95823bfb0adc511d71ee44ed0535478d782f",
+        "size_in_bytes": 379
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "esri/win-64::libbrotlienc==1.1.0=2",
+  "sha256": "fb38ae06670d6d4de8504998b9d2aa66d884f235fa4634aa969d0369a6489174",
+  "size": 250957,
+  "subdir": "win-64",
+  "timestamp": 1736974169547,
+  "url": "https://conda.anaconda.org/esri/win-64/libbrotlienc-1.1.0-2.conda",
+  "version": "1.1.0"
+}

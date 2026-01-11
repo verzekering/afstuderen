@@ -1,0 +1,153 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "ipywidgets",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\ipyfilechooser-0.6.0-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/ipyfilechooser-0.6.0.dist-info/INSTALLER",
+    "Lib/site-packages/ipyfilechooser-0.6.0.dist-info/LICENSE",
+    "Lib/site-packages/ipyfilechooser-0.6.0.dist-info/METADATA",
+    "Lib/site-packages/ipyfilechooser-0.6.0.dist-info/RECORD",
+    "Lib/site-packages/ipyfilechooser-0.6.0.dist-info/REQUESTED",
+    "Lib/site-packages/ipyfilechooser-0.6.0.dist-info/WHEEL",
+    "Lib/site-packages/ipyfilechooser-0.6.0.dist-info/direct_url.json",
+    "Lib/site-packages/ipyfilechooser-0.6.0.dist-info/top_level.txt",
+    "Lib/site-packages/ipyfilechooser/__init__.py",
+    "Lib/site-packages/ipyfilechooser/errors.py",
+    "Lib/site-packages/ipyfilechooser/filechooser.py",
+    "Lib/site-packages/ipyfilechooser/utils.py",
+    ".nonadmin",
+    "Lib/site-packages/ipyfilechooser/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/ipyfilechooser/__pycache__/errors.cpython-311.pyc",
+    "Lib/site-packages/ipyfilechooser/__pycache__/filechooser.cpython-311.pyc",
+    "Lib/site-packages/ipyfilechooser/__pycache__/utils.cpython-311.pyc"
+  ],
+  "fn": "ipyfilechooser-0.6.0-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\ipyfilechooser-0.6.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "77f3e551b6bc450deca63b2f171e0b73",
+  "name": "ipyfilechooser",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\ipyfilechooser-0.6.0-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/ipyfilechooser-0.6.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/ipyfilechooser-0.6.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "ccfdcaf1bfa914ab86452160ab148c842fe95dc498822ada95b0c7b7a02a38a8",
+        "sha256_in_prefix": "ccfdcaf1bfa914ab86452160ab148c842fe95dc498822ada95b0c7b7a02a38a8",
+        "size_in_bytes": 1069
+      },
+      {
+        "_path": "site-packages/ipyfilechooser-0.6.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "80c3070ab97ebb358c2e35948f9b07ec2542edcc3f9b7e034683a2a38612a5eb",
+        "sha256_in_prefix": "80c3070ab97ebb358c2e35948f9b07ec2542edcc3f9b7e034683a2a38612a5eb",
+        "size_in_bytes": 6449
+      },
+      {
+        "_path": "site-packages/ipyfilechooser-0.6.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "35590132c2b7a5d74e4b39b0659ca965a97b7abdc7603360235dd02566fd561b",
+        "sha256_in_prefix": "35590132c2b7a5d74e4b39b0659ca965a97b7abdc7603360235dd02566fd561b",
+        "size_in_bytes": 1266
+      },
+      {
+        "_path": "site-packages/ipyfilechooser-0.6.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/ipyfilechooser-0.6.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+        "sha256_in_prefix": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/ipyfilechooser-0.6.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "7a1cf155dc0bae1e50dc60025ee1c90314a44a68f7df7f915458ea21a7279bd6",
+        "sha256_in_prefix": "7a1cf155dc0bae1e50dc60025ee1c90314a44a68f7df7f915458ea21a7279bd6",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/ipyfilechooser-0.6.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "176bfbc979260d40ca3255a1b9080a14a5c3284e8f2c78cbb29afbef8df622bf",
+        "sha256_in_prefix": "176bfbc979260d40ca3255a1b9080a14a5c3284e8f2c78cbb29afbef8df622bf",
+        "size_in_bytes": 15
+      },
+      {
+        "_path": "site-packages/ipyfilechooser/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b1ef8c6fda1b9bb395914c8762a9fac2f7f50c48b5ed931b6682e3942560c3b7",
+        "sha256_in_prefix": "b1ef8c6fda1b9bb395914c8762a9fac2f7f50c48b5ed931b6682e3942560c3b7",
+        "size_in_bytes": 60
+      },
+      {
+        "_path": "site-packages/ipyfilechooser/errors.py",
+        "path_type": "hardlink",
+        "sha256": "2ce272e75e5dfbc772ba4617b1936d8d05094a93a70c71bc5fdbe2960c07b8fd",
+        "sha256_in_prefix": "2ce272e75e5dfbc772ba4617b1936d8d05094a93a70c71bc5fdbe2960c07b8fd",
+        "size_in_bytes": 1056
+      },
+      {
+        "_path": "site-packages/ipyfilechooser/filechooser.py",
+        "path_type": "hardlink",
+        "sha256": "d71a54ccce1661aa04f164925847450fb9123f4354a446122d069e253e527dff",
+        "sha256_in_prefix": "d71a54ccce1661aa04f164925847450fb9123f4354a446122d069e253e527dff",
+        "size_in_bytes": 22935
+      },
+      {
+        "_path": "site-packages/ipyfilechooser/utils.py",
+        "path_type": "hardlink",
+        "sha256": "b4e6f9bee0b5ccc3a34830e7b05d45062ac0d9593f9c2631a0c2142800261a56",
+        "sha256_in_prefix": "b4e6f9bee0b5ccc3a34830e7b05d45062ac0d9593f9c2631a0c2142800261a56",
+        "size_in_bytes": 3976
+      },
+      {
+        "_path": "Lib/site-packages/ipyfilechooser/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipyfilechooser/__pycache__/errors.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipyfilechooser/__pycache__/filechooser.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipyfilechooser/__pycache__/utils.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "eab4aba337b8f41a98bbe123ffa9c6f6408c0a8928c29fdc778c6e293d8d2e94",
+  "size": 13270,
+  "subdir": "noarch",
+  "timestamp": 1631746111000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/ipyfilechooser-0.6.0-pyhd8ed1ab_0.tar.bz2",
+  "version": "0.6.0"
+}

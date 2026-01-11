@@ -1,0 +1,330 @@
+{
+  "arch": "x86_64",
+  "build": "py311haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "numpy >= 1.20.0",
+    "pandas >=1.3.0"
+  ],
+  "depends": [
+    "locket",
+    "python >=3.11,<3.12.0a0",
+    "toolz"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\partd-1.4.2-py311haa95532_0",
+  "files": [
+    "Lib/site-packages/partd-1.4.2.dist-info/INSTALLER",
+    "Lib/site-packages/partd-1.4.2.dist-info/LICENSE.txt",
+    "Lib/site-packages/partd-1.4.2.dist-info/METADATA",
+    "Lib/site-packages/partd-1.4.2.dist-info/RECORD",
+    "Lib/site-packages/partd-1.4.2.dist-info/REQUESTED",
+    "Lib/site-packages/partd-1.4.2.dist-info/WHEEL",
+    "Lib/site-packages/partd-1.4.2.dist-info/direct_url.json",
+    "Lib/site-packages/partd-1.4.2.dist-info/top_level.txt",
+    "Lib/site-packages/partd/__init__.py",
+    "Lib/site-packages/partd/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/partd/__pycache__/_version.cpython-311.pyc",
+    "Lib/site-packages/partd/__pycache__/buffer.cpython-311.pyc",
+    "Lib/site-packages/partd/__pycache__/compressed.cpython-311.pyc",
+    "Lib/site-packages/partd/__pycache__/core.cpython-311.pyc",
+    "Lib/site-packages/partd/__pycache__/dict.cpython-311.pyc",
+    "Lib/site-packages/partd/__pycache__/encode.cpython-311.pyc",
+    "Lib/site-packages/partd/__pycache__/file.cpython-311.pyc",
+    "Lib/site-packages/partd/__pycache__/numpy.cpython-311.pyc",
+    "Lib/site-packages/partd/__pycache__/pandas.cpython-311.pyc",
+    "Lib/site-packages/partd/__pycache__/pickle.cpython-311.pyc",
+    "Lib/site-packages/partd/__pycache__/python.cpython-311.pyc",
+    "Lib/site-packages/partd/__pycache__/utils.cpython-311.pyc",
+    "Lib/site-packages/partd/__pycache__/zmq.cpython-311.pyc",
+    "Lib/site-packages/partd/_version.py",
+    "Lib/site-packages/partd/buffer.py",
+    "Lib/site-packages/partd/compressed.py",
+    "Lib/site-packages/partd/core.py",
+    "Lib/site-packages/partd/dict.py",
+    "Lib/site-packages/partd/encode.py",
+    "Lib/site-packages/partd/file.py",
+    "Lib/site-packages/partd/numpy.py",
+    "Lib/site-packages/partd/pandas.py",
+    "Lib/site-packages/partd/pickle.py",
+    "Lib/site-packages/partd/python.py",
+    "Lib/site-packages/partd/utils.py",
+    "Lib/site-packages/partd/zmq.py",
+    ".nonadmin"
+  ],
+  "fn": "partd-1.4.2-py311haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\partd-1.4.2-py311haa95532_0",
+    "type": 1
+  },
+  "md5": "d454741a5aff40acdaea3c67c70917fd",
+  "name": "partd",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\partd-1.4.2-py311haa95532_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/partd-1.4.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/partd-1.4.2.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "1edc098db759632c80e4c1d0503ad17f131f6b974e3a77efc26e8c8e188044a5",
+        "sha256_in_prefix": "1edc098db759632c80e4c1d0503ad17f131f6b974e3a77efc26e8c8e188044a5",
+        "size_in_bytes": 1505
+      },
+      {
+        "_path": "Lib/site-packages/partd-1.4.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "c197704c37fdf1bfec4c5ab9c258b54dc173b18f139d9ea057ddd23361691cb2",
+        "sha256_in_prefix": "c197704c37fdf1bfec4c5ab9c258b54dc173b18f139d9ea057ddd23361691cb2",
+        "size_in_bytes": 4772
+      },
+      {
+        "_path": "Lib/site-packages/partd-1.4.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "da7eb5ddc62669ffac62d06fc8111c1ad25d8d40f509c64323369e53429e34ad",
+        "sha256_in_prefix": "da7eb5ddc62669ffac62d06fc8111c1ad25d8d40f509c64323369e53429e34ad",
+        "size_in_bytes": 2277
+      },
+      {
+        "_path": "Lib/site-packages/partd-1.4.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/partd-1.4.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "195f5a3138703ffe28342b6f102d9e737a9462eb6059e033925ae8ff49b85894",
+        "sha256_in_prefix": "195f5a3138703ffe28342b6f102d9e737a9462eb6059e033925ae8ff49b85894",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "Lib/site-packages/partd-1.4.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "801343ab4c91eb9227837fb8b1453025664b6a0bd1a56fc4b279b3a8c9f86f50",
+        "sha256_in_prefix": "801343ab4c91eb9227837fb8b1453025664b6a0bd1a56fc4b279b3a8c9f86f50",
+        "size_in_bytes": 85
+      },
+      {
+        "_path": "Lib/site-packages/partd-1.4.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "59dc05418698e0b523c6a72db52edbb7332c3f24605fbd45812f64ff2cc74c47",
+        "sha256_in_prefix": "59dc05418698e0b523c6a72db52edbb7332c3f24605fbd45812f64ff2cc74c47",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "Lib/site-packages/partd/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "50b71cea024d40d0123b7f96385c842fb895d21279efdac92fc80285bf3f6b44",
+        "sha256_in_prefix": "50b71cea024d40d0123b7f96385c842fb895d21279efdac92fc80285bf3f6b44",
+        "size_in_bytes": 487
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "cdaf258ce04b66c38e4e4d8b6662432d4349fa6d857533c1aa4335f48c987ce5",
+        "sha256_in_prefix": "cdaf258ce04b66c38e4e4d8b6662432d4349fa6d857533c1aa4335f48c987ce5",
+        "size_in_bytes": 1493
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/_version.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "648ebcfc8419bdd54581c1956c2b4e438127eafa771f5253a8d213ac1f7a7d5e",
+        "sha256_in_prefix": "648ebcfc8419bdd54581c1956c2b4e438127eafa771f5253a8d213ac1f7a7d5e",
+        "size_in_bytes": 549
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/buffer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "494ebed3e672396b3de9bdcd33d8b9faa4e7602eb65e63bf700df921928a042b",
+        "sha256_in_prefix": "494ebed3e672396b3de9bdcd33d8b9faa4e7602eb65e63bf700df921928a042b",
+        "size_in_bytes": 8005
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/compressed.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ee55dcc1504f7fd314b5b98ccd797a1e18d8ce15218bc6e56c896cd399974de6",
+        "sha256_in_prefix": "ee55dcc1504f7fd314b5b98ccd797a1e18d8ce15218bc6e56c896cd399974de6",
+        "size_in_bytes": 2064
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/core.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "89604542ba25d71220e94c3c1c60e9b21240aaca8424ea7cc62243e2b51fbb22",
+        "sha256_in_prefix": "89604542ba25d71220e94c3c1c60e9b21240aaca8424ea7cc62243e2b51fbb22",
+        "size_in_bytes": 5228
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/dict.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "6cbe069d35fb0f0c5a2e890b71f40aa0a3dec9892a4b2a29bbfe2ec415d8cd18",
+        "sha256_in_prefix": "6cbe069d35fb0f0c5a2e890b71f40aa0a3dec9892a4b2a29bbfe2ec415d8cd18",
+        "size_in_bytes": 4530
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/encode.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "cc09d4568ca419bc1560dfa783047c976f099d714ca920a011a62145ac03a631",
+        "sha256_in_prefix": "cc09d4568ca419bc1560dfa783047c976f099d714ca920a011a62145ac03a631",
+        "size_in_bytes": 3634
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/file.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ca27a0d65bc6a242d96adb281174448b2a2295202bc2c95fbad20b4d21131052",
+        "sha256_in_prefix": "ca27a0d65bc6a242d96adb281174448b2a2295202bc2c95fbad20b4d21131052",
+        "size_in_bytes": 9691
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/numpy.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "bb42004129857df36476003cea9a994d05fc5e83242cf4a33a4fef45e14e8c9f",
+        "sha256_in_prefix": "bb42004129857df36476003cea9a994d05fc5e83242cf4a33a4fef45e14e8c9f",
+        "size_in_bytes": 9311
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/pandas.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b90c78d222399d1118d4fa869d944cd0d083a4947b4a1bce7a997182163c07a1",
+        "sha256_in_prefix": "b90c78d222399d1118d4fa869d944cd0d083a4947b4a1bce7a997182163c07a1",
+        "size_in_bytes": 14492
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/pickle.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "5557f9579ffe098a733355ecae73867de2ccc86f80f22e4950104fe574b3b80f",
+        "sha256_in_prefix": "5557f9579ffe098a733355ecae73867de2ccc86f80f22e4950104fe574b3b80f",
+        "size_in_bytes": 727
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/python.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "596391ba700c4cb719983177c6d3131b81f91368b414715ba148364cc75ede47",
+        "sha256_in_prefix": "596391ba700c4cb719983177c6d3131b81f91368b414715ba148364cc75ede47",
+        "size_in_bytes": 1763
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/utils.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "b27ec64234b3c000e50e6ce1dbb9efc17ae5f3e8faa39682783f5fd651d5a9a2",
+        "sha256_in_prefix": "b27ec64234b3c000e50e6ce1dbb9efc17ae5f3e8faa39682783f5fd651d5a9a2",
+        "size_in_bytes": 6510
+      },
+      {
+        "_path": "Lib/site-packages/partd/__pycache__/zmq.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ad941b8bbd6dc9b7edae7e8ba87bd0958e0cd3c258a6b01d8cad7f4b153abfdb",
+        "sha256_in_prefix": "ad941b8bbd6dc9b7edae7e8ba87bd0958e0cd3c258a6b01d8cad7f4b153abfdb",
+        "size_in_bytes": 21655
+      },
+      {
+        "_path": "Lib/site-packages/partd/_version.py",
+        "path_type": "hardlink",
+        "sha256": "b72da902da9617ee14caf231ce115ab4f90a97962a0a290d7856361e245a65b2",
+        "sha256_in_prefix": "b72da902da9617ee14caf231ce115ab4f90a97962a0a290d7856361e245a65b2",
+        "size_in_bytes": 518
+      },
+      {
+        "_path": "Lib/site-packages/partd/buffer.py",
+        "path_type": "hardlink",
+        "sha256": "4959d32248791d29f433439cf3a4eccc304195947029c4b40ec4a970429d31cc",
+        "sha256_in_prefix": "4959d32248791d29f433439cf3a4eccc304195947029c4b40ec4a970429d31cc",
+        "size_in_bytes": 3628
+      },
+      {
+        "_path": "Lib/site-packages/partd/compressed.py",
+        "path_type": "hardlink",
+        "sha256": "949012ca39c96ee0d49af1b050f42eaf6d571189513438804ed3c01846112930",
+        "sha256_in_prefix": "949012ca39c96ee0d49af1b050f42eaf6d571189513438804ed3c01846112930",
+        "size_in_bytes": 1174
+      },
+      {
+        "_path": "Lib/site-packages/partd/core.py",
+        "path_type": "hardlink",
+        "sha256": "7797d759e5d81c3ec09e976bb4b4f72fe7940aeee340324b0df4e948beb42dbc",
+        "sha256_in_prefix": "7797d759e5d81c3ec09e976bb4b4f72fe7940aeee340324b0df4e948beb42dbc",
+        "size_in_bytes": 2259
+      },
+      {
+        "_path": "Lib/site-packages/partd/dict.py",
+        "path_type": "hardlink",
+        "sha256": "cffb1a7b5393cd6ff76de61214ca1e5a2c958a71cbed7a04317788598791f877",
+        "sha256_in_prefix": "cffb1a7b5393cd6ff76de61214ca1e5a2c958a71cbed7a04317788598791f877",
+        "size_in_bytes": 1701
+      },
+      {
+        "_path": "Lib/site-packages/partd/encode.py",
+        "path_type": "hardlink",
+        "sha256": "d6d7780d4b8b48bd22f55b3ccd015a22d67fa9d867932e73a7f02855d95bf858",
+        "sha256_in_prefix": "d6d7780d4b8b48bd22f55b3ccd015a22d67fa9d867932e73a7f02855d95bf858",
+        "size_in_bytes": 1287
+      },
+      {
+        "_path": "Lib/site-packages/partd/file.py",
+        "path_type": "hardlink",
+        "sha256": "71bce3c28ec0c72c2fc5e230258826591d5df3c280765c3609d255ce0d71abfc",
+        "sha256_in_prefix": "71bce3c28ec0c72c2fc5e230258826591d5df3c280765c3609d255ce0d71abfc",
+        "size_in_bytes": 3954
+      },
+      {
+        "_path": "Lib/site-packages/partd/numpy.py",
+        "path_type": "hardlink",
+        "sha256": "dbd440c76326155115d4ab2f3d0759b497eb37a4f57a37cca34de6b6ead12659",
+        "sha256_in_prefix": "dbd440c76326155115d4ab2f3d0759b497eb37a4f57a37cca34de6b6ead12659",
+        "size_in_bytes": 4181
+      },
+      {
+        "_path": "Lib/site-packages/partd/pandas.py",
+        "path_type": "hardlink",
+        "sha256": "48e482798e525b7a554b1945addf4bd546a29c93f954b1388874feeff39c758a",
+        "sha256_in_prefix": "48e482798e525b7a554b1945addf4bd546a29c93f954b1388874feeff39c758a",
+        "size_in_bytes": 7319
+      },
+      {
+        "_path": "Lib/site-packages/partd/pickle.py",
+        "path_type": "hardlink",
+        "sha256": "53c329784043bde7f26f0e53a38507de1aed0a4fc2d220ee9878b4453c200784",
+        "sha256_in_prefix": "53c329784043bde7f26f0e53a38507de1aed0a4fc2d220ee9878b4453c200784",
+        "size_in_bytes": 360
+      },
+      {
+        "_path": "Lib/site-packages/partd/python.py",
+        "path_type": "hardlink",
+        "sha256": "f1de4284e655d20346bc5471a59753e10b22ce12a643325c1743685c7d45b402",
+        "sha256_in_prefix": "f1de4284e655d20346bc5471a59753e10b22ce12a643325c1743685c7d45b402",
+        "size_in_bytes": 902
+      },
+      {
+        "_path": "Lib/site-packages/partd/utils.py",
+        "path_type": "hardlink",
+        "sha256": "4c2076a830c288c1d41791547f17820596c2c5f7c44593b564dffe16905c8fa2",
+        "sha256_in_prefix": "4c2076a830c288c1d41791547f17820596c2c5f7c44593b564dffe16905c8fa2",
+        "size_in_bytes": 3603
+      },
+      {
+        "_path": "Lib/site-packages/partd/zmq.py",
+        "path_type": "hardlink",
+        "sha256": "46375260c212595c49d6dda36308a618313b38df55c6ae26db624e35b5871e11",
+        "sha256_in_prefix": "46375260c212595c49d6dda36308a618313b38df55c6ae26db624e35b5871e11",
+        "size_in_bytes": 9578
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "defaults/win-64::partd==1.4.2=py311haa95532_0",
+  "sha256": "3bd152ea3ed19c53088e0598a67f9eaef20a32012579cf42e51db0c6dd1290f3",
+  "size": 49846,
+  "subdir": "win-64",
+  "timestamp": 1736803518887,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/partd-1.4.2-py311haa95532_0.conda",
+  "version": "1.4.2"
+}

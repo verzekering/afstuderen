@@ -1,0 +1,37 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/esri/noarch",
+  "constrains": [],
+  "depends": [
+    "black >=23.10.1,<23.10.2.0a0",
+    "ipython >=7.8.0",
+    "tokenize-rt >=3.2.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\black-jupyter-23.10.1-2",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "black-jupyter-23.10.1-2.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\black-jupyter-23.10.1-2",
+    "type": 1
+  },
+  "md5": "152fd768f1a7a0c5f83f6509d3def851",
+  "name": "black-jupyter",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\black-jupyter-23.10.1-2.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "esri/noarch::black-jupyter==23.10.1=2",
+  "sha256": "57311d12e90f3a68eca36af8cfdda39386fafc7454b67ec264fdceab4eb70c0a",
+  "size": 4905,
+  "subdir": "noarch",
+  "timestamp": 1698942360154,
+  "url": "https://conda.anaconda.org/esri/noarch/black-jupyter-23.10.1-2.conda",
+  "version": "23.10.1"
+}

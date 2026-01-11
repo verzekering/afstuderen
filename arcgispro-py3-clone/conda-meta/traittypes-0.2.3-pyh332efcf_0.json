@@ -1,0 +1,205 @@
+{
+  "build": "pyh332efcf_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9",
+    "traitlets >=4.2.2,<6.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\traittypes-0.2.3-pyh332efcf_0",
+  "files": [
+    "Lib/site-packages/traittypes-0.2.3.dist-info/INSTALLER",
+    "Lib/site-packages/traittypes-0.2.3.dist-info/METADATA",
+    "Lib/site-packages/traittypes-0.2.3.dist-info/RECORD",
+    "Lib/site-packages/traittypes-0.2.3.dist-info/REQUESTED",
+    "Lib/site-packages/traittypes-0.2.3.dist-info/WHEEL",
+    "Lib/site-packages/traittypes-0.2.3.dist-info/direct_url.json",
+    "Lib/site-packages/traittypes-0.2.3.dist-info/licenses/LICENSE",
+    "Lib/site-packages/traittypes-0.2.3.dist-info/top_level.txt",
+    "Lib/site-packages/traittypes/__init__.py",
+    "Lib/site-packages/traittypes/_version.py",
+    "Lib/site-packages/traittypes/tests/__init__.py",
+    "Lib/site-packages/traittypes/tests/test_import_errors.py",
+    "Lib/site-packages/traittypes/tests/test_traittypes.py",
+    "Lib/site-packages/traittypes/tests/test_validators.py",
+    "Lib/site-packages/traittypes/traittypes.py",
+    "Lib/site-packages/traittypes/utils.py",
+    ".nonadmin",
+    "Lib/site-packages/traittypes/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/traittypes/__pycache__/_version.cpython-311.pyc",
+    "Lib/site-packages/traittypes/tests/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/traittypes/tests/__pycache__/test_import_errors.cpython-311.pyc",
+    "Lib/site-packages/traittypes/tests/__pycache__/test_traittypes.cpython-311.pyc",
+    "Lib/site-packages/traittypes/tests/__pycache__/test_validators.cpython-311.pyc",
+    "Lib/site-packages/traittypes/__pycache__/traittypes.cpython-311.pyc",
+    "Lib/site-packages/traittypes/__pycache__/utils.cpython-311.pyc"
+  ],
+  "fn": "traittypes-0.2.3-pyh332efcf_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\traittypes-0.2.3-pyh332efcf_0",
+    "type": 1
+  },
+  "md5": "d22a0bf07f57cfb1240185961d182a8d",
+  "name": "traittypes",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\traittypes-0.2.3-pyh332efcf_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/traittypes-0.2.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/traittypes-0.2.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "abd3dfa7262758f2dcc359d120666207bbd11486f1486ac7199fa86f90f18874",
+        "sha256_in_prefix": "abd3dfa7262758f2dcc359d120666207bbd11486f1486ac7199fa86f90f18874",
+        "size_in_bytes": 1244
+      },
+      {
+        "_path": "site-packages/traittypes-0.2.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "241a66c1b08c855621acbab64b10d7613ab74b60d6d1c5b4c461032c919b2c07",
+        "sha256_in_prefix": "241a66c1b08c855621acbab64b10d7613ab74b60d6d1c5b4c461032c919b2c07",
+        "size_in_bytes": 1831
+      },
+      {
+        "_path": "site-packages/traittypes-0.2.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/traittypes-0.2.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "24d5a1d459b551dc08415d3be609429f8315b8246cd2ca2d248abe27aadbc425",
+        "sha256_in_prefix": "24d5a1d459b551dc08415d3be609429f8315b8246cd2ca2d248abe27aadbc425",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "site-packages/traittypes-0.2.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "2f18220ff94596713eb94ccd727ad680b5c9eaff52d25fbd7b926531a21e5130",
+        "sha256_in_prefix": "2f18220ff94596713eb94ccd727ad680b5c9eaff52d25fbd7b926531a21e5130",
+        "size_in_bytes": 106
+      },
+      {
+        "_path": "site-packages/traittypes-0.2.3.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "221976dfad5db283a2669efe8607e24c9c9aecca8453d6beba045e665c2f88a1",
+        "sha256_in_prefix": "221976dfad5db283a2669efe8607e24c9c9aecca8453d6beba045e665c2f88a1",
+        "size_in_bytes": 1489
+      },
+      {
+        "_path": "site-packages/traittypes-0.2.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "c3d8cadc9d0a914f958608bfa6ecba0693698c21d1bee201741553e819cd52d0",
+        "sha256_in_prefix": "c3d8cadc9d0a914f958608bfa6ecba0693698c21d1bee201741553e819cd52d0",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "site-packages/traittypes/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "00bfbe47a1ec7fe77057b85c7d48c134cfbd3cef0838945c654f73e27f1d2310",
+        "sha256_in_prefix": "00bfbe47a1ec7fe77057b85c7d48c134cfbd3cef0838945c654f73e27f1d2310",
+        "size_in_bytes": 74
+      },
+      {
+        "_path": "site-packages/traittypes/_version.py",
+        "path_type": "hardlink",
+        "sha256": "39596161bf9173e188510e51a36964b5ac39f2a5d4edfd3d485187fe473ea403",
+        "sha256_in_prefix": "39596161bf9173e188510e51a36964b5ac39f2a5d4edfd3d485187fe473ea403",
+        "size_in_bytes": 72
+      },
+      {
+        "_path": "site-packages/traittypes/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/traittypes/tests/test_import_errors.py",
+        "path_type": "hardlink",
+        "sha256": "5cbc6bcc212ba746a005cba0007218952b2c820308b03525a87598f40dbb4c06",
+        "sha256_in_prefix": "5cbc6bcc212ba746a005cba0007218952b2c820308b03525a87598f40dbb4c06",
+        "size_in_bytes": 212
+      },
+      {
+        "_path": "site-packages/traittypes/tests/test_traittypes.py",
+        "path_type": "hardlink",
+        "sha256": "e2af3deb4e67ff9692485aa95b870d6fde216437a8ba8b8e09d52e1848b8fabf",
+        "sha256_in_prefix": "e2af3deb4e67ff9692485aa95b870d6fde216437a8ba8b8e09d52e1848b8fabf",
+        "size_in_bytes": 7498
+      },
+      {
+        "_path": "site-packages/traittypes/tests/test_validators.py",
+        "path_type": "hardlink",
+        "sha256": "1690cea0d1f02308fdf33a1c6dff957fed7627ad3cbe02d2af26eb2c179e4375",
+        "sha256_in_prefix": "1690cea0d1f02308fdf33a1c6dff957fed7627ad3cbe02d2af26eb2c179e4375",
+        "size_in_bytes": 1267
+      },
+      {
+        "_path": "site-packages/traittypes/traittypes.py",
+        "path_type": "hardlink",
+        "sha256": "3216ec036dd81b872fea456b5bda4e591c7ecea13ccf365aa7c43c3c8120409b",
+        "sha256_in_prefix": "3216ec036dd81b872fea456b5bda4e591c7ecea13ccf365aa7c43c3c8120409b",
+        "size_in_bytes": 10219
+      },
+      {
+        "_path": "site-packages/traittypes/utils.py",
+        "path_type": "hardlink",
+        "sha256": "4b273d320a6fb957998ebaeae620f81375a653ffb3d498303e3ef775f84ba50d",
+        "sha256_in_prefix": "4b273d320a6fb957998ebaeae620f81375a653ffb3d498303e3ef775f84ba50d",
+        "size_in_bytes": 524
+      },
+      {
+        "_path": "Lib/site-packages/traittypes/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traittypes/__pycache__/_version.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traittypes/tests/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traittypes/tests/__pycache__/test_import_errors.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traittypes/tests/__pycache__/test_traittypes.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traittypes/tests/__pycache__/test_validators.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traittypes/__pycache__/traittypes.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/traittypes/__pycache__/utils.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "67a77ce374a792fc6d8e4d56c83c21b6cf3a7f43b6e98c1db2cbed2254144d05",
+  "size": 13283,
+  "subdir": "noarch",
+  "timestamp": 1761131966000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/traittypes-0.2.3-pyh332efcf_0.conda",
+  "version": "0.2.3"
+}

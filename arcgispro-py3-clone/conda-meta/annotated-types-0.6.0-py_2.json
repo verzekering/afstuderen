@@ -1,0 +1,127 @@
+{
+  "build": "py_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/esri/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.7",
+    "typing-extensions >=4.0.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\annotated-types-0.6.0-py_2",
+  "files": [
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/INSTALLER",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/METADATA",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/RECORD",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/REQUESTED",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/WHEEL",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/direct_url.json",
+    "Lib/site-packages/annotated_types-0.6.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/annotated_types/__init__.py",
+    "Lib/site-packages/annotated_types/py.typed",
+    "Lib/site-packages/annotated_types/test_cases.py",
+    ".nonadmin",
+    "Lib/site-packages/annotated_types/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/annotated_types/__pycache__/test_cases.cpython-311.pyc"
+  ],
+  "fn": "annotated-types-0.6.0-py_2.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\annotated-types-0.6.0-py_2",
+    "type": 1
+  },
+  "md5": "7925a750713157c04f7956d4e9a3753c",
+  "name": "annotated-types",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\annotated-types-0.6.0-py_2.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/annotated_types-0.6.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/annotated_types-0.6.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "efc61eaee4f76ff76887c4dbb0aeea71ba98e1cbc2333fd041108651bc80a3a3",
+        "sha256_in_prefix": "efc61eaee4f76ff76887c4dbb0aeea71ba98e1cbc2333fd041108651bc80a3a3",
+        "size_in_bytes": 12879
+      },
+      {
+        "_path": "site-packages/annotated_types-0.6.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "fa340f4e34673195bd08377f274df83a4526b700d7587ff4e83732470f1f60e5",
+        "sha256_in_prefix": "fa340f4e34673195bd08377f274df83a4526b700d7587ff4e83732470f1f60e5",
+        "size_in_bytes": 1000
+      },
+      {
+        "_path": "site-packages/annotated_types-0.6.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/annotated_types-0.6.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "f5006e1e183a14d5bb969a5ba05daf2956c2193573b05ca48114238e56a3ae10",
+        "sha256_in_prefix": "f5006e1e183a14d5bb969a5ba05daf2956c2193573b05ca48114238e56a3ae10",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "site-packages/annotated_types-0.6.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "0cccd721f17053f650964434d08c2afb0c5047861719d4d9e4782d24585b1259",
+        "sha256_in_prefix": "0cccd721f17053f650964434d08c2afb0c5047861719d4d9e4782d24585b1259",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "site-packages/annotated_types-0.6.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "fe1049884b1a0d9342901e88e07f32925d24b3121d9972b6a6805fb9824b095d",
+        "sha256_in_prefix": "fe1049884b1a0d9342901e88e07f32925d24b3121d9972b6a6805fb9824b095d",
+        "size_in_bytes": 1083
+      },
+      {
+        "_path": "site-packages/annotated_types/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b712e846df224a201cf92bb7edeb16a4c234c058cdf7657b804e4774521e78a2",
+        "sha256_in_prefix": "b712e846df224a201cf92bb7edeb16a4c234c058cdf7657b804e4774521e78a2",
+        "size_in_bytes": 12151
+      },
+      {
+        "_path": "site-packages/annotated_types/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/annotated_types/test_cases.py",
+        "path_type": "hardlink",
+        "sha256": "2df172511670afb5f73557e80ab49748c3314f1243e28f17cfe63ca9b998ec95",
+        "sha256_in_prefix": "2df172511670afb5f73557e80ab49748c3314f1243e28f17cfe63ca9b998ec95",
+        "size_in_bytes": 6327
+      },
+      {
+        "_path": "Lib/site-packages/annotated_types/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/annotated_types/__pycache__/test_cases.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "esri/noarch::annotated-types==0.6.0=py_2",
+  "sha256": "9b68b811eaddd18b45100bd5fa12e594b6a535aa5cbf4270bea47e8cc0cc5dff",
+  "size": 15475,
+  "subdir": "noarch",
+  "timestamp": 1697817766277,
+  "url": "https://conda.anaconda.org/esri/noarch/annotated-types-0.6.0-py_2.conda",
+  "version": "0.6.0"
+}

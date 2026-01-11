@@ -1,0 +1,234 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >3.5",
+    "requests >=2.22.0",
+    "beautifulsoup4 >=4.9.0",
+    "earthengine-api >=0.1.217",
+    "logzero >=1.5.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\geeadd-0.5.6-pyhd8ed1ab_0",
+  "files": [
+    "LICENSE",
+    "Lib/site-packages/geeadd-0.5.6.dist-info/INSTALLER",
+    "Lib/site-packages/geeadd-0.5.6.dist-info/LICENSE",
+    "Lib/site-packages/geeadd-0.5.6.dist-info/METADATA",
+    "Lib/site-packages/geeadd-0.5.6.dist-info/RECORD",
+    "Lib/site-packages/geeadd-0.5.6.dist-info/REQUESTED",
+    "Lib/site-packages/geeadd-0.5.6.dist-info/WHEEL",
+    "Lib/site-packages/geeadd-0.5.6.dist-info/direct_url.json",
+    "Lib/site-packages/geeadd-0.5.6.dist-info/entry_points.txt",
+    "Lib/site-packages/geeadd-0.5.6.dist-info/top_level.txt",
+    "Lib/site-packages/geeadd/__init__.py",
+    "Lib/site-packages/geeadd/acl_changer.py",
+    "Lib/site-packages/geeadd/app2script.py",
+    "Lib/site-packages/geeadd/batch_copy.py",
+    "Lib/site-packages/geeadd/batch_mover.py",
+    "Lib/site-packages/geeadd/ee_del_meta.py",
+    "Lib/site-packages/geeadd/ee_report.py",
+    "Lib/site-packages/geeadd/geeadd.py",
+    ".nonadmin",
+    "Lib/site-packages/geeadd/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/geeadd/__pycache__/acl_changer.cpython-311.pyc",
+    "Lib/site-packages/geeadd/__pycache__/app2script.cpython-311.pyc",
+    "Lib/site-packages/geeadd/__pycache__/batch_copy.cpython-311.pyc",
+    "Lib/site-packages/geeadd/__pycache__/batch_mover.cpython-311.pyc",
+    "Lib/site-packages/geeadd/__pycache__/ee_del_meta.cpython-311.pyc",
+    "Lib/site-packages/geeadd/__pycache__/ee_report.cpython-311.pyc",
+    "Lib/site-packages/geeadd/__pycache__/geeadd.cpython-311.pyc",
+    "Scripts/geeadd-script.py",
+    "Scripts/geeadd.exe"
+  ],
+  "fn": "geeadd-0.5.6-pyhd8ed1ab_0.tar.bz2",
+  "license": "Apache Software",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\geeadd-0.5.6-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "a5cf57778f34bb5e81779393176bb5c5",
+  "name": "geeadd",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\geeadd-0.5.6-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "LICENSE",
+        "path_type": "hardlink",
+        "sha256": "59ba0d36f71ee1ab56651719fbb3a57e09eb8c184dcb79de5a27f9bdc1072183",
+        "sha256_in_prefix": "59ba0d36f71ee1ab56651719fbb3a57e09eb8c184dcb79de5a27f9bdc1072183",
+        "size_in_bytes": 11548
+      },
+      {
+        "_path": "site-packages/geeadd-0.5.6.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/geeadd-0.5.6.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "59ba0d36f71ee1ab56651719fbb3a57e09eb8c184dcb79de5a27f9bdc1072183",
+        "sha256_in_prefix": "59ba0d36f71ee1ab56651719fbb3a57e09eb8c184dcb79de5a27f9bdc1072183",
+        "size_in_bytes": 11548
+      },
+      {
+        "_path": "site-packages/geeadd-0.5.6.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "95d61d2ed4aa873a1fee8a830bf7eff27dafa594ab179ff7f7d7acd3d1171401",
+        "sha256_in_prefix": "95d61d2ed4aa873a1fee8a830bf7eff27dafa594ab179ff7f7d7acd3d1171401",
+        "size_in_bytes": 15810
+      },
+      {
+        "_path": "site-packages/geeadd-0.5.6.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "ad40aa3672911d4894cdc81cc5c2a38c8aa2dee7717c3838e6641a619903ea63",
+        "sha256_in_prefix": "ad40aa3672911d4894cdc81cc5c2a38c8aa2dee7717c3838e6641a619903ea63",
+        "size_in_bytes": 1913
+      },
+      {
+        "_path": "site-packages/geeadd-0.5.6.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/geeadd-0.5.6.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/geeadd-0.5.6.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "1e7eaca1c95c6d18df6b38c9d76c3607b0045058cf0951f7318dac0316ca288c",
+        "sha256_in_prefix": "1e7eaca1c95c6d18df6b38c9d76c3607b0045058cf0951f7318dac0316ca288c",
+        "size_in_bytes": 102
+      },
+      {
+        "_path": "site-packages/geeadd-0.5.6.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "5e2c12e2d900f270741f5c1a3c45196550fc6213c0a6caebf4108f2d3b83d35a",
+        "sha256_in_prefix": "5e2c12e2d900f270741f5c1a3c45196550fc6213c0a6caebf4108f2d3b83d35a",
+        "size_in_bytes": 46
+      },
+      {
+        "_path": "site-packages/geeadd-0.5.6.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "43e28c36d8ed913c3bd704f809a1133b79040d05193694baecb74b8392659e53",
+        "sha256_in_prefix": "43e28c36d8ed913c3bd704f809a1133b79040d05193694baecb74b8392659e53",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "site-packages/geeadd/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e2e3a2698d8b9c26bdaba7e8f017696555525b980602b778a9fb77778db439a9",
+        "sha256_in_prefix": "e2e3a2698d8b9c26bdaba7e8f017696555525b980602b778a9fb77778db439a9",
+        "size_in_bytes": 119
+      },
+      {
+        "_path": "site-packages/geeadd/acl_changer.py",
+        "path_type": "hardlink",
+        "sha256": "e474e0eee8a107a546b3b8e36dcc7593ddd06cd63338b5b043e6c9489692a437",
+        "sha256_in_prefix": "e474e0eee8a107a546b3b8e36dcc7593ddd06cd63338b5b043e6c9489692a437",
+        "size_in_bytes": 4649
+      },
+      {
+        "_path": "site-packages/geeadd/app2script.py",
+        "path_type": "hardlink",
+        "sha256": "b9087b63123e73c8dea310a3f6c61e8756e15f8121d659c28aa27fbef3520689",
+        "sha256_in_prefix": "b9087b63123e73c8dea310a3f6c61e8756e15f8121d659c28aa27fbef3520689",
+        "size_in_bytes": 2386
+      },
+      {
+        "_path": "site-packages/geeadd/batch_copy.py",
+        "path_type": "hardlink",
+        "sha256": "c9017c1e3d5a9c9646c85d813a3320cd1bb0c3b1aafa27bc4d19c4cab7ce0898",
+        "sha256_in_prefix": "c9017c1e3d5a9c9646c85d813a3320cd1bb0c3b1aafa27bc4d19c4cab7ce0898",
+        "size_in_bytes": 10219
+      },
+      {
+        "_path": "site-packages/geeadd/batch_mover.py",
+        "path_type": "hardlink",
+        "sha256": "b8fa18cae3811ce123d855533b64ea3603ce6e3b7161b1900281a47fc03ff2b3",
+        "sha256_in_prefix": "b8fa18cae3811ce123d855533b64ea3603ce6e3b7161b1900281a47fc03ff2b3",
+        "size_in_bytes": 10098
+      },
+      {
+        "_path": "site-packages/geeadd/ee_del_meta.py",
+        "path_type": "hardlink",
+        "sha256": "91234be943c7d75a4979fcaeae86f73f8e82d3c7fa604cf0d016066245483539",
+        "sha256_in_prefix": "91234be943c7d75a4979fcaeae86f73f8e82d3c7fa604cf0d016066245483539",
+        "size_in_bytes": 2562
+      },
+      {
+        "_path": "site-packages/geeadd/ee_report.py",
+        "path_type": "hardlink",
+        "sha256": "dc590a5a2acfc9034eb83e1975887636829fd8031950cd6a48c094a6e886acde",
+        "sha256_in_prefix": "dc590a5a2acfc9034eb83e1975887636829fd8031950cd6a48c094a6e886acde",
+        "size_in_bytes": 10086
+      },
+      {
+        "_path": "site-packages/geeadd/geeadd.py",
+        "path_type": "hardlink",
+        "sha256": "21d8ba177d8e90e72f642578b9d731c995487b588c9e83f274fa562704363cdd",
+        "sha256_in_prefix": "21d8ba177d8e90e72f642578b9d731c995487b588c9e83f274fa562704363cdd",
+        "size_in_bytes": 30667
+      },
+      {
+        "_path": "Lib/site-packages/geeadd/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/geeadd/__pycache__/acl_changer.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/geeadd/__pycache__/app2script.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/geeadd/__pycache__/batch_copy.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/geeadd/__pycache__/batch_mover.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/geeadd/__pycache__/ee_del_meta.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/geeadd/__pycache__/ee_report.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/geeadd/__pycache__/geeadd.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/geeadd-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/geeadd.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "216528ead4a53a709eb107c7d83e461ba2c4229b1f7e4cfa0bfdc74e85072a68",
+  "size": 26273,
+  "subdir": "noarch",
+  "timestamp": 1662343473000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/geeadd-0.5.6-pyhd8ed1ab_0.tar.bz2",
+  "version": "0.5.6"
+}

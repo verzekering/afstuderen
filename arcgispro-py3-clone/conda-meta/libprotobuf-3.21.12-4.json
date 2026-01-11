@@ -1,0 +1,93 @@
+{
+  "arch": "x86_64",
+  "build": "4",
+  "build_number": 4,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "constrains": [],
+  "depends": [
+    "vc 14.*",
+    "zlib-ng >=2.1.6,<3.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\libprotobuf-3.21.12-4",
+  "files": [
+    "Library/bin/libprotobuf-lite.dll",
+    "Library/bin/libprotobuf.dll",
+    "Library/bin/libprotoc.dll",
+    "Library/bin/protoc.exe",
+    "Library/lib/libprotobuf-lite.lib",
+    "Library/lib/libprotobuf.lib",
+    "Library/lib/libprotoc.lib",
+    ".nonadmin"
+  ],
+  "fn": "libprotobuf-3.21.12-4.conda",
+  "license": "BSD 3-Clause",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\libprotobuf-3.21.12-4",
+    "type": 1
+  },
+  "md5": "eaea2c9c23cdc2963ff8008507095f48",
+  "name": "libprotobuf",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\libprotobuf-3.21.12-4.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/libprotobuf-lite.dll",
+        "path_type": "hardlink",
+        "sha256": "bbb7d4b0e0749a72af4ed47e7a6091d50be7ae7cf12ce2119c2da3335e015059",
+        "sha256_in_prefix": "bbb7d4b0e0749a72af4ed47e7a6091d50be7ae7cf12ce2119c2da3335e015059",
+        "size_in_bytes": 824672
+      },
+      {
+        "_path": "Library/bin/libprotobuf.dll",
+        "path_type": "hardlink",
+        "sha256": "f4c511b9b4f3b2f2d98eab0b063747feec04ca5d7ee5839ebc9aa4cb1a72d7ca",
+        "sha256_in_prefix": "f4c511b9b4f3b2f2d98eab0b063747feec04ca5d7ee5839ebc9aa4cb1a72d7ca",
+        "size_in_bytes": 3678560
+      },
+      {
+        "_path": "Library/bin/libprotoc.dll",
+        "path_type": "hardlink",
+        "sha256": "ed0c99ddaac6fddf00e3903f2ed541b7fe4f1f728d21c817a3028eacf444694d",
+        "sha256_in_prefix": "ed0c99ddaac6fddf00e3903f2ed541b7fe4f1f728d21c817a3028eacf444694d",
+        "size_in_bytes": 2991968
+      },
+      {
+        "_path": "Library/bin/protoc.exe",
+        "path_type": "hardlink",
+        "sha256": "393cda1a9264cf2ff09d11079c9afc864ff5613d330caee1b84a5428645b9ac8",
+        "sha256_in_prefix": "393cda1a9264cf2ff09d11079c9afc864ff5613d330caee1b84a5428645b9ac8",
+        "size_in_bytes": 65888
+      },
+      {
+        "_path": "Library/lib/libprotobuf-lite.lib",
+        "path_type": "hardlink",
+        "sha256": "2e54cdc546799d255b397ddd9a40ff4646d976a8faab85df7e7df82ebbd4c328",
+        "sha256_in_prefix": "2e54cdc546799d255b397ddd9a40ff4646d976a8faab85df7e7df82ebbd4c328",
+        "size_in_bytes": 1100994
+      },
+      {
+        "_path": "Library/lib/libprotobuf.lib",
+        "path_type": "hardlink",
+        "sha256": "c2b15635a576beaa11c02c0ecd2734d35e5d667877f431ca56a0446d786f45a8",
+        "sha256_in_prefix": "c2b15635a576beaa11c02c0ecd2734d35e5d667877f431ca56a0446d786f45a8",
+        "size_in_bytes": 4097912
+      },
+      {
+        "_path": "Library/lib/libprotoc.lib",
+        "path_type": "hardlink",
+        "sha256": "b61b1e135e10c9d976530eabd69ed51a5a5a8d0d8aee696b7b7f7cccf8cd9a4a",
+        "sha256_in_prefix": "b61b1e135e10c9d976530eabd69ed51a5a5a8d0d8aee696b7b7f7cccf8cd9a4a",
+        "size_in_bytes": 389128
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "esri/win-64::libprotobuf==3.21.12=4",
+  "sha256": "074431aa35cb69c28a9328c7c3776ed67a897c38819e39af1e29a32f3a7bd372",
+  "size": 1877769,
+  "subdir": "win-64",
+  "timestamp": 1723226655573,
+  "url": "https://conda.anaconda.org/esri/win-64/libprotobuf-3.21.12-4.conda",
+  "version": "3.21.12"
+}

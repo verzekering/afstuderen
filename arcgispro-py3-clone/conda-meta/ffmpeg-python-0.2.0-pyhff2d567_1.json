@@ -1,0 +1,211 @@
+{
+  "build": "pyhff2d567_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "future",
+    "ffmpeg",
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\ffmpeg-python-0.2.0-pyhff2d567_1",
+  "files": [
+    "Lib/site-packages/ffmpeg/__init__.py",
+    "Lib/site-packages/ffmpeg/_ffmpeg.py",
+    "Lib/site-packages/ffmpeg/_filters.py",
+    "Lib/site-packages/ffmpeg/_probe.py",
+    "Lib/site-packages/ffmpeg/_run.py",
+    "Lib/site-packages/ffmpeg/_utils.py",
+    "Lib/site-packages/ffmpeg/_view.py",
+    "Lib/site-packages/ffmpeg/dag.py",
+    "Lib/site-packages/ffmpeg/nodes.py",
+    "Lib/site-packages/ffmpeg_python-0.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/ffmpeg_python-0.2.0.dist-info/METADATA",
+    "Lib/site-packages/ffmpeg_python-0.2.0.dist-info/RECORD",
+    "Lib/site-packages/ffmpeg_python-0.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/ffmpeg_python-0.2.0.dist-info/WHEEL",
+    "Lib/site-packages/ffmpeg_python-0.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/ffmpeg_python-0.2.0.dist-info/top_level.txt",
+    ".nonadmin",
+    "Lib/site-packages/ffmpeg/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/ffmpeg/__pycache__/_ffmpeg.cpython-311.pyc",
+    "Lib/site-packages/ffmpeg/__pycache__/_filters.cpython-311.pyc",
+    "Lib/site-packages/ffmpeg/__pycache__/_probe.cpython-311.pyc",
+    "Lib/site-packages/ffmpeg/__pycache__/_run.cpython-311.pyc",
+    "Lib/site-packages/ffmpeg/__pycache__/_utils.cpython-311.pyc",
+    "Lib/site-packages/ffmpeg/__pycache__/_view.cpython-311.pyc",
+    "Lib/site-packages/ffmpeg/__pycache__/dag.cpython-311.pyc",
+    "Lib/site-packages/ffmpeg/__pycache__/nodes.cpython-311.pyc"
+  ],
+  "fn": "ffmpeg-python-0.2.0-pyhff2d567_1.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\ffmpeg-python-0.2.0-pyhff2d567_1",
+    "type": 1
+  },
+  "md5": "270eb75b1d3ed913622adfedb7d45fff",
+  "name": "ffmpeg-python",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\ffmpeg-python-0.2.0-pyhff2d567_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/ffmpeg/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "95f4258ed5eca0f325657c54e5e7438ffa1bd4d416d2a5fa7a995cbed358c335",
+        "sha256_in_prefix": "95f4258ed5eca0f325657c54e5e7438ffa1bd4d416d2a5fa7a995cbed358c335",
+        "size_in_bytes": 434
+      },
+      {
+        "_path": "site-packages/ffmpeg/_ffmpeg.py",
+        "path_type": "hardlink",
+        "sha256": "67e1b6e03efe0672b2ce15f7e67d4aa125da2976f5137c6203582be8da8365bf",
+        "sha256_in_prefix": "67e1b6e03efe0672b2ce15f7e67d4aa125da2976f5137c6203582be8da8365bf",
+        "size_in_bytes": 3097
+      },
+      {
+        "_path": "site-packages/ffmpeg/_filters.py",
+        "path_type": "hardlink",
+        "sha256": "8d6d727c09f3260d9114a304af88086a1a7fa22afb5bbce797725bef2c1ca0f9",
+        "sha256_in_prefix": "8d6d727c09f3260d9114a304af88086a1a7fa22afb5bbce797725bef2c1ca0f9",
+        "size_in_bytes": 22017
+      },
+      {
+        "_path": "site-packages/ffmpeg/_probe.py",
+        "path_type": "hardlink",
+        "sha256": "19f9fbdf54478df544f6b8d168337f84a21365bee7347078ddb18b3ec741d8c8",
+        "sha256_in_prefix": "19f9fbdf54478df544f6b8d168337f84a21365bee7347078ddb18b3ec741d8c8",
+        "size_in_bytes": 905
+      },
+      {
+        "_path": "site-packages/ffmpeg/_run.py",
+        "path_type": "hardlink",
+        "sha256": "c34f7cc6a045006ffdbb8abb043cb614d791c7d0eea496172e8244fa9e827fb7",
+        "sha256_in_prefix": "c34f7cc6a045006ffdbb8abb043cb614d791c7d0eea496172e8244fa9e827fb7",
+        "size_in_bytes": 11350
+      },
+      {
+        "_path": "site-packages/ffmpeg/_utils.py",
+        "path_type": "hardlink",
+        "sha256": "7342cd4c17a706de27f85b286f21c8223ca90d1bf2e61278cafe0a66d37afbf7",
+        "sha256_in_prefix": "7342cd4c17a706de27f85b286f21c8223ca90d1bf2e61278cafe0a66d37afbf7",
+        "size_in_bytes": 2673
+      },
+      {
+        "_path": "site-packages/ffmpeg/_view.py",
+        "path_type": "hardlink",
+        "sha256": "e988b69f28c5581b0bc74557f6dd05e564f67007061c1b4456b57f3e9ea3e543",
+        "sha256_in_prefix": "e988b69f28c5581b0bc74557f6dd05e564f67007061c1b4456b57f3e9ea3e543",
+        "size_in_bytes": 3262
+      },
+      {
+        "_path": "site-packages/ffmpeg/dag.py",
+        "path_type": "hardlink",
+        "sha256": "0d4da438f9e6233da6e35c1021c9ced114b3be5ae10872b694f02011955668ba",
+        "sha256_in_prefix": "0d4da438f9e6233da6e35c1021c9ced114b3be5ae10872b694f02011955668ba",
+        "size_in_bytes": 7763
+      },
+      {
+        "_path": "site-packages/ffmpeg/nodes.py",
+        "path_type": "hardlink",
+        "sha256": "ae8f6b2febc1b6847f16a23dd38dff08b4be84f64f362f5ae510e32b6bfb9ed3",
+        "sha256_in_prefix": "ae8f6b2febc1b6847f16a23dd38dff08b4be84f64f362f5ae510e32b6bfb9ed3",
+        "size_in_bytes": 12636
+      },
+      {
+        "_path": "site-packages/ffmpeg_python-0.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/ffmpeg_python-0.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "6923de3d54a602be0286ce02a89e6ac0a9e3dcb554dc5b3ea9791bc0950cca68",
+        "sha256_in_prefix": "6923de3d54a602be0286ce02a89e6ac0a9e3dcb554dc5b3ea9791bc0950cca68",
+        "size_in_bytes": 1672
+      },
+      {
+        "_path": "site-packages/ffmpeg_python-0.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "7d9872530870768ef7dee53b6db1c0f60fc8b455e55d1d5ecfe4a719f76f777f",
+        "sha256_in_prefix": "7d9872530870768ef7dee53b6db1c0f60fc8b455e55d1d5ecfe4a719f76f777f",
+        "size_in_bytes": 1674
+      },
+      {
+        "_path": "site-packages/ffmpeg_python-0.2.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/ffmpeg_python-0.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3d9504c5d7fbd548bfb28ebb417a724ae1ed0a2dfe277c2f1783912ba93f4bc5",
+        "sha256_in_prefix": "3d9504c5d7fbd548bfb28ebb417a724ae1ed0a2dfe277c2f1783912ba93f4bc5",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "site-packages/ffmpeg_python-0.2.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "5427b3e1b39ed759b09c48c9d5263ab1e754fd6045d9dcdd269affa68a99d405",
+        "sha256_in_prefix": "5427b3e1b39ed759b09c48c9d5263ab1e754fd6045d9dcdd269affa68a99d405",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "site-packages/ffmpeg_python-0.2.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "cfadbc1b87f5aa6d688a2d97920127e67ae6f4fa3c2dce69108a9ef7a7a87659",
+        "sha256_in_prefix": "cfadbc1b87f5aa6d688a2d97920127e67ae6f4fa3c2dce69108a9ef7a7a87659",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "Lib/site-packages/ffmpeg/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ffmpeg/__pycache__/_ffmpeg.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ffmpeg/__pycache__/_filters.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ffmpeg/__pycache__/_probe.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ffmpeg/__pycache__/_run.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ffmpeg/__pycache__/_utils.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ffmpeg/__pycache__/_view.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ffmpeg/__pycache__/dag.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ffmpeg/__pycache__/nodes.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8c50b2ff9b4d2289d8c9a4f24cca2cd2f8b5479e5e58c300e4092417d7ec9594",
+  "size": 31282,
+  "subdir": "noarch",
+  "timestamp": 1735318058000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/ffmpeg-python-0.2.0-pyhff2d567_1.conda",
+  "version": "0.2.0"
+}

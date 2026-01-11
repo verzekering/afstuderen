@@ -1,0 +1,140 @@
+{
+  "arch": "x86_64",
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "constrains": [],
+  "depends": [
+    "vc 14.*"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\zlib-ng-2.1.6-2",
+  "files": [
+    "Library/bin/zlib-ng2.dll",
+    "Library/bin/zlib-ng2.pdb",
+    "Library/bin/zlib1.dll",
+    "Library/bin/zlib1.pdb",
+    "Library/include/zconf-ng.h",
+    "Library/include/zlib-ng.h",
+    "Library/include/zlib1/zconf.h",
+    "Library/include/zlib1/zlib.h",
+    "Library/include/zlib1/zlib_name_mangling.h",
+    "Library/include/zlib_name_mangling-ng.h",
+    "Library/lib/pkgconfig/zlib-ng.pc",
+    "Library/lib/zlib-ng.lib",
+    "Library/lib/zlib1.lib",
+    ".nonadmin"
+  ],
+  "fn": "zlib-ng-2.1.6-2.conda",
+  "license": "Zlib license",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\zlib-ng-2.1.6-2",
+    "type": 1
+  },
+  "md5": "6022145886920c19aad20f6cdc23574e",
+  "name": "zlib-ng",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\zlib-ng-2.1.6-2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/zlib-ng2.dll",
+        "path_type": "hardlink",
+        "sha256": "71295a970788d98ae53a2ac18d0dcfc47a6eb3a13a794ba4bc91d5a68ffa6493",
+        "sha256_in_prefix": "71295a970788d98ae53a2ac18d0dcfc47a6eb3a13a794ba4bc91d5a68ffa6493",
+        "size_in_bytes": 126304
+      },
+      {
+        "_path": "Library/bin/zlib-ng2.pdb",
+        "path_type": "hardlink",
+        "sha256": "f126f0fd19cd275388cf6ee34272c28ae2fb07aed51c816c19becff0c2187715",
+        "sha256_in_prefix": "f126f0fd19cd275388cf6ee34272c28ae2fb07aed51c816c19becff0c2187715",
+        "size_in_bytes": 946176
+      },
+      {
+        "_path": "Library/bin/zlib1.dll",
+        "path_type": "hardlink",
+        "sha256": "99987f8174db735ced8e77f1d447dca432d9391abb41479ae5be44e053f9b419",
+        "sha256_in_prefix": "99987f8174db735ced8e77f1d447dca432d9391abb41479ae5be44e053f9b419",
+        "size_in_bytes": 125280
+      },
+      {
+        "_path": "Library/bin/zlib1.pdb",
+        "path_type": "hardlink",
+        "sha256": "c05abe77fbbfb15bfdab2b458c6ce725e47295cfb50b8e5514626b4de6b2109e",
+        "sha256_in_prefix": "c05abe77fbbfb15bfdab2b458c6ce725e47295cfb50b8e5514626b4de6b2109e",
+        "size_in_bytes": 946176
+      },
+      {
+        "_path": "Library/include/zconf-ng.h",
+        "path_type": "hardlink",
+        "sha256": "38b989cb8d59006f10454112f1083e25986f128f47ba7cfd2177e9781d686ae1",
+        "sha256_in_prefix": "38b989cb8d59006f10454112f1083e25986f128f47ba7cfd2177e9781d686ae1",
+        "size_in_bytes": 5202
+      },
+      {
+        "_path": "Library/include/zlib-ng.h",
+        "path_type": "hardlink",
+        "sha256": "f9118455e9e630092ac1dafeab60c61e2202305e9011cd7e22bf7e0996c42f8b",
+        "sha256_in_prefix": "f9118455e9e630092ac1dafeab60c61e2202305e9011cd7e22bf7e0996c42f8b",
+        "size_in_bytes": 94601
+      },
+      {
+        "_path": "Library/include/zlib1/zconf.h",
+        "path_type": "hardlink",
+        "sha256": "21a7e80cc19349d78c0d9b2c8cff7b4e21198504a602b1713a048bae856e3f1a",
+        "sha256_in_prefix": "21a7e80cc19349d78c0d9b2c8cff7b4e21198504a602b1713a048bae856e3f1a",
+        "size_in_bytes": 5701
+      },
+      {
+        "_path": "Library/include/zlib1/zlib.h",
+        "path_type": "hardlink",
+        "sha256": "791dbc4099875f3b47c6ee61130c2bad03bbc32faa280bc9e1caf93ed2e4336d",
+        "sha256_in_prefix": "791dbc4099875f3b47c6ee61130c2bad03bbc32faa280bc9e1caf93ed2e4336d",
+        "size_in_bytes": 96573
+      },
+      {
+        "_path": "Library/include/zlib1/zlib_name_mangling.h",
+        "path_type": "hardlink",
+        "sha256": "38e51a846d6c2bd6100298c55328dba4437c08fa1dceda4eb2e06ecb1d142058",
+        "sha256_in_prefix": "38e51a846d6c2bd6100298c55328dba4437c08fa1dceda4eb2e06ecb1d142058",
+        "size_in_bytes": 230
+      },
+      {
+        "_path": "Library/include/zlib_name_mangling-ng.h",
+        "path_type": "hardlink",
+        "sha256": "38e51a846d6c2bd6100298c55328dba4437c08fa1dceda4eb2e06ecb1d142058",
+        "sha256_in_prefix": "38e51a846d6c2bd6100298c55328dba4437c08fa1dceda4eb2e06ecb1d142058",
+        "size_in_bytes": 230
+      },
+      {
+        "_path": "Library/lib/pkgconfig/zlib-ng.pc",
+        "path_type": "hardlink",
+        "sha256": "8ad117f56b7d3565c7b5a9a3bd95fac8dc1de39713019f0fa117a76798d47183",
+        "sha256_in_prefix": "8ad117f56b7d3565c7b5a9a3bd95fac8dc1de39713019f0fa117a76798d47183",
+        "size_in_bytes": 363
+      },
+      {
+        "_path": "Library/lib/zlib-ng.lib",
+        "path_type": "hardlink",
+        "sha256": "a89086890f227424f354385be9d9131f49a9af75de96d843be08774a3a6dfda7",
+        "sha256_in_prefix": "a89086890f227424f354385be9d9131f49a9af75de96d843be08774a3a6dfda7",
+        "size_in_bytes": 18232
+      },
+      {
+        "_path": "Library/lib/zlib1.lib",
+        "path_type": "hardlink",
+        "sha256": "04db317dde457799f3951820373adfbfcce1d3829f513571c22541d5cb324984",
+        "sha256_in_prefix": "04db317dde457799f3951820373adfbfcce1d3829f513571c22541d5cb324984",
+        "size_in_bytes": 16080
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "esri/win-64::zlib-ng==2.1.6=2",
+  "sha256": "22f794ffdb60c1edd289d140866fa5fadf4dacac64384e4c229e85260b1435ce",
+  "size": 328973,
+  "subdir": "win-64",
+  "timestamp": 1721265583556,
+  "url": "https://conda.anaconda.org/esri/win-64/zlib-ng-2.1.6-2.conda",
+  "version": "2.1.6"
+}

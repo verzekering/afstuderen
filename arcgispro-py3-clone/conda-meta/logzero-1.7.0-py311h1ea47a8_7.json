@@ -1,0 +1,148 @@
+{
+  "build": "py311h1ea47a8_7",
+  "build_number": 7,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "colorama",
+    "python_abi 3.11.* *_cp311",
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\logzero-1.7.0-py311h1ea47a8_7",
+  "files": [
+    "Lib/site-packages/logzero-1.7.0.dist-info/INSTALLER",
+    "Lib/site-packages/logzero-1.7.0.dist-info/METADATA",
+    "Lib/site-packages/logzero-1.7.0.dist-info/RECORD",
+    "Lib/site-packages/logzero-1.7.0.dist-info/REQUESTED",
+    "Lib/site-packages/logzero-1.7.0.dist-info/WHEEL",
+    "Lib/site-packages/logzero-1.7.0.dist-info/direct_url.json",
+    "Lib/site-packages/logzero-1.7.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/logzero-1.7.0.dist-info/top_level.txt",
+    "Lib/site-packages/logzero/__init__.py",
+    "Lib/site-packages/logzero/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/logzero/__pycache__/colors.cpython-311.pyc",
+    "Lib/site-packages/logzero/__pycache__/jsonlogger.cpython-311.pyc",
+    "Lib/site-packages/logzero/colors.py",
+    "Lib/site-packages/logzero/jsonlogger.py",
+    ".nonadmin"
+  ],
+  "fn": "logzero-1.7.0-py311h1ea47a8_7.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\logzero-1.7.0-py311h1ea47a8_7",
+    "type": 1
+  },
+  "md5": "57f546cb40e5b1c52f593b98a386366e",
+  "name": "logzero",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\logzero-1.7.0-py311h1ea47a8_7.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/logzero-1.7.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/logzero-1.7.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "7d0b418e621cd2b0692a93c2a480400ebce65a434b175b19fa11df73eb84807d",
+        "sha256_in_prefix": "7d0b418e621cd2b0692a93c2a480400ebce65a434b175b19fa11df73eb84807d",
+        "size_in_bytes": 12119
+      },
+      {
+        "_path": "Lib/site-packages/logzero-1.7.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "bdc610c7c646a4fa44400be44b5e8691259fc2bf2d17f7ae87fce60b0836cb51",
+        "sha256_in_prefix": "bdc610c7c646a4fa44400be44b5e8691259fc2bf2d17f7ae87fce60b0836cb51",
+        "size_in_bytes": 1048
+      },
+      {
+        "_path": "Lib/site-packages/logzero-1.7.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/logzero-1.7.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "24d5a1d459b551dc08415d3be609429f8315b8246cd2ca2d248abe27aadbc425",
+        "sha256_in_prefix": "24d5a1d459b551dc08415d3be609429f8315b8246cd2ca2d248abe27aadbc425",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "Lib/site-packages/logzero-1.7.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "c202b6704b99fc18b14819b0c1b894ceedf1a4a6e961b71bfa578d0bd1297b9e",
+        "sha256_in_prefix": "c202b6704b99fc18b14819b0c1b894ceedf1a4a6e961b71bfa578d0bd1297b9e",
+        "size_in_bytes": 68
+      },
+      {
+        "_path": "Lib/site-packages/logzero-1.7.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "21ec89956e805f791211213e967cffb3e152b085f4088addf18effcd9ba1c1aa",
+        "sha256_in_prefix": "21ec89956e805f791211213e967cffb3e152b085f4088addf18effcd9ba1c1aa",
+        "size_in_bytes": 1071
+      },
+      {
+        "_path": "Lib/site-packages/logzero-1.7.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "8c3c6a3ae8715b7216de98563f821705cebf4641ab3dc033dd1a367f3b20dda4",
+        "sha256_in_prefix": "8c3c6a3ae8715b7216de98563f821705cebf4641ab3dc033dd1a367f3b20dda4",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "Lib/site-packages/logzero/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "11c5948cd8093c2719ff19d2b4bafd08697fdc371214126f97e3d4b631b4b0ec",
+        "sha256_in_prefix": "11c5948cd8093c2719ff19d2b4bafd08697fdc371214126f97e3d4b631b4b0ec",
+        "size_in_bytes": 22863
+      },
+      {
+        "_path": "Lib/site-packages/logzero/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "2a568a7357b647a6c55172d1a2d465c9ebfad2715c8fcccc74ddf770dbd8fbae",
+        "sha256_in_prefix": "2a568a7357b647a6c55172d1a2d465c9ebfad2715c8fcccc74ddf770dbd8fbae",
+        "size_in_bytes": 25095
+      },
+      {
+        "_path": "Lib/site-packages/logzero/__pycache__/colors.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "3ebe06acb5d41a0aefb5a6d29ca1f07874420fdf6b66d93c2cfff63beecfec5f",
+        "sha256_in_prefix": "3ebe06acb5d41a0aefb5a6d29ca1f07874420fdf6b66d93c2cfff63beecfec5f",
+        "size_in_bytes": 4523
+      },
+      {
+        "_path": "Lib/site-packages/logzero/__pycache__/jsonlogger.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "ca2b04b99ba6f29838543f8568ffede256ef4790bd6dbaf44f033dd9c36f2f79",
+        "sha256_in_prefix": "ca2b04b99ba6f29838543f8568ffede256ef4790bd6dbaf44f033dd9c36f2f79",
+        "size_in_bytes": 12139
+      },
+      {
+        "_path": "Lib/site-packages/logzero/colors.py",
+        "path_type": "hardlink",
+        "sha256": "8b8c87cfd65b64cf1f08ea3cce71ce0ad2e5365bfba881545253081abdfc5732",
+        "sha256_in_prefix": "8b8c87cfd65b64cf1f08ea3cce71ce0ad2e5365bfba881545253081abdfc5732",
+        "size_in_bytes": 2226
+      },
+      {
+        "_path": "Lib/site-packages/logzero/jsonlogger.py",
+        "path_type": "hardlink",
+        "sha256": "a03d2bf9185e95e1f10c29dd80eaf83d371ddc0d08b90de9306ae8cd9ce946a5",
+        "sha256_in_prefix": "a03d2bf9185e95e1f10c29dd80eaf83d371ddc0d08b90de9306ae8cd9ce946a5",
+        "size_in_bytes": 8827
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "704815ff26eada88a5a2afec248a27a82b5ce7ee027e9b45c8bd3c0e8b4f4f72",
+  "size": 34580,
+  "subdir": "win-64",
+  "timestamp": 1761492475000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/logzero-1.7.0-py311h1ea47a8_7.conda",
+  "version": "1.7.0"
+}

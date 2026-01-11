@@ -1,0 +1,358 @@
+{
+  "arch": "x86_64",
+  "build": "1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "constrains": [],
+  "depends": [
+    "openssl",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\krb5-1.21.3-1",
+  "files": [
+    "Library/bin/ccapiserver.exe",
+    "Library/bin/comerr64.dll",
+    "Library/bin/gss-client.exe",
+    "Library/bin/gss-server.exe",
+    "Library/bin/gssapi64.dll",
+    "Library/bin/k5sprt64.dll",
+    "Library/bin/kcpytkt.exe",
+    "Library/bin/kdeltkt.exe",
+    "Library/bin/kdestroy.exe",
+    "Library/bin/kfwcpcc.exe",
+    "Library/bin/kfwlogon.dll",
+    "Library/bin/kinit.exe",
+    "Library/bin/klist.exe",
+    "Library/bin/kpasswd.exe",
+    "Library/bin/krb5_64.dll",
+    "Library/bin/krbcc64.dll",
+    "Library/bin/kswitch.exe",
+    "Library/bin/kvno.exe",
+    "Library/bin/leashw64.dll",
+    "Library/bin/mit2ms.exe",
+    "Library/bin/ms2mit.exe",
+    "Library/bin/plugins/preauth/spake64.dll",
+    "Library/bin/xpprof64.dll",
+    "Library/include/com_err.h",
+    "Library/include/gssapi/gssapi.h",
+    "Library/include/gssapi/gssapi_alloc.h",
+    "Library/include/gssapi/gssapi_ext.h",
+    "Library/include/gssapi/gssapi_krb5.h",
+    "Library/include/krb5.h",
+    "Library/include/krb5/krb5.h",
+    "Library/include/profile.h",
+    "Library/include/win-mac.h",
+    "Library/lib/comerr64.lib",
+    "Library/lib/gssapi64.lib",
+    "Library/lib/k5sprt64.lib",
+    "Library/lib/kfwlogon.lib",
+    "Library/lib/krb5_64.lib",
+    "Library/lib/krbcc64.lib",
+    "Library/lib/leashw64.lib",
+    "Library/lib/xpprof64.lib",
+    ".nonadmin"
+  ],
+  "fn": "krb5-1.21.3-1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\krb5-1.21.3-1",
+    "type": 1
+  },
+  "md5": "6ef4e8d5ce8ef65aeef85882bc099709",
+  "name": "krb5",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\krb5-1.21.3-1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/ccapiserver.exe",
+        "path_type": "hardlink",
+        "sha256": "50cf3501944537f491d4538ef9f4b447b8bf57f10ef3464bca777a5162b211dc",
+        "sha256_in_prefix": "50cf3501944537f491d4538ef9f4b447b8bf57f10ef3464bca777a5162b211dc",
+        "size_in_bytes": 157184
+      },
+      {
+        "_path": "Library/bin/comerr64.dll",
+        "path_type": "hardlink",
+        "sha256": "4e4a51609da9d7095c47f10af17eb50f0bd0e5ef1a5508de97dbf9dab3cb068c",
+        "sha256_in_prefix": "4e4a51609da9d7095c47f10af17eb50f0bd0e5ef1a5508de97dbf9dab3cb068c",
+        "size_in_bytes": 15360
+      },
+      {
+        "_path": "Library/bin/gss-client.exe",
+        "path_type": "hardlink",
+        "sha256": "6edc3e5c0aa85eefc2c52b87444e75cb4c068a68aeeeb134b51e94c761e924ad",
+        "sha256_in_prefix": "6edc3e5c0aa85eefc2c52b87444e75cb4c068a68aeeeb134b51e94c761e924ad",
+        "size_in_bytes": 26624
+      },
+      {
+        "_path": "Library/bin/gss-server.exe",
+        "path_type": "hardlink",
+        "sha256": "93dcabaf3985c7ec913924ce5c38d3e1c1dfddbc24194f0bedcf355c4ac75d6d",
+        "sha256_in_prefix": "93dcabaf3985c7ec913924ce5c38d3e1c1dfddbc24194f0bedcf355c4ac75d6d",
+        "size_in_bytes": 25600
+      },
+      {
+        "_path": "Library/bin/gssapi64.dll",
+        "path_type": "hardlink",
+        "sha256": "3d01fb0345b84f90d5f0e9945528c8b2143ae26ac894d59097802afec21cd364",
+        "sha256_in_prefix": "3d01fb0345b84f90d5f0e9945528c8b2143ae26ac894d59097802afec21cd364",
+        "size_in_bytes": 387072
+      },
+      {
+        "_path": "Library/bin/k5sprt64.dll",
+        "path_type": "hardlink",
+        "sha256": "b7a2f6b47b972ac96517fac1d332bc54f229c93774298347b5bca41db9f4a2f3",
+        "sha256_in_prefix": "b7a2f6b47b972ac96517fac1d332bc54f229c93774298347b5bca41db9f4a2f3",
+        "size_in_bytes": 58368
+      },
+      {
+        "_path": "Library/bin/kcpytkt.exe",
+        "path_type": "hardlink",
+        "sha256": "7e3ddcc2bc1dbf87604cd2ad204245265722b30b13f40e7365636f682092b790",
+        "sha256_in_prefix": "7e3ddcc2bc1dbf87604cd2ad204245265722b30b13f40e7365636f682092b790",
+        "size_in_bytes": 13824
+      },
+      {
+        "_path": "Library/bin/kdeltkt.exe",
+        "path_type": "hardlink",
+        "sha256": "6df4a5ecb0863092ce5b4fdd06a7d015fd9957b108ec80b45231161c04503e7f",
+        "sha256_in_prefix": "6df4a5ecb0863092ce5b4fdd06a7d015fd9957b108ec80b45231161c04503e7f",
+        "size_in_bytes": 13824
+      },
+      {
+        "_path": "Library/bin/kdestroy.exe",
+        "path_type": "hardlink",
+        "sha256": "259884c34e3e901866f5a99023a1df9bf54debbb0029d8f5b723db588bd3f114",
+        "sha256_in_prefix": "259884c34e3e901866f5a99023a1df9bf54debbb0029d8f5b723db588bd3f114",
+        "size_in_bytes": 14336
+      },
+      {
+        "_path": "Library/bin/kfwcpcc.exe",
+        "path_type": "hardlink",
+        "sha256": "24045e6a344193c3b46db85382c89f4d874033f311d6faba280a8264940f0a92",
+        "sha256_in_prefix": "24045e6a344193c3b46db85382c89f4d874033f311d6faba280a8264940f0a92",
+        "size_in_bytes": 30208
+      },
+      {
+        "_path": "Library/bin/kfwlogon.dll",
+        "path_type": "hardlink",
+        "sha256": "2a18e8f520dfb71dfa091711673e661df5794a2cb6d89c644a40fe5a27bc1fa9",
+        "sha256_in_prefix": "2a18e8f520dfb71dfa091711673e661df5794a2cb6d89c644a40fe5a27bc1fa9",
+        "size_in_bytes": 31744
+      },
+      {
+        "_path": "Library/bin/kinit.exe",
+        "path_type": "hardlink",
+        "sha256": "591644bc3faefd5d019f6bbc13ad2b5b544215e6834ec8e9c794a8aa755d2c11",
+        "sha256_in_prefix": "591644bc3faefd5d019f6bbc13ad2b5b544215e6834ec8e9c794a8aa755d2c11",
+        "size_in_bytes": 27648
+      },
+      {
+        "_path": "Library/bin/klist.exe",
+        "path_type": "hardlink",
+        "sha256": "2a23d1823dc3fb6f0c174b554ebb9018dc51f53e89955cb68c122ef6e43cba3d",
+        "sha256_in_prefix": "2a23d1823dc3fb6f0c174b554ebb9018dc51f53e89955cb68c122ef6e43cba3d",
+        "size_in_bytes": 27136
+      },
+      {
+        "_path": "Library/bin/kpasswd.exe",
+        "path_type": "hardlink",
+        "sha256": "ac276da7716ca8bb2262c118bf2e7314fb05ce900e1385faf64840739138a303",
+        "sha256_in_prefix": "ac276da7716ca8bb2262c118bf2e7314fb05ce900e1385faf64840739138a303",
+        "size_in_bytes": 14336
+      },
+      {
+        "_path": "Library/bin/krb5_64.dll",
+        "path_type": "hardlink",
+        "sha256": "6154a384f62e1e46c6d1ccd9717c909e2e171ec8a7b09c0cd83d751034155647",
+        "sha256_in_prefix": "6154a384f62e1e46c6d1ccd9717c909e2e171ec8a7b09c0cd83d751034155647",
+        "size_in_bytes": 1208320
+      },
+      {
+        "_path": "Library/bin/krbcc64.dll",
+        "path_type": "hardlink",
+        "sha256": "636a7a0621cbba674e848f9582922f146f730f186652e144e6ce027cc2b19559",
+        "sha256_in_prefix": "636a7a0621cbba674e848f9582922f146f730f186652e144e6ce027cc2b19559",
+        "size_in_bytes": 111104
+      },
+      {
+        "_path": "Library/bin/kswitch.exe",
+        "path_type": "hardlink",
+        "sha256": "e4690de72b068713d7c6aa5cd5dec356ee2f80d344fb96a653bfc713be53f3c9",
+        "sha256_in_prefix": "e4690de72b068713d7c6aa5cd5dec356ee2f80d344fb96a653bfc713be53f3c9",
+        "size_in_bytes": 12800
+      },
+      {
+        "_path": "Library/bin/kvno.exe",
+        "path_type": "hardlink",
+        "sha256": "58f778320e9d72eb1146f057249217d64ccee65e9d316a84b8f94bdee5023b4e",
+        "sha256_in_prefix": "58f778320e9d72eb1146f057249217d64ccee65e9d316a84b8f94bdee5023b4e",
+        "size_in_bytes": 22016
+      },
+      {
+        "_path": "Library/bin/leashw64.dll",
+        "path_type": "hardlink",
+        "sha256": "ad9a7cfc3858c3dde3c5395abc08abf8c4f96aa63c5efdc13bda54e2b1d75f65",
+        "sha256_in_prefix": "ad9a7cfc3858c3dde3c5395abc08abf8c4f96aa63c5efdc13bda54e2b1d75f65",
+        "size_in_bytes": 154112
+      },
+      {
+        "_path": "Library/bin/mit2ms.exe",
+        "path_type": "hardlink",
+        "sha256": "1d9f6f13aaaf5b29f7a012883d315f00e866ea014329743d408fd40828aea37e",
+        "sha256_in_prefix": "1d9f6f13aaaf5b29f7a012883d315f00e866ea014329743d408fd40828aea37e",
+        "size_in_bytes": 13312
+      },
+      {
+        "_path": "Library/bin/ms2mit.exe",
+        "path_type": "hardlink",
+        "sha256": "dff6849abacfc52e2301545e137df20051f9670419ee3c2648d1036f23aa1f14",
+        "sha256_in_prefix": "dff6849abacfc52e2301545e137df20051f9670419ee3c2648d1036f23aa1f14",
+        "size_in_bytes": 14848
+      },
+      {
+        "_path": "Library/bin/plugins/preauth/spake64.dll",
+        "path_type": "hardlink",
+        "sha256": "0d1aff7345cebeb0f8c4ace5666d4cc0613584a97ce3b6316ec121bc6a981691",
+        "sha256_in_prefix": "0d1aff7345cebeb0f8c4ace5666d4cc0613584a97ce3b6316ec121bc6a981691",
+        "size_in_bytes": 99328
+      },
+      {
+        "_path": "Library/bin/xpprof64.dll",
+        "path_type": "hardlink",
+        "sha256": "d6b21e751122edb342d72973cd7897ef42cafdcec5d862e8f0aef186bdb2c7ac",
+        "sha256_in_prefix": "d6b21e751122edb342d72973cd7897ef42cafdcec5d862e8f0aef186bdb2c7ac",
+        "size_in_bytes": 48128
+      },
+      {
+        "_path": "Library/include/com_err.h",
+        "path_type": "hardlink",
+        "sha256": "7e7b77b8d2911e8caafa45c6186c4b6f894d565550c19ba262747834c3c6909a",
+        "sha256_in_prefix": "7e7b77b8d2911e8caafa45c6186c4b6f894d565550c19ba262747834c3c6909a",
+        "size_in_bytes": 1979
+      },
+      {
+        "_path": "Library/include/gssapi/gssapi.h",
+        "path_type": "hardlink",
+        "sha256": "d817e42d5b4d76c706d606b28f2825c24bd96ff9a7d6dba096873b01cfa5d4cf",
+        "sha256_in_prefix": "d817e42d5b4d76c706d606b28f2825c24bd96ff9a7d6dba096873b01cfa5d4cf",
+        "size_in_bytes": 29999
+      },
+      {
+        "_path": "Library/include/gssapi/gssapi_alloc.h",
+        "path_type": "hardlink",
+        "sha256": "59a93b8bdbc477e00144afa0cc3764821e65f9e226526e16a7511a8f0878980c",
+        "sha256_in_prefix": "59a93b8bdbc477e00144afa0cc3764821e65f9e226526e16a7511a8f0878980c",
+        "size_in_bytes": 2640
+      },
+      {
+        "_path": "Library/include/gssapi/gssapi_ext.h",
+        "path_type": "hardlink",
+        "sha256": "8b715bd1741d0c8193b78c5cdc22463923fc132a358fa2558cd8e22c31ff1448",
+        "sha256_in_prefix": "8b715bd1741d0c8193b78c5cdc22463923fc132a358fa2558cd8e22c31ff1448",
+        "size_in_bytes": 21165
+      },
+      {
+        "_path": "Library/include/gssapi/gssapi_krb5.h",
+        "path_type": "hardlink",
+        "sha256": "f30cc3a7c09bb79ce5d56f6489f3575e72e89eb197eb07d7f25656b93a6a6e9b",
+        "sha256_in_prefix": "f30cc3a7c09bb79ce5d56f6489f3575e72e89eb197eb07d7f25656b93a6a6e9b",
+        "size_in_bytes": 12027
+      },
+      {
+        "_path": "Library/include/krb5.h",
+        "path_type": "hardlink",
+        "sha256": "1fe239732636b4f9cbfd596542b77c5dd60af2d73a1d4df1eb30ba6ebcd9ec78",
+        "sha256_in_prefix": "1fe239732636b4f9cbfd596542b77c5dd60af2d73a1d4df1eb30ba6ebcd9ec78",
+        "size_in_bytes": 402
+      },
+      {
+        "_path": "Library/include/krb5/krb5.h",
+        "path_type": "hardlink",
+        "sha256": "42c1158db60d90af3f3af5429a9967c190e522c3dff346d06296f4bf976db5d3",
+        "sha256_in_prefix": "42c1158db60d90af3f3af5429a9967c190e522c3dff346d06296f4bf976db5d3",
+        "size_in_bytes": 348697
+      },
+      {
+        "_path": "Library/include/profile.h",
+        "path_type": "hardlink",
+        "sha256": "97ad1942fd64299023ad8e098160a1df59bdd1fa2f92c62ae118b39f9d8ef199",
+        "sha256_in_prefix": "97ad1942fd64299023ad8e098160a1df59bdd1fa2f92c62ae118b39f9d8ef199",
+        "size_in_bytes": 12186
+      },
+      {
+        "_path": "Library/include/win-mac.h",
+        "path_type": "hardlink",
+        "sha256": "00a5c3c06d0eecee45f10d7281fa138d4379f2bbba41f13697b55d7693806e53",
+        "sha256_in_prefix": "00a5c3c06d0eecee45f10d7281fa138d4379f2bbba41f13697b55d7693806e53",
+        "size_in_bytes": 6325
+      },
+      {
+        "_path": "Library/lib/comerr64.lib",
+        "path_type": "hardlink",
+        "sha256": "e22bc7d5a55ccbdaba6e076d7094588f4cc1816f1fe46ea1e4812ccc2ae6a419",
+        "sha256_in_prefix": "e22bc7d5a55ccbdaba6e076d7094588f4cc1816f1fe46ea1e4812ccc2ae6a419",
+        "size_in_bytes": 2918
+      },
+      {
+        "_path": "Library/lib/gssapi64.lib",
+        "path_type": "hardlink",
+        "sha256": "6a0b0eab23079767b32e376566a812510f2c3cc0f7e1a9d16fe7970646672244",
+        "sha256_in_prefix": "6a0b0eab23079767b32e376566a812510f2c3cc0f7e1a9d16fe7970646672244",
+        "size_in_bytes": 34390
+      },
+      {
+        "_path": "Library/lib/k5sprt64.lib",
+        "path_type": "hardlink",
+        "sha256": "ab4ee5eefcd65993ceddd82bdac1fb1e7f1cc7ab3f7f1ac7ebccc4be62baaa98",
+        "sha256_in_prefix": "ab4ee5eefcd65993ceddd82bdac1fb1e7f1cc7ab3f7f1ac7ebccc4be62baaa98",
+        "size_in_bytes": 29022
+      },
+      {
+        "_path": "Library/lib/kfwlogon.lib",
+        "path_type": "hardlink",
+        "sha256": "19afc057bd9605d97a00487bdffd03f99e364f16613c877fedaefbcaeecd7cf4",
+        "sha256_in_prefix": "19afc057bd9605d97a00487bdffd03f99e364f16613c877fedaefbcaeecd7cf4",
+        "size_in_bytes": 2758
+      },
+      {
+        "_path": "Library/lib/krb5_64.lib",
+        "path_type": "hardlink",
+        "sha256": "de6446d2ebe78812133865887da21d9960325217d021eede6068d4f5553e0f18",
+        "sha256_in_prefix": "de6446d2ebe78812133865887da21d9960325217d021eede6068d4f5553e0f18",
+        "size_in_bytes": 108976
+      },
+      {
+        "_path": "Library/lib/krbcc64.lib",
+        "path_type": "hardlink",
+        "sha256": "b701bfae23febce14ef0dc296d52d0df212c4c801585e71c1f8fda891600403b",
+        "sha256_in_prefix": "b701bfae23febce14ef0dc296d52d0df212c4c801585e71c1f8fda891600403b",
+        "size_in_bytes": 8552
+      },
+      {
+        "_path": "Library/lib/leashw64.lib",
+        "path_type": "hardlink",
+        "sha256": "318d06d558f700659f9a71f002c1e752e0dce839f5418b0bbeeb8f0ca7f83581",
+        "sha256_in_prefix": "318d06d558f700659f9a71f002c1e752e0dce839f5418b0bbeeb8f0ca7f83581",
+        "size_in_bytes": 17894
+      },
+      {
+        "_path": "Library/lib/xpprof64.lib",
+        "path_type": "hardlink",
+        "sha256": "e554aeea826e9080a6b9bf308e6d2cbf346818d9aa797395f380fc303f7b458a",
+        "sha256_in_prefix": "e554aeea826e9080a6b9bf308e6d2cbf346818d9aa797395f380fc303f7b458a",
+        "size_in_bytes": 5786
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "esri/win-64::krb5==1.21.3=1",
+  "sha256": "3d9f24b11d5ce8dd63045576d9a370483ce9bcaa4c06b3bb49350372c42b617a",
+  "size": 702813,
+  "subdir": "win-64",
+  "timestamp": 1723738220684,
+  "url": "https://conda.anaconda.org/esri/win-64/krb5-1.21.3-1.conda",
+  "version": "1.21.3"
+}

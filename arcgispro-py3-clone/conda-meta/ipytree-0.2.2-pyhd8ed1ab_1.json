@@ -1,0 +1,404 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9",
+    "ipywidgets >=7.6.0,<9"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\ipytree-0.2.2-pyhd8ed1ab_1",
+  "files": [
+    "etc/jupyter/nbconfig/notebook.d/ipytree.json",
+    "share/jupyter/labextensions/ipytree/package.json",
+    "share/jupyter/labextensions/ipytree/static/261.4efb75b6352af894acb4.js",
+    "share/jupyter/labextensions/ipytree/static/287.fd063a1253f3266560f7.js",
+    "share/jupyter/labextensions/ipytree/static/287.fd063a1253f3266560f7.js.LICENSE.txt",
+    "share/jupyter/labextensions/ipytree/static/486.4c1ca47efc3790912711.js",
+    "share/jupyter/labextensions/ipytree/static/486.4c1ca47efc3790912711.js.LICENSE.txt",
+    "share/jupyter/labextensions/ipytree/static/568.c44c0ae4f70f7df0fe86.js",
+    "share/jupyter/labextensions/ipytree/static/755.71bcc770291b01d6ebaa.js",
+    "share/jupyter/labextensions/ipytree/static/755.71bcc770291b01d6ebaa.js.LICENSE.txt",
+    "share/jupyter/labextensions/ipytree/static/remoteEntry.a322e5c11f9830cf62f6.js",
+    "share/jupyter/labextensions/ipytree/static/style.js",
+    "share/jupyter/labextensions/ipytree/static/third-party-licenses.json",
+    "share/jupyter/nbextensions/ipytree/extension.js",
+    "share/jupyter/nbextensions/ipytree/index.js",
+    "share/jupyter/nbextensions/ipytree/index.js.LICENSE.txt",
+    "share/jupyter/nbextensions/ipytree/index.js.map",
+    "Lib/site-packages/ipytree-0.2.2.dist-info/INSTALLER",
+    "Lib/site-packages/ipytree-0.2.2.dist-info/LICENSE",
+    "Lib/site-packages/ipytree-0.2.2.dist-info/METADATA",
+    "Lib/site-packages/ipytree-0.2.2.dist-info/RECORD",
+    "Lib/site-packages/ipytree-0.2.2.dist-info/REQUESTED",
+    "Lib/site-packages/ipytree-0.2.2.dist-info/WHEEL",
+    "Lib/site-packages/ipytree-0.2.2.dist-info/direct_url.json",
+    "Lib/site-packages/ipytree-0.2.2.dist-info/top_level.txt",
+    "Lib/site-packages/ipytree/__init__.py",
+    "Lib/site-packages/ipytree/_version.py",
+    "Lib/site-packages/ipytree/labextension/package.json",
+    "Lib/site-packages/ipytree/labextension/static/261.4efb75b6352af894acb4.js",
+    "Lib/site-packages/ipytree/labextension/static/287.fd063a1253f3266560f7.js",
+    "Lib/site-packages/ipytree/labextension/static/287.fd063a1253f3266560f7.js.LICENSE.txt",
+    "Lib/site-packages/ipytree/labextension/static/486.4c1ca47efc3790912711.js",
+    "Lib/site-packages/ipytree/labextension/static/486.4c1ca47efc3790912711.js.LICENSE.txt",
+    "Lib/site-packages/ipytree/labextension/static/568.c44c0ae4f70f7df0fe86.js",
+    "Lib/site-packages/ipytree/labextension/static/755.71bcc770291b01d6ebaa.js",
+    "Lib/site-packages/ipytree/labextension/static/755.71bcc770291b01d6ebaa.js.LICENSE.txt",
+    "Lib/site-packages/ipytree/labextension/static/remoteEntry.a322e5c11f9830cf62f6.js",
+    "Lib/site-packages/ipytree/labextension/static/style.js",
+    "Lib/site-packages/ipytree/labextension/static/third-party-licenses.json",
+    "Lib/site-packages/ipytree/nbextension/extension.js",
+    "Lib/site-packages/ipytree/nbextension/index.js",
+    "Lib/site-packages/ipytree/nbextension/index.js.LICENSE.txt",
+    "Lib/site-packages/ipytree/nbextension/index.js.map",
+    "Lib/site-packages/ipytree/tree.py",
+    ".nonadmin",
+    "Lib/site-packages/ipytree/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/ipytree/__pycache__/_version.cpython-311.pyc",
+    "Lib/site-packages/ipytree/__pycache__/tree.cpython-311.pyc"
+  ],
+  "fn": "ipytree-0.2.2-pyhd8ed1ab_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\ipytree-0.2.2-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "05e0e5f1ce90b8ef275fc1cbdc8f6cd3",
+  "name": "ipytree",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\ipytree-0.2.2-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "etc/jupyter/nbconfig/notebook.d/ipytree.json",
+        "path_type": "hardlink",
+        "sha256": "35a64664c88ecb45bab6d29d866b380de7940b6d3176fcbd9e0554a69c778102",
+        "sha256_in_prefix": "35a64664c88ecb45bab6d29d866b380de7940b6d3176fcbd9e0554a69c778102",
+        "size_in_bytes": 61
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipytree/package.json",
+        "path_type": "hardlink",
+        "sha256": "2d1fbcf0eef4fa438fa0e85f16a3ff0fbb791a31ad1cc82cf261fd1bc9275198",
+        "sha256_in_prefix": "2d1fbcf0eef4fa438fa0e85f16a3ff0fbb791a31ad1cc82cf261fd1bc9275198",
+        "size_in_bytes": 1347
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipytree/static/261.4efb75b6352af894acb4.js",
+        "path_type": "hardlink",
+        "sha256": "4efb75b6352af894acb48c0d27465ff30d8928b20332916f287f718ebd6b5294",
+        "sha256_in_prefix": "4efb75b6352af894acb48c0d27465ff30d8928b20332916f287f718ebd6b5294",
+        "size_in_bytes": 270
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipytree/static/287.fd063a1253f3266560f7.js",
+        "path_type": "hardlink",
+        "sha256": "d1d319a51b3637d0f9407e69c8bc786d447d4af1ac446510cbc29277aed041d5",
+        "sha256_in_prefix": "d1d319a51b3637d0f9407e69c8bc786d447d4af1ac446510cbc29277aed041d5",
+        "size_in_bytes": 141027
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipytree/static/287.fd063a1253f3266560f7.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "550f11b897a38eddf73b49f839752afc67c5f869fec77c53d1b7b7a474d08653",
+        "sha256_in_prefix": "550f11b897a38eddf73b49f839752afc67c5f869fec77c53d1b7b7a474d08653",
+        "size_in_bytes": 1910
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipytree/static/486.4c1ca47efc3790912711.js",
+        "path_type": "hardlink",
+        "sha256": "b0e94bf525847d4ec092fbcb97ce24da79710fccb96df82441f0a47dcc002364",
+        "sha256_in_prefix": "b0e94bf525847d4ec092fbcb97ce24da79710fccb96df82441f0a47dcc002364",
+        "size_in_bytes": 70500
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipytree/static/486.4c1ca47efc3790912711.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "d33efbdf4d309bfa4448199551371ff81d5f57661b781faf79d256554e038595",
+        "sha256_in_prefix": "d33efbdf4d309bfa4448199551371ff81d5f57661b781faf79d256554e038595",
+        "size_in_bytes": 336
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipytree/static/568.c44c0ae4f70f7df0fe86.js",
+        "path_type": "hardlink",
+        "sha256": "c44c0ae4f70f7df0fe866c902c9b1884cb1ed2590c08611388715e8d713f15ca",
+        "sha256_in_prefix": "c44c0ae4f70f7df0fe866c902c9b1884cb1ed2590c08611388715e8d713f15ca",
+        "size_in_bytes": 43576
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipytree/static/755.71bcc770291b01d6ebaa.js",
+        "path_type": "hardlink",
+        "sha256": "6056ba3ce314fd7a98958637d1b5c3bc91ec5c86a294742f590ed45ed54cfa8a",
+        "sha256_in_prefix": "6056ba3ce314fd7a98958637d1b5c3bc91ec5c86a294742f590ed45ed54cfa8a",
+        "size_in_bytes": 90019
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipytree/static/755.71bcc770291b01d6ebaa.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "90df5fb90a66efeeba4a18886bb6c62bdc1389f8ea14d8e1531acd42f160d344",
+        "sha256_in_prefix": "90df5fb90a66efeeba4a18886bb6c62bdc1389f8ea14d8e1531acd42f160d344",
+        "size_in_bytes": 475
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipytree/static/remoteEntry.a322e5c11f9830cf62f6.js",
+        "path_type": "hardlink",
+        "sha256": "a322e5c11f9830cf62f6c3be9752a9c717316c2e9d65ee87265e252eb2560b17",
+        "sha256_in_prefix": "a322e5c11f9830cf62f6c3be9752a9c717316c2e9d65ee87265e252eb2560b17",
+        "size_in_bytes": 7147
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipytree/static/style.js",
+        "path_type": "hardlink",
+        "sha256": "f8242dd194cf6824efad188b7339f17e501b7ef20a94e5738cea2cfa6b9a5d0f",
+        "sha256_in_prefix": "f8242dd194cf6824efad188b7339f17e501b7ef20a94e5738cea2cfa6b9a5d0f",
+        "size_in_bytes": 118
+      },
+      {
+        "_path": "share/jupyter/labextensions/ipytree/static/third-party-licenses.json",
+        "path_type": "hardlink",
+        "sha256": "b3db0d4fe3413ecd0a1df087970661c1c519b9d650baeadb0c15480aeeaa28d9",
+        "sha256_in_prefix": "b3db0d4fe3413ecd0a1df087970661c1c519b9d650baeadb0c15480aeeaa28d9",
+        "size_in_bytes": 7019
+      },
+      {
+        "_path": "share/jupyter/nbextensions/ipytree/extension.js",
+        "path_type": "hardlink",
+        "sha256": "3d468b9bdcc4a56f4d18bc87272d295bf7d7bb3d759acabad2d5c88f4534ae35",
+        "sha256_in_prefix": "3d468b9bdcc4a56f4d18bc87272d295bf7d7bb3d759acabad2d5c88f4534ae35",
+        "size_in_bytes": 416
+      },
+      {
+        "_path": "share/jupyter/nbextensions/ipytree/index.js",
+        "path_type": "hardlink",
+        "sha256": "876bb9e9a20548fbbeef53ebb18fd8120c74e79b6da8ffb1e0c22d79611007bd",
+        "sha256_in_prefix": "876bb9e9a20548fbbeef53ebb18fd8120c74e79b6da8ffb1e0c22d79611007bd",
+        "size_in_bytes": 389149
+      },
+      {
+        "_path": "share/jupyter/nbextensions/ipytree/index.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "8a54a4dc43e7fe87be51cb4ed7ae37cf6bf0f758cb0e51517c9b5a4b5a6395b4",
+        "sha256_in_prefix": "8a54a4dc43e7fe87be51cb4ed7ae37cf6bf0f758cb0e51517c9b5a4b5a6395b4",
+        "size_in_bytes": 2723
+      },
+      {
+        "_path": "share/jupyter/nbextensions/ipytree/index.js.map",
+        "path_type": "hardlink",
+        "sha256": "5ca15826e3db6a68c298f792ab89d465409cfc4ba0390dfc6050453fa3698564",
+        "sha256_in_prefix": "5ca15826e3db6a68c298f792ab89d465409cfc4ba0390dfc6050453fa3698564",
+        "size_in_bytes": 1827770
+      },
+      {
+        "_path": "site-packages/ipytree-0.2.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/ipytree-0.2.2.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "221172661cab3019568d46dc6b7784506244566383cbcec9db5605a5d1874f6b",
+        "sha256_in_prefix": "221172661cab3019568d46dc6b7784506244566383cbcec9db5605a5d1874f6b",
+        "size_in_bytes": 1085
+      },
+      {
+        "_path": "site-packages/ipytree-0.2.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "bd0974610f300b1a2e00526de06d0c86839c842db7b48a8de217496558b23630",
+        "sha256_in_prefix": "bd0974610f300b1a2e00526de06d0c86839c842db7b48a8de217496558b23630",
+        "size_in_bytes": 846
+      },
+      {
+        "_path": "site-packages/ipytree-0.2.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "6dc508b69118f18b988f57097a6b9b09ee527e9f89d6ba07fe6302c815ea12e1",
+        "sha256_in_prefix": "6dc508b69118f18b988f57097a6b9b09ee527e9f89d6ba07fe6302c815ea12e1",
+        "size_in_bytes": 4969
+      },
+      {
+        "_path": "site-packages/ipytree-0.2.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/ipytree-0.2.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "a7178d5f925db427b9f0f51260ff6ea6673b8dd44f82f4f41a6f646f5487955c",
+        "sha256_in_prefix": "a7178d5f925db427b9f0f51260ff6ea6673b8dd44f82f4f41a6f646f5487955c",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "site-packages/ipytree-0.2.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "6eb5feed8075a16b115b353abdf1d0b9649709af45ee831821abaa0e035e4998",
+        "sha256_in_prefix": "6eb5feed8075a16b115b353abdf1d0b9649709af45ee831821abaa0e035e4998",
+        "size_in_bytes": 103
+      },
+      {
+        "_path": "site-packages/ipytree-0.2.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "444b9bd3a883540d57285dd0d7aa9c5367c10432b08fa8156e51d7466a43f75d",
+        "sha256_in_prefix": "444b9bd3a883540d57285dd0d7aa9c5367c10432b08fa8156e51d7466a43f75d",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "site-packages/ipytree/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b65c01c36c0daf1a37a0abf47da2c621dd98b8bbcfde2d127fa5872d9f84f965",
+        "sha256_in_prefix": "b65c01c36c0daf1a37a0abf47da2c621dd98b8bbcfde2d127fa5872d9f84f965",
+        "size_in_bytes": 252
+      },
+      {
+        "_path": "site-packages/ipytree/_version.py",
+        "path_type": "hardlink",
+        "sha256": "b74382c3ae43c8f7fc80ec98a120844c9d2a1889c688b552b3b3f64702315e43",
+        "sha256_in_prefix": "b74382c3ae43c8f7fc80ec98a120844c9d2a1889c688b552b3b3f64702315e43",
+        "size_in_bytes": 127
+      },
+      {
+        "_path": "site-packages/ipytree/labextension/package.json",
+        "path_type": "hardlink",
+        "sha256": "2d1fbcf0eef4fa438fa0e85f16a3ff0fbb791a31ad1cc82cf261fd1bc9275198",
+        "sha256_in_prefix": "2d1fbcf0eef4fa438fa0e85f16a3ff0fbb791a31ad1cc82cf261fd1bc9275198",
+        "size_in_bytes": 1347
+      },
+      {
+        "_path": "site-packages/ipytree/labextension/static/261.4efb75b6352af894acb4.js",
+        "path_type": "hardlink",
+        "sha256": "4efb75b6352af894acb48c0d27465ff30d8928b20332916f287f718ebd6b5294",
+        "sha256_in_prefix": "4efb75b6352af894acb48c0d27465ff30d8928b20332916f287f718ebd6b5294",
+        "size_in_bytes": 270
+      },
+      {
+        "_path": "site-packages/ipytree/labextension/static/287.fd063a1253f3266560f7.js",
+        "path_type": "hardlink",
+        "sha256": "d1d319a51b3637d0f9407e69c8bc786d447d4af1ac446510cbc29277aed041d5",
+        "sha256_in_prefix": "d1d319a51b3637d0f9407e69c8bc786d447d4af1ac446510cbc29277aed041d5",
+        "size_in_bytes": 141027
+      },
+      {
+        "_path": "site-packages/ipytree/labextension/static/287.fd063a1253f3266560f7.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "550f11b897a38eddf73b49f839752afc67c5f869fec77c53d1b7b7a474d08653",
+        "sha256_in_prefix": "550f11b897a38eddf73b49f839752afc67c5f869fec77c53d1b7b7a474d08653",
+        "size_in_bytes": 1910
+      },
+      {
+        "_path": "site-packages/ipytree/labextension/static/486.4c1ca47efc3790912711.js",
+        "path_type": "hardlink",
+        "sha256": "b0e94bf525847d4ec092fbcb97ce24da79710fccb96df82441f0a47dcc002364",
+        "sha256_in_prefix": "b0e94bf525847d4ec092fbcb97ce24da79710fccb96df82441f0a47dcc002364",
+        "size_in_bytes": 70500
+      },
+      {
+        "_path": "site-packages/ipytree/labextension/static/486.4c1ca47efc3790912711.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "d33efbdf4d309bfa4448199551371ff81d5f57661b781faf79d256554e038595",
+        "sha256_in_prefix": "d33efbdf4d309bfa4448199551371ff81d5f57661b781faf79d256554e038595",
+        "size_in_bytes": 336
+      },
+      {
+        "_path": "site-packages/ipytree/labextension/static/568.c44c0ae4f70f7df0fe86.js",
+        "path_type": "hardlink",
+        "sha256": "c44c0ae4f70f7df0fe866c902c9b1884cb1ed2590c08611388715e8d713f15ca",
+        "sha256_in_prefix": "c44c0ae4f70f7df0fe866c902c9b1884cb1ed2590c08611388715e8d713f15ca",
+        "size_in_bytes": 43576
+      },
+      {
+        "_path": "site-packages/ipytree/labextension/static/755.71bcc770291b01d6ebaa.js",
+        "path_type": "hardlink",
+        "sha256": "6056ba3ce314fd7a98958637d1b5c3bc91ec5c86a294742f590ed45ed54cfa8a",
+        "sha256_in_prefix": "6056ba3ce314fd7a98958637d1b5c3bc91ec5c86a294742f590ed45ed54cfa8a",
+        "size_in_bytes": 90019
+      },
+      {
+        "_path": "site-packages/ipytree/labextension/static/755.71bcc770291b01d6ebaa.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "90df5fb90a66efeeba4a18886bb6c62bdc1389f8ea14d8e1531acd42f160d344",
+        "sha256_in_prefix": "90df5fb90a66efeeba4a18886bb6c62bdc1389f8ea14d8e1531acd42f160d344",
+        "size_in_bytes": 475
+      },
+      {
+        "_path": "site-packages/ipytree/labextension/static/remoteEntry.a322e5c11f9830cf62f6.js",
+        "path_type": "hardlink",
+        "sha256": "a322e5c11f9830cf62f6c3be9752a9c717316c2e9d65ee87265e252eb2560b17",
+        "sha256_in_prefix": "a322e5c11f9830cf62f6c3be9752a9c717316c2e9d65ee87265e252eb2560b17",
+        "size_in_bytes": 7147
+      },
+      {
+        "_path": "site-packages/ipytree/labextension/static/style.js",
+        "path_type": "hardlink",
+        "sha256": "f8242dd194cf6824efad188b7339f17e501b7ef20a94e5738cea2cfa6b9a5d0f",
+        "sha256_in_prefix": "f8242dd194cf6824efad188b7339f17e501b7ef20a94e5738cea2cfa6b9a5d0f",
+        "size_in_bytes": 118
+      },
+      {
+        "_path": "site-packages/ipytree/labextension/static/third-party-licenses.json",
+        "path_type": "hardlink",
+        "sha256": "b3db0d4fe3413ecd0a1df087970661c1c519b9d650baeadb0c15480aeeaa28d9",
+        "sha256_in_prefix": "b3db0d4fe3413ecd0a1df087970661c1c519b9d650baeadb0c15480aeeaa28d9",
+        "size_in_bytes": 7019
+      },
+      {
+        "_path": "site-packages/ipytree/nbextension/extension.js",
+        "path_type": "hardlink",
+        "sha256": "3d468b9bdcc4a56f4d18bc87272d295bf7d7bb3d759acabad2d5c88f4534ae35",
+        "sha256_in_prefix": "3d468b9bdcc4a56f4d18bc87272d295bf7d7bb3d759acabad2d5c88f4534ae35",
+        "size_in_bytes": 416
+      },
+      {
+        "_path": "site-packages/ipytree/nbextension/index.js",
+        "path_type": "hardlink",
+        "sha256": "876bb9e9a20548fbbeef53ebb18fd8120c74e79b6da8ffb1e0c22d79611007bd",
+        "sha256_in_prefix": "876bb9e9a20548fbbeef53ebb18fd8120c74e79b6da8ffb1e0c22d79611007bd",
+        "size_in_bytes": 389149
+      },
+      {
+        "_path": "site-packages/ipytree/nbextension/index.js.LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "8a54a4dc43e7fe87be51cb4ed7ae37cf6bf0f758cb0e51517c9b5a4b5a6395b4",
+        "sha256_in_prefix": "8a54a4dc43e7fe87be51cb4ed7ae37cf6bf0f758cb0e51517c9b5a4b5a6395b4",
+        "size_in_bytes": 2723
+      },
+      {
+        "_path": "site-packages/ipytree/nbextension/index.js.map",
+        "path_type": "hardlink",
+        "sha256": "5ca15826e3db6a68c298f792ab89d465409cfc4ba0390dfc6050453fa3698564",
+        "sha256_in_prefix": "5ca15826e3db6a68c298f792ab89d465409cfc4ba0390dfc6050453fa3698564",
+        "size_in_bytes": 1827770
+      },
+      {
+        "_path": "site-packages/ipytree/tree.py",
+        "path_type": "hardlink",
+        "sha256": "01a8d70a448a072373bee6278d0c1b1b05105c92eb111076591389f2ffb0929e",
+        "sha256_in_prefix": "01a8d70a448a072373bee6278d0c1b1b05105c92eb111076591389f2ffb0929e",
+        "size_in_bytes": 4077
+      },
+      {
+        "_path": "Lib/site-packages/ipytree/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipytree/__pycache__/_version.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipytree/__pycache__/tree.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "4e7c2f1037a2e9f0dc49a3fecd681a937b48a244b946c5a7a37432bb98436071",
+  "size": 489171,
+  "subdir": "noarch",
+  "timestamp": 1734505865000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/ipytree-0.2.2-pyhd8ed1ab_1.conda",
+  "version": "0.2.2"
+}

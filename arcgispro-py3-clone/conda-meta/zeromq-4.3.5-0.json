@@ -1,0 +1,132 @@
+{
+  "arch": "x86_64",
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/esri/win-64",
+  "constrains": [],
+  "depends": [
+    "libsodium"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\zeromq-4.3.5-0",
+  "files": [
+    "Library/CMake/ZeroMQConfig.cmake",
+    "Library/CMake/ZeroMQConfigVersion.cmake",
+    "Library/CMake/ZeroMQTargets-relwithdebinfo.cmake",
+    "Library/CMake/ZeroMQTargets.cmake",
+    "Library/bin/libzmq-v143-mt-4_3_5.dll",
+    "Library/include/zmq.h",
+    "Library/include/zmq_utils.h",
+    "Library/lib/libzmq-v143-mt-4_3_5.lib",
+    "Library/lib/pkgconfig/libzmq.pc",
+    "Library/share/zmq/AUTHORS.txt",
+    "Library/share/zmq/LICENSE.txt",
+    "Library/share/zmq/NEWS.txt",
+    ".nonadmin"
+  ],
+  "fn": "zeromq-4.3.5-0.conda",
+  "license": "MPL 2.0",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\zeromq-4.3.5-0",
+    "type": 1
+  },
+  "md5": "7c7a4dadae0c3d5191e7630a0089b4d3",
+  "name": "zeromq",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\zeromq-4.3.5-0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/CMake/ZeroMQConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "b48ce1ceb74f5ee93946520f92288362129c46521181b350bfd49028109ad95e",
+        "sha256_in_prefix": "b48ce1ceb74f5ee93946520f92288362129c46521181b350bfd49028109ad95e",
+        "size_in_bytes": 1795
+      },
+      {
+        "_path": "Library/CMake/ZeroMQConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "6c22a15701991b7910be823185f6201b76f5f45dfd25a962b5776dbc3740639d",
+        "sha256_in_prefix": "6c22a15701991b7910be823185f6201b76f5f45dfd25a962b5776dbc3740639d",
+        "size_in_bytes": 2025
+      },
+      {
+        "_path": "Library/CMake/ZeroMQTargets-relwithdebinfo.cmake",
+        "path_type": "hardlink",
+        "sha256": "2a20a7bc0f480f733148e12d1f56629c83ecf38882fb3cd39fe8c4adbdb7d378",
+        "sha256_in_prefix": "2a20a7bc0f480f733148e12d1f56629c83ecf38882fb3cd39fe8c4adbdb7d378",
+        "size_in_bytes": 945
+      },
+      {
+        "_path": "Library/CMake/ZeroMQTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "22ff804ed77de9be0595d9d33ef9c4bb83371f9dfe8dec8f9ba6632d07c42098",
+        "sha256_in_prefix": "22ff804ed77de9be0595d9d33ef9c4bb83371f9dfe8dec8f9ba6632d07c42098",
+        "size_in_bytes": 3380
+      },
+      {
+        "_path": "Library/bin/libzmq-v143-mt-4_3_5.dll",
+        "path_type": "hardlink",
+        "sha256": "6d14468d5b3898167229ca67344a765934581e011d340f520c9f22dde657a309",
+        "sha256_in_prefix": "6d14468d5b3898167229ca67344a765934581e011d340f520c9f22dde657a309",
+        "size_in_bytes": 691040
+      },
+      {
+        "_path": "Library/include/zmq.h",
+        "path_type": "hardlink",
+        "sha256": "af28f65648ab8fbf3c000bdf6395776249fc5d98d28c720f4350c61fb2d91b1a",
+        "sha256_in_prefix": "af28f65648ab8fbf3c000bdf6395776249fc5d98d28c720f4350c61fb2d91b1a",
+        "size_in_bytes": 29850
+      },
+      {
+        "_path": "Library/include/zmq_utils.h",
+        "path_type": "hardlink",
+        "sha256": "7aad0d8b0c40b28cce8c3ce75077ecd6bd8fd1a79a91aaed6a434e8b24a02713",
+        "sha256_in_prefix": "7aad0d8b0c40b28cce8c3ce75077ecd6bd8fd1a79a91aaed6a434e8b24a02713",
+        "size_in_bytes": 1021
+      },
+      {
+        "_path": "Library/lib/libzmq-v143-mt-4_3_5.lib",
+        "path_type": "hardlink",
+        "sha256": "d98e41e92748b66cc5212d6983d529a7a5b91550d913c81e937622096eee6563",
+        "sha256_in_prefix": "d98e41e92748b66cc5212d6983d529a7a5b91550d913c81e937622096eee6563",
+        "size_in_bytes": 16328
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libzmq.pc",
+        "path_type": "hardlink",
+        "sha256": "77b4aa2d1c76dc840b21b18668bb8e2dbc86959c9e14661eccb625fe5d4f38f9",
+        "sha256_in_prefix": "77b4aa2d1c76dc840b21b18668bb8e2dbc86959c9e14661eccb625fe5d4f38f9",
+        "size_in_bytes": 395
+      },
+      {
+        "_path": "Library/share/zmq/AUTHORS.txt",
+        "path_type": "hardlink",
+        "sha256": "0721fe9b1b0580ddb658a9fead3d94ac942088008e7ba24336feb00a87ab1bf4",
+        "sha256_in_prefix": "0721fe9b1b0580ddb658a9fead3d94ac942088008e7ba24336feb00a87ab1bf4",
+        "size_in_bytes": 2502
+      },
+      {
+        "_path": "Library/share/zmq/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "2684de17300e0a434686f1ec7f8af6045207a4b457a3fe04b2b9ce655e7c5d50",
+        "sha256_in_prefix": "2684de17300e0a434686f1ec7f8af6045207a4b457a3fe04b2b9ce655e7c5d50",
+        "size_in_bytes": 17098
+      },
+      {
+        "_path": "Library/share/zmq/NEWS.txt",
+        "path_type": "hardlink",
+        "sha256": "7b5d8931498d4890b60947d4e27b4ce9ed3e0bea2d64308303a7d7c7edd90245",
+        "sha256_in_prefix": "7b5d8931498d4890b60947d4e27b4ce9ed3e0bea2d64308303a7d7c7edd90245",
+        "size_in_bytes": 84304
+      }
+    ],
+    "paths_version": 1
+  },
+  "platform": "win32",
+  "requested_spec": "esri/win-64::zeromq==4.3.5=0",
+  "sha256": "246d53e79c35251a74dc4bad7d47629dfcc7b558c78af035c363cb1e7a7025dc",
+  "size": 248635,
+  "subdir": "win-64",
+  "timestamp": 1709571278265,
+  "url": "https://conda.anaconda.org/esri/win-64/zeromq-4.3.5-0.conda",
+  "version": "4.3.5"
+}

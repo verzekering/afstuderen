@@ -1,0 +1,231 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "requests",
+    "tqdm",
+    "filelock",
+    "beautifulsoup4",
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\gdown-5.2.0-pyhd8ed1ab_1",
+  "files": [
+    "Lib/site-packages/gdown-5.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/gdown-5.2.0.dist-info/METADATA",
+    "Lib/site-packages/gdown-5.2.0.dist-info/RECORD",
+    "Lib/site-packages/gdown-5.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/gdown-5.2.0.dist-info/WHEEL",
+    "Lib/site-packages/gdown-5.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/gdown-5.2.0.dist-info/entry_points.txt",
+    "Lib/site-packages/gdown-5.2.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/gdown/__init__.py",
+    "Lib/site-packages/gdown/__main__.py",
+    "Lib/site-packages/gdown/_indent.py",
+    "Lib/site-packages/gdown/cached_download.py",
+    "Lib/site-packages/gdown/download.py",
+    "Lib/site-packages/gdown/download_folder.py",
+    "Lib/site-packages/gdown/exceptions.py",
+    "Lib/site-packages/gdown/extractall.py",
+    "Lib/site-packages/gdown/parse_url.py",
+    ".nonadmin",
+    "Lib/site-packages/gdown/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/gdown/__pycache__/__main__.cpython-311.pyc",
+    "Lib/site-packages/gdown/__pycache__/_indent.cpython-311.pyc",
+    "Lib/site-packages/gdown/__pycache__/cached_download.cpython-311.pyc",
+    "Lib/site-packages/gdown/__pycache__/download.cpython-311.pyc",
+    "Lib/site-packages/gdown/__pycache__/download_folder.cpython-311.pyc",
+    "Lib/site-packages/gdown/__pycache__/exceptions.cpython-311.pyc",
+    "Lib/site-packages/gdown/__pycache__/extractall.cpython-311.pyc",
+    "Lib/site-packages/gdown/__pycache__/parse_url.cpython-311.pyc",
+    "Scripts/gdown-script.py",
+    "Scripts/gdown.exe"
+  ],
+  "fn": "gdown-5.2.0-pyhd8ed1ab_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\gdown-5.2.0-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "0b2ab6adce98f0dcf1dfd3f11343e5cd",
+  "name": "gdown",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\gdown-5.2.0-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/gdown-5.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/gdown-5.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "5cffa10dcc7b604bd1b5aa533d8da0bb1ee30d7298860bcc43327b7ad9dca7a6",
+        "sha256_in_prefix": "5cffa10dcc7b604bd1b5aa533d8da0bb1ee30d7298860bcc43327b7ad9dca7a6",
+        "size_in_bytes": 5733
+      },
+      {
+        "_path": "site-packages/gdown-5.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "8ab932573bc3fdddea0bdfac54f491fa266a7028285d553d04234c5fd6159267",
+        "sha256_in_prefix": "8ab932573bc3fdddea0bdfac54f491fa266a7028285d553d04234c5fd6159267",
+        "size_in_bytes": 1849
+      },
+      {
+        "_path": "site-packages/gdown-5.2.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/gdown-5.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "0b615483066088b6f39d1fa4d1bff9937022ff568048e5c3b2cde5cc252c52e8",
+        "sha256_in_prefix": "0b615483066088b6f39d1fa4d1bff9937022ff568048e5c3b2cde5cc252c52e8",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "site-packages/gdown-5.2.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "08b9535ec4fd7aa6cac0841c9739edbcf27e6a039aadf29eaa1c1ca125388872",
+        "sha256_in_prefix": "08b9535ec4fd7aa6cac0841c9739edbcf27e6a039aadf29eaa1c1ca125388872",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "site-packages/gdown-5.2.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "17728553f6120026c9c87b2bf0e9dac8dd71bcfec574f0c739c3b9e963718f55",
+        "sha256_in_prefix": "17728553f6120026c9c87b2bf0e9dac8dd71bcfec574f0c739c3b9e963718f55",
+        "size_in_bytes": 46
+      },
+      {
+        "_path": "site-packages/gdown-5.2.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "406407f00dbe36af569f5c85b1ff6b5a49c49c2a99f2bc05c437389a67315f3d",
+        "sha256_in_prefix": "406407f00dbe36af569f5c85b1ff6b5a49c49c2a99f2bc05c437389a67315f3d",
+        "size_in_bytes": 1057
+      },
+      {
+        "_path": "site-packages/gdown/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "04813ba9dcce1e0ae90c956349781e06594d3b35b7d1c11b24bc76d872e9bfc9",
+        "sha256_in_prefix": "04813ba9dcce1e0ae90c956349781e06594d3b35b7d1c11b24bc76d872e9bfc9",
+        "size_in_bytes": 311
+      },
+      {
+        "_path": "site-packages/gdown/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "d66fff1722ca6e343c72880b008d85f68467cabc8235ffad204a087ae48dbe2a",
+        "sha256_in_prefix": "d66fff1722ca6e343c72880b008d85f68467cabc8235ffad204a087ae48dbe2a",
+        "size_in_bytes": 6309
+      },
+      {
+        "_path": "site-packages/gdown/_indent.py",
+        "path_type": "hardlink",
+        "sha256": "6dc52034cb87d8e39eeb661f32166b57c8dc7c94a4700f56b942cb0948a73600",
+        "sha256_in_prefix": "6dc52034cb87d8e39eeb661f32166b57c8dc7c94a4700f56b942cb0948a73600",
+        "size_in_bytes": 223
+      },
+      {
+        "_path": "site-packages/gdown/cached_download.py",
+        "path_type": "hardlink",
+        "sha256": "9badb37ac5e8d927410545f453555d8907883b4095b69ce8a5431eceabf0fb1d",
+        "sha256_in_prefix": "9badb37ac5e8d927410545f453555d8907883b4095b69ce8a5431eceabf0fb1d",
+        "size_in_bytes": 5174
+      },
+      {
+        "_path": "site-packages/gdown/download.py",
+        "path_type": "hardlink",
+        "sha256": "25a72cbed857190c010762291c7484f1e9fb7d9df17d7bf74bb26a14cd48ed56",
+        "sha256_in_prefix": "25a72cbed857190c010762291c7484f1e9fb7d9df17d7bf74bb26a14cd48ed56",
+        "size_in_bytes": 13336
+      },
+      {
+        "_path": "site-packages/gdown/download_folder.py",
+        "path_type": "hardlink",
+        "sha256": "ad0042b99e7adbaff1c4adf542ba60838887b9d66ff7a96555c736168132d143",
+        "sha256_in_prefix": "ad0042b99e7adbaff1c4adf542ba60838887b9d66ff7a96555c736168132d143",
+        "size_in_bytes": 11085
+      },
+      {
+        "_path": "site-packages/gdown/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "e4c890d55208bf2b08aa79b6143714d6177dba04699e2ab5d4379d12edc7e61d",
+        "sha256_in_prefix": "e4c890d55208bf2b08aa79b6143714d6177dba04699e2ab5d4379d12edc7e61d",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/gdown/extractall.py",
+        "path_type": "hardlink",
+        "sha256": "bd9aa06a012b707f9df2334bd9359a46cbfa973e45978f9b5b347c13de02c1d7",
+        "sha256_in_prefix": "bd9aa06a012b707f9df2334bd9359a46cbfa973e45978f9b5b347c13de02c1d7",
+        "size_in_bytes": 1310
+      },
+      {
+        "_path": "site-packages/gdown/parse_url.py",
+        "path_type": "hardlink",
+        "sha256": "472142c28e9edcf3283a06ee5ea6047f5a3ec3fb17dc1c84a97a19b1c8cbfd33",
+        "sha256_in_prefix": "472142c28e9edcf3283a06ee5ea6047f5a3ec3fb17dc1c84a97a19b1c8cbfd33",
+        "size_in_bytes": 1878
+      },
+      {
+        "_path": "Lib/site-packages/gdown/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gdown/__pycache__/__main__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gdown/__pycache__/_indent.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gdown/__pycache__/cached_download.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gdown/__pycache__/download.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gdown/__pycache__/download_folder.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gdown/__pycache__/exceptions.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gdown/__pycache__/extractall.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/gdown/__pycache__/parse_url.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/gdown-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/gdown.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "556243e37e12cb99461e782b1713d24e0d134b2bcc66930ec8d7bfde10d52c3d",
+  "size": 21891,
+  "subdir": "noarch",
+  "timestamp": 1734276919000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/gdown-5.2.0-pyhd8ed1ab_1.conda",
+  "version": "5.2.0"
+}

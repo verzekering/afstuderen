@@ -1,0 +1,216 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [
+    "jupyter_leaflet 0.20.0*"
+  ],
+  "depends": [
+    "jupyter_leaflet",
+    "python >=3.9",
+    "ipywidgets >=7.6.0,<9",
+    "traittypes >=0.2.1,<0.3.0",
+    "xyzservices >=2021.8.1",
+    "branca >=0.5.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\ipyleaflet-0.20.0-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/ipyleaflet-0.20.0.dist-info/INSTALLER",
+    "Lib/site-packages/ipyleaflet-0.20.0.dist-info/METADATA",
+    "Lib/site-packages/ipyleaflet-0.20.0.dist-info/RECORD",
+    "Lib/site-packages/ipyleaflet-0.20.0.dist-info/REQUESTED",
+    "Lib/site-packages/ipyleaflet-0.20.0.dist-info/WHEEL",
+    "Lib/site-packages/ipyleaflet-0.20.0.dist-info/direct_url.json",
+    "Lib/site-packages/ipyleaflet-0.20.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/ipyleaflet/__init__.py",
+    "Lib/site-packages/ipyleaflet/_version.py",
+    "Lib/site-packages/ipyleaflet/basemaps.py",
+    "Lib/site-packages/ipyleaflet/external/__init__.py",
+    "Lib/site-packages/ipyleaflet/external/here.py",
+    "Lib/site-packages/ipyleaflet/leaflet.py",
+    "Lib/site-packages/ipyleaflet/projections.py",
+    "Lib/site-packages/ipyleaflet/velocity.py",
+    "Lib/site-packages/ipyleaflet/xarray_ds.py",
+    ".nonadmin",
+    "Lib/site-packages/ipyleaflet/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/ipyleaflet/__pycache__/_version.cpython-311.pyc",
+    "Lib/site-packages/ipyleaflet/__pycache__/basemaps.cpython-311.pyc",
+    "Lib/site-packages/ipyleaflet/external/__pycache__/__init__.cpython-311.pyc",
+    "Lib/site-packages/ipyleaflet/external/__pycache__/here.cpython-311.pyc",
+    "Lib/site-packages/ipyleaflet/__pycache__/leaflet.cpython-311.pyc",
+    "Lib/site-packages/ipyleaflet/__pycache__/projections.cpython-311.pyc",
+    "Lib/site-packages/ipyleaflet/__pycache__/velocity.cpython-311.pyc",
+    "Lib/site-packages/ipyleaflet/__pycache__/xarray_ds.cpython-311.pyc"
+  ],
+  "fn": "ipyleaflet-0.20.0-pyhd8ed1ab_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\ipyleaflet-0.20.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "5005a985651bc467f48d17f733dd3c18",
+  "name": "ipyleaflet",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\odin0\\AppData\\Local\\ESRI\\conda\\pkgs\\ipyleaflet-0.20.0-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/ipyleaflet-0.20.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/ipyleaflet-0.20.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "21a010a7ca7189437e99971ef21aec76565ba5ff0405b9f6b1d576d7658fdedf",
+        "sha256_in_prefix": "21a010a7ca7189437e99971ef21aec76565ba5ff0405b9f6b1d576d7658fdedf",
+        "size_in_bytes": 5267
+      },
+      {
+        "_path": "site-packages/ipyleaflet-0.20.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "ffdb4f048eb106de5d3df5155320d4147ed6b59a12787170181731e36b207797",
+        "sha256_in_prefix": "ffdb4f048eb106de5d3df5155320d4147ed6b59a12787170181731e36b207797",
+        "size_in_bytes": 1806
+      },
+      {
+        "_path": "site-packages/ipyleaflet-0.20.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/ipyleaflet-0.20.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+        "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "site-packages/ipyleaflet-0.20.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "6aef7a08079eab798eaff72c34305cbb7828b7afac715d6117c25baa97b31af2",
+        "sha256_in_prefix": "6aef7a08079eab798eaff72c34305cbb7828b7afac715d6117c25baa97b31af2",
+        "size_in_bytes": 126
+      },
+      {
+        "_path": "site-packages/ipyleaflet-0.20.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "95da5ea1b58ad046eb1a7ed331410a99d3204f06cec056b10aba45fabefd7f78",
+        "sha256_in_prefix": "95da5ea1b58ad046eb1a7ed331410a99d3204f06cec056b10aba45fabefd7f78",
+        "size_in_bytes": 1101
+      },
+      {
+        "_path": "site-packages/ipyleaflet/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6328a551cd835e8493e0a27a9135e3f5b1aac0cd4b6fe5fd10721ab8233bf415",
+        "sha256_in_prefix": "6328a551cd835e8493e0a27a9135e3f5b1aac0cd4b6fe5fd10721ab8233bf415",
+        "size_in_bytes": 343
+      },
+      {
+        "_path": "site-packages/ipyleaflet/_version.py",
+        "path_type": "hardlink",
+        "sha256": "06cfa32a0d5ed67114ef45feb67f1e3cda509b56a710b13691f1ae3f10f5ee6a",
+        "sha256_in_prefix": "06cfa32a0d5ed67114ef45feb67f1e3cda509b56a710b13691f1ae3f10f5ee6a",
+        "size_in_bytes": 153
+      },
+      {
+        "_path": "site-packages/ipyleaflet/basemaps.py",
+        "path_type": "hardlink",
+        "sha256": "cb12fd34e12aae9a43dcf706190f96dc8b3c99aa42d9d8e3e69903c80cdd5575",
+        "sha256_in_prefix": "cb12fd34e12aae9a43dcf706190f96dc8b3c99aa42d9d8e3e69903c80cdd5575",
+        "size_in_bytes": 412
+      },
+      {
+        "_path": "site-packages/ipyleaflet/external/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/ipyleaflet/external/here.py",
+        "path_type": "hardlink",
+        "sha256": "803b1d2c9deb0310eb265cfb94ec515e1a95333ef8d7a93eefe608792fa8b021",
+        "sha256_in_prefix": "803b1d2c9deb0310eb265cfb94ec515e1a95333ef8d7a93eefe608792fa8b021",
+        "size_in_bytes": 386
+      },
+      {
+        "_path": "site-packages/ipyleaflet/leaflet.py",
+        "path_type": "hardlink",
+        "sha256": "463f2ed28f8e0c365a6ac2216f75b625c96d3eeb14a2ccacd75a8b9c738193b1",
+        "sha256_in_prefix": "463f2ed28f8e0c365a6ac2216f75b625c96d3eeb14a2ccacd75a8b9c738193b1",
+        "size_in_bytes": 112853
+      },
+      {
+        "_path": "site-packages/ipyleaflet/projections.py",
+        "path_type": "hardlink",
+        "sha256": "266dce42b95c10abbcf8af47ff51db55ef6273c31e6d237935b8cb30f9c79a6c",
+        "sha256_in_prefix": "266dce42b95c10abbcf8af47ff51db55ef6273c31e6d237935b8cb30f9c79a6c",
+        "size_in_bytes": 4748
+      },
+      {
+        "_path": "site-packages/ipyleaflet/velocity.py",
+        "path_type": "hardlink",
+        "sha256": "016befde4d97702d61f5e73444ed4be998998dc9eccf53e9168ee03413a0f37b",
+        "sha256_in_prefix": "016befde4d97702d61f5e73444ed4be998998dc9eccf53e9168ee03413a0f37b",
+        "size_in_bytes": 3273
+      },
+      {
+        "_path": "site-packages/ipyleaflet/xarray_ds.py",
+        "path_type": "hardlink",
+        "sha256": "13b00641882b7e1ba88ab4e115ec1057942c908dcd2319399b21cc01880c5081",
+        "sha256_in_prefix": "13b00641882b7e1ba88ab4e115ec1057942c908dcd2319399b21cc01880c5081",
+        "size_in_bytes": 3535
+      },
+      {
+        "_path": "Lib/site-packages/ipyleaflet/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipyleaflet/__pycache__/_version.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipyleaflet/__pycache__/basemaps.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipyleaflet/external/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipyleaflet/external/__pycache__/here.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipyleaflet/__pycache__/leaflet.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipyleaflet/__pycache__/projections.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipyleaflet/__pycache__/velocity.cpython-311.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ipyleaflet/__pycache__/xarray_ds.cpython-311.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "732befa245b4497631c3ba16fc817ed091c590f8737ffa9c10711879b61aa374",
+  "size": 34524,
+  "subdir": "noarch",
+  "timestamp": 1749843287000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/ipyleaflet-0.20.0-pyhd8ed1ab_0.conda",
+  "version": "0.20.0"
+}
