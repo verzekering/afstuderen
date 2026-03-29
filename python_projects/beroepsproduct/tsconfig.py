@@ -3,44 +3,52 @@
 # =========================
 
 
-# # Groundwater data extent (EPSG:3857)
-# GW_EXTENT_3857 = "492113.76, 6780550.11 : 492204.31, 6780597.59"
-# GW_EXTENT_LON_LAT = ""
-
-# # NDVI extent (EPSG:3857)
-# NDVI_EXTENT_3857 = ""
-# NDVI_EXTENT_LON_LAT = ""
-
-#Ommoord:
 # Groundwater data extent (EPSG:3857)
-GW_EXTENT_3857 = "505687.9, 6792924.9 : 505780.7, 6792987.8"
+GW_EXTENT_3857 = ""
 GW_EXTENT_LON_LAT = ""
 
 # NDVI extent (EPSG:3857)
-NDVI_EXTENT_3857 = "501571, 6790874 : 509877, 6795228"
+NDVI_EXTENT_3857 = ""
 NDVI_EXTENT_LON_LAT = ""
+
+# #Ommoord:
+# # Groundwater data extent (EPSG:3857)
+# GW_EXTENT_3857 = "505687.9, 6792924.9 : 505780.7, 6792987.8"
+# GW_EXTENT_LON_LAT = ""
+
+# # NDVI extent (EPSG:3857)
+# NDVI_EXTENT_3857 = "501571, 6790874 : 509877, 6795228"
+# NDVI_EXTENT_LON_LAT = ""
 
 # #Heijplaat:
 # # Groundwater data extent (EPSG:3857)
-# GW_EXTENT_3857 = "492113.76, 6780550.11 : 492204.31, 6780597.59"
+# GW_EXTENT_3857 =  "492113.76, 6780550.11 : 492204.31, 6780597.59"
 # GW_EXTENT_LON_LAT = " "
 
 # # NDVI extent (EPSG:3857)
 # NDVI_EXTENT_3857 = "490616, 6779463 : 494445, 6781538"
 # NDVI_EXTENT_LON_LAT = ""
 
+#Delfshaven:
+# Groundwater data extent (EPSG:3857)
+GW_EXTENT_3857 =  "496260.6, 6785051.7 : 496504.3, 6785214.6" # GMW000000037950001
+GW_EXTENT_LON_LAT = " "
+
+# NDVI extent (EPSG:3857)
+NDVI_EXTENT_3857 = "495774, 6783735 : 496988, 6786341"
+NDVI_EXTENT_LON_LAT = ""
 
 # =========================
 # Temporal configuration
 # =========================
 
 # Groundwater data date range
-START_DATE = "2025-01-01"
+START_DATE = "2022-01-01"
 END_DATE   = "2025-12-31"
 
 # Models
 # NDVI data date range
-NDVI_START_DATE = "2021-04-1"
+NDVI_START_DATE = "2022-04-1"
 NDVI_END_DATE   = "2025-12-31"
 
 
